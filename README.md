@@ -17,8 +17,6 @@ Universidad Peruana de Ciencias Aplicadas
 ### Producto: MoviGestion
 ### Integrantes:
 
-<center>
-
 <table align="center">
     <tr>
         <th>Nombre</th>
@@ -46,8 +44,6 @@ Universidad Peruana de Ciencias Aplicadas
     </tr>
 </table>
 
-
-</center>
 
 <center> Abril, 2024</center>
 

@@ -493,11 +493,11 @@ De las entrevistas realizadas podemos determinar ciertos aspectos.
 
 CONDUCTOR
 
-![User Persona Transportista](http://drive.google.com/uc?export=view&id=11onQm2QL_AqS7FAnasnx_SlUsP7mIqg8)
+![User Persona Transportista](/assets/chapter02/UserPersona%20Transportista.png)
 
 EMPRESARIO
 
-![User Persona Empresario](http://drive.google.com/uc?export=view&id=1w_yWVXZzAqRjgDEfI89id8Gs57If90xu)
+![User Persona Empresario](/assets/chapter02/UserPersona%20Empresario.png)
 
 
 
@@ -535,11 +535,11 @@ Tanto los empresarios como los transportistas valoran la eficiencia operativa, c
 
 CONDUCTOR
 
-![Journey Transportista](http://drive.google.com/uc?export=view&id=1So3GaJAZKg6EUm7_we1xgi6bIVfNCP2e)
+![Journey Transportista](/assets/chapter02/journey%20conductor.png)
 
 EMPRESARIO
 
-![Journey Empresario](http://drive.google.com/uc?export=view&id=1n8RpB1aXxKDUj-RL_2eIriTWWKV7ml2c)
+![Journey Empresario](/assets/chapter02/Journey%20Map%20Empresario.png)
 
 
 
@@ -547,22 +547,22 @@ EMPRESARIO
 
 TRANSPORTISTA
 
-![Empathy Mapping Transportista](http://drive.google.com/uc?export=view&id=1ScSIZDzwsM5IG7i2u5UE2D1_yaUzstbz)
+![Empathy Mapping Transportista](/assets/chapter02/empatyMap%20Transportista.png)
 
 EMPRESARIO
 
-![Empathy Mapping Empresario](http://drive.google.com/uc?export=view&id=1_F0dt2nUWZ47izDhGhdKcqypU_kNUFwy)
+![Empathy Mapping Empresario](/assets/chapter02/empathyMap%20empresario.png)
 
 
 ### 2.3.5 As-is Scenario Mapping
 
 CONDUCTOR
 
-![As-Is Conductor](http://drive.google.com/uc?export=view&id=1fvI9HXYspcVTJKkoNGgzYzmdB0IQ7BfP)
+![As-Is Conductor](/assets/chapter02/as-is%20transportistas.png)
 
 EMPRESARIO
 
-![As-Is Empresario](http://drive.google.com/uc?export=view&id=1ruPyKQBji_OTKrEpI5Te-WJPvIY34e9w)
+![As-Is Empresario](/assets/chapter02/as-is%20empresarios.png)
 
 ## 2.4 Ubiquitous Language
 

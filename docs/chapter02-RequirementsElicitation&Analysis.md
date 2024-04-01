@@ -393,9 +393,9 @@ TRANSPORTISTAS
 
 ENTREVISTA 1:
 
-![Entrevista 1 Transportistas](http://drive.google.com/uc?export=view&id=1uPQmzhiGYfqR2OqecIX4xLjZbzsZJWFZ)
+![Entrevista 1 Transportistas](/assets/chapter02/TransEntrevista%201.png)
 
-https://upcedupe-my.sharepoint.com/:v:/g/personal/u202217633_upc_edu_pe/EXSD46lHMXBHhtXU68u21MAB1k4GPVrGtb73aiHuhk-O4A?e=baM5qv
+LINK: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202217633_upc_edu_pe/EXSD46lHMXBHhtXU68u21MAB1k4GPVrGtb73aiHuhk-O4A?e=baM5qv
 
 Inicia: 0:00
 
@@ -422,9 +422,9 @@ Le gustaría crear una empresa aprovechando la experiencia que tiene en el rubro
 
 ENTREVISTA 2:
 
-![Entrevista 2 Transportistas](http://drive.google.com/uc?export=view&id=1D-57fks4FfQc2YbKrS3x3xF7MM9aQ34i)
+![Entrevista 2 Transportistas](/assets/chapter02/TransEntrevista%202.png)
 
-https://upcedupe-my.sharepoint.com/:v:/g/personal/u202217633_upc_edu_pe/Ee0tJI_1TaVDlx1FOyZIwjwBiTQSNEtbkeaMh9ggxyFgFQ?e=vercnA
+LINK: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202217633_upc_edu_pe/Ee0tJI_1TaVDlx1FOyZIwjwBiTQSNEtbkeaMh9ggxyFgFQ?e=vercnA
 
 Inicia: 0:00 
 
@@ -448,9 +448,9 @@ Tiene idea a futuro de crear una empresa de transporte dado su experiencia en va
 
 ENTREVISTA 3:
 
-![Entrevista 3 Transportistas](http://drive.google.com/uc?export=view&id=1SItMuDN0DGpaF7AQj7WrfCBB16KpL_kc)
+![Entrevista 3 Transportistas](/assets/chapter02/TransEntrevista%203.png)
 
-https://upcedupe-my.sharepoint.com/:v:/g/personal/u202217633_upc_edu_pe/EY5rIHwdoYJEo1060clcg08Bj9EUW4PKzVWG0qSQZ9iLKw?e=qVv4x8
+LINK: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202217633_upc_edu_pe/EY5rIHwdoYJEo1060clcg08Bj9EUW4PKzVWG0qSQZ9iLKw?e=qVv4x8
 
 Inicia: 0:00 
 

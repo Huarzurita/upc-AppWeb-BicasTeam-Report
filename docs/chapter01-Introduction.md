@@ -99,10 +99,10 @@ Los segmentos objetivos de MoviGestion son:
 
 **Empresarios**: Aquellos que son responsables de administrar sistemas de transporte dentro de sus empresas. Este segmento busca herramientas que les permitan optimizar la gestión de flotas, mejorar la eficiencia operativa y tomar decisiones informadas para maximizar la rentabilidad.
 
-![Imagen de Empresarios](http://drive.google.com/uc?export=view&id=13DTbP2hM-28Z74sVwemTrnRurpX9JPyO)
+![Imagen de Empresarios](/assets/chapter01/chap1%20empresario.jpg)
 <!-- CÓDIGO PARA MODIFICAR EL TAMAÑO <img src="https://delcorp.pe/wp-content/uploads/2017/07/motorizado_inhousev2.jpg" alt="Imagen de Empresarios" width="400" height="350"> -->
 
 
 **Transportistas**: Individuos o empresas que se dedican al transporte de mercancías o pasajeros y que buscan una organización eficiente en la gestión de sus operaciones. Este segmento necesita herramientas que les ayuden a planificar rutas, monitorear el rendimiento de los conductores y vehículos, y garantizar la puntualidad en las entregas.
 
-![Imagen de Transportistas](http://drive.google.com/uc?export=view&id=18e7pbNmpAPRGeXYbzycyRqKY3368ncEz)
+![Imagen de Transportistas](/assets/chapter01/chap1%20transportistas.jpeg)

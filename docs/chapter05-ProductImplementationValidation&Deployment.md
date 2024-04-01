@@ -4,6 +4,8 @@
 
 ### 5.1.1 Software Development Environment Configuration
 
+Para el desarrollo de este proyecto, primero debemos decidir el entorno de programación del sitio web, por eso hemos decidido emplear la aplicación JetBrains, la cual ofrece una variedad de herramientas para el desarrollo de software. Nuestra decisión por usar esta herramienta se basa en su amplio conjunto de características, su integración fluida, su sólido soporte y su continua evolución, lo que la convierte en una opción confiable y poderosa para el proyecto. Ademas usaremos para la aplicacion web Vue3, ya que ofrece varias ventajas que lo hacen atractivo para este proyecto específico.Vue 3 presenta un sistema de reactividad más eficiente y optimizado, lo que permite un rendimiento más rápido y una mejor gestión del estado de la aplicación. Estas características, junto con las herramientas proporcionadas por JetBrains, nos permitirán desarrollar una aplicación web robusta y eficiente. Por último, para el control de versiones utilizaremos GitHub, donde crearemos un repositorio colaborativo para mantener y actualizar nuestro proyecto.
+
 ### 5.1.2 Source Code Management.
 
 ### 5.1.3 Source Code Style Guide & Conventions.

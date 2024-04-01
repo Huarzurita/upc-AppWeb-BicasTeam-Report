@@ -3,11 +3,11 @@
 
 CONDUTOR:
 
-![To-Be Conductor](http://drive.google.com/uc?export=view&id=13XO2ldUwBU2K2Tk85qeJkGZs4A3wQZBd)
+![To-Be Conductor](/assets/chapter03/to-be%20transportistas.png)
 
 EMPRESARIO:
 
-![To-Be Empresario](http://drive.google.com/uc?export=view&id=140L0o9TOQ-2vOZv1kPInCdfPtqfeJxVv)
+![To-Be Empresario](/assets/chapter03/to-be%20empresarios.png)
 
 ## 3.2 User Stories
 

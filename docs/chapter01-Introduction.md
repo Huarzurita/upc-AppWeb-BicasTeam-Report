@@ -11,14 +11,13 @@ MoviGestion proporciona una solución completa que abarca todas las necesidades 
 **Visión**: Nos esforzamos por convertirnos en la plataforma líder en gestión de transporte empresarial, siendo reconocidos como un socio confiable y valioso para nuestros clientes. Nuestra visión es transformar la industria del transporte al proporcionar soluciones avanzadas que impulsen el crecimiento y el éxito de las empresas, contribuyendo así al desarrollo sostenible y la eficiencia en la logística a nivel global.
 
 ### 1.1.2 Perfiles de integrantes del equipo
-<!-- Idea de formato -->
 
 | Integrante             | Mauricio Sebastián Chacon Martinez |
 |------------------------|------------------------------------|
 | Codigo del Estudiante  | U202212911                         |
 | Carrera                | Ingeniería de Software             |
 | Descripcion            | Soy estudiante de 5to ciclo de la carrera de Ingeniería de Software. Tengo 18 años. Me gusta la programación y tengo conocimientos en HTML, CSS, JS y C++. Me considero una persona responsable. |
-| Foto                   |                                    |
+| Foto                   | ![Mauricio](/assets/chapter01/mauricio.png) |
 
 
 | Integrante             | Miguel Huarcaya Chavez             |

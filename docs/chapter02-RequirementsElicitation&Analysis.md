@@ -350,24 +350,24 @@ encuentra en el país que perjudican su trabajo?
 
 EMPRESARIOS
 
-<!-- AQUI VA LAS ENTREVISTAS DE LOS EMPRESARIOS - HAGANSE 2 PS GENTE, CON 2 YO CREO QUE ES MAS QUE SUFICIENTE,, NO TIENE QUE SER REALES XD-->
-
 ENTREVISTA 1
 ![Entrevista 1 Empresarios]()
 
-Link:
+Link: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202217633_upc_edu_pe/EQJKCGE27UVLvkmyMhlcoYUBZKqyIwhlrlsPr_NkQlAebQ?e=yR5tyL
 
-Inicia: 
+Inicia: 0:00
 
-Duración:
+Duración: 2:10min
 
-Nombre: 
+Nombre: Marco Tarazona
 
-Edad: 
+Edad: 57 años
 
-Distrito: 
+Distrito: Puente Piedra
 
 RESUMEN:
+
+Marco tiene 10 años de experiencia gestionando flotas de transporte. Trabaja como gestor de camiones para trasladra material de construccion. Normalmente para la asignacion de entregas a cada conductor lo hace verbalme o en otros casos mediante whatsapp. Actualmente en su trabajo no cuentan con una herramienta o sistema que les facilite la gestion de transportes. Considera que le seria muy util una aplicacion para el asignamiento de cada transportista. Por ultimo, nos comento que estaria dispuesto a la implementacion de la app en la empresa.
 
 
 ENTREVISTA 2

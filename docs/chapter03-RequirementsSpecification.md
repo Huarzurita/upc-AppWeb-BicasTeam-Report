@@ -1,7 +1,7 @@
 # Capítulo 3: Requirements Specification
 ## 3.1 To-Be Scenario Mapping
 
-CONDUTOR:
+CONDUCTOR:
 
 ![To-Be Conductor](/assets/chapter03/to-be%20transportistas.png)
 
@@ -10,7 +10,7 @@ EMPRESARIO:
 ![To-Be Empresario](/assets/chapter03/to-be%20empresarios.png)
 
 ## 3.2 User Stories
-
+### 3.2.1 User Stories Web Aplication
 <table>
     <tr>
         <th>Epic ID</th>
@@ -139,8 +139,75 @@ EMPRESARIO:
 <!-- SEPARACION DE EPIC -->
 </table>
 
-## 3.3 Impact Mapping
+### 3.2.2 User Stories Landing Page
 
+<table>
+    <tr>
+        <th>Epic ID</th>
+        <th>Descripcion</th>
+        <th>User Story ID</th>
+        <th>Descripcion</th>
+        <th>Criterios de Aceptacion</th>
+    </tr>
+    <!-- ENCABEZADOS -->
+    <tr>
+        <td rowspan="4">EP08</td>
+        <td rowspan="4">Encabezado</td>
+        <td rowspan="2">US13</td>
+        <td rowspan="2">Como visitante quiero que la pagina me permita dirigirme directamente a la sección que más considere oportuna según la situación </td>
+        <td>Criterio 1 - El visitante puede navegar por la pagina de presentación:<br>DADO el visitante se encuentra en la barra de navegación CUANDO haga clic en la opción de sección de su interés. ENTONCES se redirige automáticamente a la seccion en la pagina</td>
+    </tr>
+    <tr>
+        <td>Criterio 2 - Error de navegacion: <br>DADO el visitante se encuentra en la barra de navegación CUANDO haga clic en la opción de sección de su interés.LUEGO la pagina no enonctrara el apartado elegido. ENTONCES se redirige automáticamente a una pagina de error</td>
+    </tr>
+    <tr>
+        <td rowspan="2">US14</td>
+        <td rowspan="2">Como visitante quiero que la pagina me permita dirigirme directamente a la aplicacion web principal para acceder rapidamente a la aplicacion principal.</td>
+        <td>Criterio 1 - El visitante se redirige a la aplicacion:<br>DADO que el visitante se encuentra en la pagina de presentacion(landing page). Cuando de click al boton "Empezar", entonces se redirigira a la aplicacion</td>
+    </tr>
+    <tr>
+        <td>Criterio 2 - Error de redireccion: <br>DADO el visitante se encuentra en la pagina de presentacion. Cuando le de click al boton "Empezar. Luego la pagina no encontrara la direccion asociada al boton. Entonces se redirigira a una pagina de error."</td>
+    </tr>
+    <!-- SEPARACION EPIC -->
+    <tr>
+        <td rowspan="2">EP09</td>
+        <td rowspan="2">Contenido</td>
+        <td rowspan="2">US14</td>
+        <td rowspan="2">Como visitante quiero que la pagina me brinde información introductoria sobre lo que ofrece tales como servicios, precios y contacto</td>
+        <td>Criterio 1 - El es redirigido segun la seccion elegida:<br>DADO el visitante se encuentra en la barra de navegación CUANDO haga clic en la opción de sección de su interés. ENTONCES se redirige automáticamente a la seccion en la pagina</td>
+    </tr>
+    <tr>
+        <td>Criterio 2 - Error de navegacion: <br>DADO el visitante se encuentra en la barra de navegación CUANDO haga clic en la opción de sección de su interés.LUEGO la pagina no encontrara el apartado elegido. ENTONCES se redirige automáticamente a una pagina de error</td>
+    </tr>
+    <!-- SEPARACION EPIC -->
+    <tr>
+        <td rowspan="2">EP010</td>
+        <td rowspan="2">Seccion footer</td>
+        <td rowspan="2">US15</td>
+        <td rowspan="2">Como visitante quiero que la pagina me brinde información sobre secciones de interés como redes sociales, una barra de navegación y contacto de la empresa</td>
+        <td>Criterio 1 - Visitante recibe informacion adicional:<br>DADO el usuario se encuentra en la sección de “Contacto” CUANDO haga clic en la opción de su interés actual ENTONCES se redirige automáticamente a las redes sociales o se suscriba dejando su correo</td>
+    </tr>
+    <tr>
+        <td>Criterio 2 - Error de navegacion: <br>DADO el visitante se encuentra en la seccion de footer CUANDO haga clic en la opción de sección de su interés.LUEGO la pagina no encontrara el apartado elegido. ENTONCES se redirige automáticamente a una pagina de error</td>
+    </tr>
+    <!-- SEPARACION EPIC -->
+    
+</table>
+
+## 3.3 Impact Mapping
+EMPRESARIO
+![Impact Mapping Empresario 1](/assets/chapter03/ImpactMapGerente1.png)
+
+![Impact Mapping Empresario 2](/assets/chapter03/ImpactMapGerente2.png)
+
+![Impact Mapping Empresario 3](/assets/chapter03/ImpactMapGerente3.png)
+
+TRANSPORTISTA
+![Impact Maapping Transportista 1](/assets/chapter03/ImpactMapTrans1.png)
+
+![Impact Maapping Transportista 2](/assets/chapter03/ImpactMapTrans2.png)
+
+![Impact Maapping Transportista 3](/assets/chapter03/ImpactMapTrans3.png)
 
 ## 3.4 Product Backlog
 

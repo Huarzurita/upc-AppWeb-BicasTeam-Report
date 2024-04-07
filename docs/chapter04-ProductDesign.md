@@ -47,7 +47,7 @@ Por eso usaremos la tipografía Open Sans con un tamaño de 95px y estilo light 
 
 ## 4.2 Information Architecture
 ### 4.2.1 Organization Systems
-
+En el diseño de la interfaz, desarrollando sentimientos de empatía, reforzamos nuestros patrones con colores claros para llenar un confort en su estado mental con los siguientes principios de usabilidad.
 (IMAGEN)
 
 ### 4.2.2 Labeling Systems
@@ -59,6 +59,7 @@ Por eso usaremos la tipografía Open Sans con un tamaño de 95px y estilo light 
 ### 4.2.4 Searching Systems
 
 ### 4.2.5 Navigation Systems
+
 
 (IMAGEN)
 

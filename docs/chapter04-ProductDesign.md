@@ -86,11 +86,13 @@ Por eso usaremos la tipografía Open Sans con un tamaño de 95px y estilo light 
 ## 4.6 Domain-Driven Software Architecture
 
 ### 4.6.1 Software Architecture Context Diagram
-
+![Context Diagram](/assets/chapter04/Software%20Architecture%20Context%20Diagram.jpeg)
 ### 4.6.2 Software Architecture Container Diagrams
+![Container Diagrams](/assets/chapter04/Software%20Architecture%20Container%20Diagrams.jpeg)
 
 ### 4.6.3 Software Architecture Components Diagrams
-
+![Components Diagrams](/assets/chapter04/Software%20Architecture%20Components%20Diagrams%201.jpeg)
+![Components Diagrams](/assets/chapter04/Software%20Architecture%20Components%20Diagrams%202.jpeg)
 ## 4.7 Software Object-Oriented Design
 
 ### 4.7.1 Class Diagrams

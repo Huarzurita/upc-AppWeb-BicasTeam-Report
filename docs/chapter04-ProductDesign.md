@@ -59,6 +59,13 @@ En el diseño de la interfaz, desarrollando sentimientos de empatía, reforzamos
 ### 4.2.4 Searching Systems
 
 ### 4.2.5 Navigation Systems
+Las técnicas que estamos desarrollando para que los usuarios que aterrizan en nuestra landing page es guiarlos a hacer determinadas acciones las cuales tendrán un valor medible para nuestra empresa.
+Estaremos empleando 2 tipos de conversión de visitantes en usuarios:
+
+Directa: Cuando el visitante de la landing page responde a una oferta o estimulo call-to-action de producto/servicio y toma la acción en concreto para dirigirse a la sección de descarga.
+Indirecta: Cuando el visitante visualiza una plantilla de su interés y para guardarla o hacer uso de ella toma la acción en concreto registrarse y completar la información personal (ejemplo: nombre, email, teléfono, empresa, etc.).
+Para que estos métodos de conversión sean efectivos, estamos empleando el Call-To-Action.
+Usaremos elementos de imágenes que reflejen nuestras ofertas, así como el uso de una frase inspiradora que anime a nuestro visitante a tomar acción.
 
 
 (IMAGEN)

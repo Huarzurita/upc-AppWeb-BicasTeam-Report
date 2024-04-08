@@ -108,5 +108,7 @@ Usaremos elementos de imágenes que reflejen nuestras ofertas, así como el uso 
 ### 4.7.2 Class Dictionary
 
 ## 4.8 Database Design
-
 ### 4.8.1 Database Diagram
+![DAtabase Diagram](/assets/chapter04/DatabaseDiagramMoviGestion.png)
+
+Link for Vetabelo: https://my.vertabelo.com/public-model-view/5yI4V4ChbQGarfXWiMjxVVIcacFNuarlrFWq26NToht19NwAIKDlIQ60hc4OJ0M4?x=1918&y=2759&zoom=0.6028

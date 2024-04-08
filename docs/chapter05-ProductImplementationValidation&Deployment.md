@@ -158,53 +158,43 @@ El objetivo primordial de esta reunión es crear un plan claro y alcanzable para
             <td>Status (To-do / In / Process / ToReview / Done)</td>
         </tr>
         <tr>
-            <td>US01</td>
-            <td>Titulo</td>
+            <td>US13</td>
+            <td>Landing - Navegacion</td>
             <td>T01</td>
-            <td>Titulo</td>
-            <td>Decripcion</td>
+            <td>Implementar menú de navegación en la página de inicio</td>
+            <td>Desarrollar un menú de navegación para la página de inicio, permitiendo a los visitantes acceder fácilmente a secciones relevantes. Esto incluye diseño, identificación de secciones clave y garantía de funcionalidad en diferentes dispositivos, mejorando así la experiencia del usuario.</td>
             <td>40 minutos</td>
             <td>Mauricio</td>
             <td>Done</td>
         </tr>
         <tr>
-            <td>US02</td>
-            <td>Titulo</td>
+            <td>US14</td>
+            <td>Landing - Dirigir a aplicacion web</td>
             <td>T02</td>
-            <td>Titulo</td>
-            <td>Decripcion</td>
+            <td> Integración del Enlace Directo a la Aplicación Web Principal</td>
+            <td>Integrar un enlace directo en la página de inicio para permitir a los visitantes acceder fácilmente a la aplicación web principal, agilizando así su experiencia de navegación.</td>
             <td>1 hora</td>
             <td>Moises</td>
             <td>Done</td>
         </tr>
         <tr>
-            <td>US03</td>
-            <td>Titulo</td>
+            <td>US15</td>
+            <td>Landing - Encabezado</td>
             <td>T03</td>
-            <td>Titulo</td>
-            <td>Decripcion</td>
+            <td>Diseño del Encabezado Informativo</td>
+            <td>Crear un encabezado en la página de inicio para ofrecer información breve sobre los servicios, precios y contacto, facilitando la comprensión de los visitantes sobre lo que ofrece el sitio.</td>
             <td>1 hora</td>
             <td>Miguel</td>
             <td>Done</td>
         </tr>
         <tr>
-            <td>US04</td>
-            <td>Titulo</td>
+            <td>US16</td>
+            <td>Landing - contactoFooter</td>
             <td>T04</td>
-            <td>Titulo</td>
-            <td>Decripcion</td>
+            <td>Diseño del Footer de Contacto</td>
+            <td>Integrar un footer en la página de inicio con enlaces a redes sociales, barra de navegación adicional y detalles de contacto de la empresa para una experiencia de usuario completa.</td>
             <td>1 hora</td>
             <td>Piero</td>
-            <td>Done</td>
-        </tr>
-        <tr>
-            <td>US05</td>
-            <td>Titulo</td>
-            <td>T05</td>
-            <td>Titulo</td>
-            <td>Decripcion</td>
-            <td>50 minutos</td>
-            <td>Elias</td>
             <td>Done</td>
         </tr>
     </table>

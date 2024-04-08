@@ -172,7 +172,7 @@ EMPRESARIO:
     <tr>
         <td rowspan="2">EP09</td>
         <td rowspan="2">Contenido</td>
-        <td rowspan="2">US14</td>
+        <td rowspan="2">US15</td>
         <td rowspan="2">Como visitante quiero que la pagina me brinde información introductoria sobre lo que ofrece tales como servicios, precios y contacto</td>
         <td>Criterio 1 - El es redirigido segun la seccion elegida:<br>DADO el visitante se encuentra en la barra de navegación CUANDO haga clic en la opción de sección de su interés. ENTONCES se redirige automáticamente a la seccion en la pagina</td>
     </tr>
@@ -183,7 +183,7 @@ EMPRESARIO:
     <tr>
         <td rowspan="2">EP010</td>
         <td rowspan="2">Seccion footer</td>
-        <td rowspan="2">US15</td>
+        <td rowspan="2">US16</td>
         <td rowspan="2">Como visitante quiero que la pagina me brinde información sobre secciones de interés como redes sociales, una barra de navegación y contacto de la empresa</td>
         <td>Criterio 1 - Visitante recibe informacion adicional:<br>DADO el usuario se encuentra en la sección de “Contacto” CUANDO haga clic en la opción de su interés actual ENTONCES se redirige automáticamente a las redes sociales o se suscriba dejando su correo</td>
     </tr>
@@ -211,19 +211,24 @@ TRANSPORTISTA
 
 ## 3.4 Product Backlog
 
-<table>
-    <tr>
-        <th>#Orden</th>
-        <th>User Story ID</th>
-        <th>Titulo</th>
-        <th>Descripcion</th>
-        <th>Story Points (1/2/3/5/8)</th>
-    </tr>
-    <tr>
-        <td>1</td>
-        <td>US01</td>
-        <td>title</td>
-        <td>Description</td>
-        <td>1</td>
-    </tr>
-</table>
+| #Orden | User Story ID | Titulo | Descripcion | Story Points (1/2/3/5/8) |
+|--------|---------------|--------|-------------|--------------------------|
+| 1 | US14 | Landing - Dirigir a aplicacion web | Como visitante quiero que la pagina me permita dirigirme directamente a la aplicacion web principal para acceder rapidamente a la aplicacion principal. | 1 |
+| 2 | US13 | Landing - Navegacion | Como visitante quiero que la pagina me permita dirigirme directamente a la sección que más considere oportuna según la situación | 1 |
+| 3 | US15 | Landing - Encabezado | Como visitante quiero que la pagina me brinde información introductoria sobre lo que ofrece tales como servicios, precios y contacto | 1 |
+| 4 | US16 | Landing - contactoFooter | Como visitante quiero que la pagina me brinde información sobre secciones de interés como redes sociales, una barra de navegación y contacto de la empresa | 1 |
+| 5 | US01 | Gerente - AsignarRutas | Como gerente, quiero poder asignar rutas específicas a mis transportistas para distribuir eficientemente los envíos. | 5 |
+| 6 | US06 | Gerente - Asignar Flotas | Como gerente, quiero asignar flotas a mis transportistas para que pueda tener un mayor control sobre la organizacion de mis flotas. | 5 |
+| 7 | US11 | Transportista - EncargosAsignados | Como transportista, quiero poder ver los encargos que me han sido asignados, incluyendo detalles sobre los envíos y destinos correspondientes para poder organizar mejor el orden de mis tareas. | 3 |
+| 8 | US05 | Gerente - Añadirflotas | Como gerente, quiero añadir nuevas flotas a mi negocio para tener un control activo de mis flotas. | 2 |
+| 9 | US07 | Transportista - ReportarTecnico | Como transportista, quiero poder reportar problemas técnicos que surjan durante mis viajes para que el gerente pueda resolverlo lo antes posible. | 3 |
+| 10 | US10 | Transportista - ReportarPaquete | Como transportista, quiero poder reportar problemas con los paquetes que transporto durante mis viajes para que el gerente pueda reportarlo al cliente. | 3 |
+| 11 | US08 | Transportista - ReportarInfracciones | Como transportista, quiero poder reportar infracciones vehiculares que ocurran durante mis viajes para que el gerente pueda tomar las medidas del caso. | 3 |
+| 12 | US09 | Transportista - ReportarAccidentes | Como transportista, quiero poder reportar accidentes en la carretera que ocurran durante mis viajes para que el gerente pueda organizar las futuras rutas. | 3 |
+| 13 | US02 | Gerente - Estadisticas | Como gerente, quiero ver estadísticas detalladas sobre el rendimiento de mis transportistas, incluyendo viajes exitosos, infracciones vehiculares reportadas y problemas con los paquetes. | 2 |
+| 14 | US12 | Transportista - Estadistica | Como transportista, quiero poder ver mis propias estadísticas, incluyendo viajes completados, por completar y cancelados, así como los reportes enviados para tener un control de mi rendimiento. | 2 |
+| 15 | US03 | Gerente - Perfil | Como gerente, quiero poder modificar mi perfil, incluyendo nombre, número de contacto y correo electrónico. | 1 |
+| 16 | US04 | Transportista - Perfil | Como transportista, quiero poder modificar mi perfil, incluyendo nombre, número de contacto y correo electrónico. | 1 |
+
+Jira Software Imagen:
+![Product Backlog](/assets/chapter03/Product%20backlog.png)

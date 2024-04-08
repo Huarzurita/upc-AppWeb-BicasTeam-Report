@@ -213,22 +213,22 @@ TRANSPORTISTA
 
 | #Orden | User Story ID | Titulo | Descripcion | Story Points (1/2/3/5/8) |
 |--------|---------------|--------|-------------|--------------------------|
-| 1 | US14 | Landing - Dirigir a aplicacion web | Como visitante quiero que la pagina me permita dirigirme directamente a la aplicacion web principal para acceder rapidamente a la aplicacion principal. | 1 |
-| 2 | US13 | Landing - Navegacion | Como visitante quiero que la pagina me permita dirigirme directamente a la sección que más considere oportuna según la situación | 1 |
-| 3 | US15 | Landing - Encabezado | Como visitante quiero que la pagina me brinde información introductoria sobre lo que ofrece tales como servicios, precios y contacto | 1 |
-| 4 | US16 | Landing - contactoFooter | Como visitante quiero que la pagina me brinde información sobre secciones de interés como redes sociales, una barra de navegación y contacto de la empresa | 1 |
+| 1 | US14 | Landing - Dirigir a aplicacion web | Como visitante quiero que la pagina me permita dirigirme directamente a la aplicacion web principal para acceder rapidamente a la aplicacion principal. | 2 |
+| 2 | US13 | Landing - Navegacion | Como visitante quiero que la pagina me permita dirigirme directamente a la sección que más considere oportuna según la situación | 2 |
+| 3 | US15 | Landing - Encabezado | Como visitante quiero que la pagina me brinde información introductoria sobre lo que ofrece tales como servicios, precios y contacto | 2 |
+| 4 | US16 | Landing - contactoFooter | Como visitante quiero que la pagina me brinde información sobre secciones de interés como redes sociales, una barra de navegación y contacto de la empresa | 2 |
 | 5 | US01 | Gerente - AsignarRutas | Como gerente, quiero poder asignar rutas específicas a mis transportistas para distribuir eficientemente los envíos. | 5 |
 | 6 | US06 | Gerente - Asignar Flotas | Como gerente, quiero asignar flotas a mis transportistas para que pueda tener un mayor control sobre la organizacion de mis flotas. | 5 |
 | 7 | US11 | Transportista - EncargosAsignados | Como transportista, quiero poder ver los encargos que me han sido asignados, incluyendo detalles sobre los envíos y destinos correspondientes para poder organizar mejor el orden de mis tareas. | 3 |
-| 8 | US05 | Gerente - Añadirflotas | Como gerente, quiero añadir nuevas flotas a mi negocio para tener un control activo de mis flotas. | 2 |
+| 8 | US05 | Gerente - Añadirflotas | Como gerente, quiero añadir nuevas flotas a mi negocio para tener un control activo de mis flotas. | 3 |
 | 9 | US07 | Transportista - ReportarTecnico | Como transportista, quiero poder reportar problemas técnicos que surjan durante mis viajes para que el gerente pueda resolverlo lo antes posible. | 3 |
 | 10 | US10 | Transportista - ReportarPaquete | Como transportista, quiero poder reportar problemas con los paquetes que transporto durante mis viajes para que el gerente pueda reportarlo al cliente. | 3 |
 | 11 | US08 | Transportista - ReportarInfracciones | Como transportista, quiero poder reportar infracciones vehiculares que ocurran durante mis viajes para que el gerente pueda tomar las medidas del caso. | 3 |
 | 12 | US09 | Transportista - ReportarAccidentes | Como transportista, quiero poder reportar accidentes en la carretera que ocurran durante mis viajes para que el gerente pueda organizar las futuras rutas. | 3 |
 | 13 | US02 | Gerente - Estadisticas | Como gerente, quiero ver estadísticas detalladas sobre el rendimiento de mis transportistas, incluyendo viajes exitosos, infracciones vehiculares reportadas y problemas con los paquetes. | 2 |
 | 14 | US12 | Transportista - Estadistica | Como transportista, quiero poder ver mis propias estadísticas, incluyendo viajes completados, por completar y cancelados, así como los reportes enviados para tener un control de mi rendimiento. | 2 |
-| 15 | US03 | Gerente - Perfil | Como gerente, quiero poder modificar mi perfil, incluyendo nombre, número de contacto y correo electrónico. | 1 |
-| 16 | US04 | Transportista - Perfil | Como transportista, quiero poder modificar mi perfil, incluyendo nombre, número de contacto y correo electrónico. | 1 |
+| 15 | US03 | Gerente - Perfil | Como gerente, quiero poder modificar mi perfil, incluyendo nombre, número de contacto y correo electrónico. | 2 |
+| 16 | US04 | Transportista - Perfil | Como transportista, quiero poder modificar mi perfil, incluyendo nombre, número de contacto y correo electrónico. | 2 |
 
 Jira Software Imagen:
 ![Product Backlog](/assets/chapter03/Product%20backlog.png)

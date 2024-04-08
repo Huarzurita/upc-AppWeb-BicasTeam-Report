@@ -7,7 +7,7 @@ CONDUCTOR:
 
 EMPRESARIO:
 
-![To-Be Empresario](/assets/chapter03/to-be%20empresarios.png)
+![To-Be Empresario](/assets/chapter03/to-be%20scenario%20empresario.jpg)
 
 ## 3.2 User Stories
 ### 3.2.1 User Stories Web Aplication

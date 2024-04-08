@@ -558,11 +558,12 @@ EMPRESARIO
 
 CONDUCTOR
 
-![As-Is Conductor](/assets/chapter02/as-is%20transportistas.png)
+![As-Is Conductor](/assets/chapter02/as-is%20scenario%20conductor.jpg)
 
 EMPRESARIO
 
-![As-Is Empresario](/assets/chapter02/as-is%20empresarios.png)
+![As-Is Empresario](/assets/chapter02/as-is%20scenario%20empresario.jpg)
+
 
 ## 2.4 Ubiquitous Language
 

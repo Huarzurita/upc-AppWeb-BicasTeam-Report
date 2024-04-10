@@ -358,3 +358,32 @@ del ABET – EAC - Student Outcome 5
         <td>Es esencial que el equipo se coordine para adaptarse a los cambios de planes en respuesta a los desafíos emergentes. Esta adaptabilidad no solo permite una resolución eficaz de los problemas, sino que también fomenta la resiliencia del equipo, permitiendo una mayor capacidad para manejar futuros obstáculos.</td>
     </tr>
 </table>
+
+# Conclusiones (Avance)
+Durante el desarrollo de este proyecto, se han identificado y analizado las necesidades de los usuarios y las funcionalidades clave requeridas para la aplicación MoviGestion, destinada a gestionar flotas de transporte en diversos ámbitos empresariales. Se han creado historias de usuario detalladas, epics y se han definido criterios de aceptación para garantizar que el producto final cumpla con los requisitos del cliente y las expectativas de los usuarios.
+
+El enfoque en la implementación de un API RESTful ha permitido diseñar y desarrollar funcionalidades que facilitan la interacción con la aplicación desde otras plataformas y sistemas. Las Technical Stories han desempeñado un papel fundamental en la planificación y ejecución de la implementación técnica, asegurando la calidad, la eficiencia y la escalabilidad del sistema.
+
+El análisis de impacto, los mapas de contexto y los mapas de impacto han proporcionado una comprensión profunda de los objetivos del negocio y los beneficios esperados del producto, así como las interacciones y dependencias entre los diferentes elementos del sistema.
+
+# Bibliografia 
+Evans, Eric. "Domain-Driven Design: Tackling Complexity in the Heart of Software." Addison-Wesley Professional, 2003.
+
+Leffingwell, Dean. "Agile Software Requirements: Lean Requirements Practices for Teams, Programs, and the Enterprise." Addison-Wesley Professional, 2010.
+
+
+
+# Anexos
+Link gitHub Repositorio: https://github.com/upc-AppWeb-BicasTeam/upc-AppWeb-BicasTeam-Report.git
+
+Link Github Landing page: https://github.com/upc-AppWeb-BicasTeam/upc-AppWeb-BicasTeam-LandingPage.github.io.git
+
+LandingPage Desplegado:  https://upc-appweb-bicasteam.github.io/upc-AppWeb-BicasTeam-LandingPage.github.io/
+
+Figma Landing Page: https://www.figma.com/file/oSwWYfZnNSnswDhg3Hj8Hi/BicasTeam-AppWeb?type=design&node-id=10%3A2&mode=design&t=swT32jkAXP4WhU5w-1
+
+Figma App Web: https://www.figma.com/file/UznJufoIMBwWow9ny8cXO5/Web-Application_BicasTeam?type=design&node-id=126%3A98&mode=design&t=QAcsG0V5XHFwF6rg-1
+
+PivotalTracker-ProductBacklog: https://www.pivotaltracker.com/projects/2700650
+
+Video EXPO TB1: 

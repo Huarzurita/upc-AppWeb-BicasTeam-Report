@@ -6,118 +6,127 @@ Para administrar la configuración de software de nuestra app, nos centraremos e
 
 ### 5.1.1 Software Development Environment Configuration
 
-En esta sección, detallaremos y explicaremos los productos utilizados en el proyecto digital, así como su propósito y cómo se accede a cada uno de ellos.
+En esta sección, detallaremos y explicaremos los productos utilizados en el proyecto digital, así como su propósito y cómo se accede a cada uno de ellos y siguiendo las restricciones establecidas.
 
-* Project Management:
-Para las reuniones de equipo, se emplearon herramientas como Google Meet y Discord. Asimismo, para gestionar las versiones, se estableció un repositorio colaborativo en GitHub, lo que permitió mantener y modificar el proyecto de forma eficiente mediante commits.
+1. Project Management:
+Para gestionar el proyecto, se utilizaron herramientas de comunicación y control de versiones. Se estableció una organización en GitHub para gestionar el código y las versiones del proyecto. Además, para las reuniones de equipo y la comunicación interna, se utilizaron plataformas como Google Meet y Discord.
+- Github: https://github.com/
+- Google Meet: https://meet.google.com/
+- Discord: https://discord.com/download
 
-* Diseño UX/UI del Producto:
-En la elaboración de los escenarios As-Is y To-Be, así como en el segmetno objetivo y impact mappin, se hizo uso de la plataforma Miro. Respecto a los wireframes, maquetas y prototipos de la aplicación web, se optó por Figma.
+2. Requirements Management:
+Para la gestión de requisitos se llevó a cabo mediante el uso de herramientas personalizadas que permitieron recopilar, organizar y priorizar los requisitos del proyecto de manera eficiente. Se utilizó Trello, una herramienta visual para la gestión de requisitos, permitiendo la creación tableros personalizados para organizar y priorizar las tareas del proyecto que permitió realizar los Task board y Pivotal Tracker, utilizado para gestionar y realizar un seguimiento del Product Backlog del proyecto.
+- Trello: https://trello.com/es
+- Pivotal Tracker: https://www.pivotaltracker.com/
 
-* Desarrollo de Software:
-Para la creación de la página de inicio, se utilizaron las siguientes herramientas:
+3. Product UX/UI Design:
+Para el diseño de la experiencia de usuario (UX) y diseño de interfaz de usuario (UI) del producto se utilizo la herramienta Figma, esta herrmienta permitio al equipo crear wireframes, mockups y prototipos interactivos para visualizar y validad el diseño del producto antes de la implementación.
+Por otro lado, para la creación de User Personas, Empathy Maps, Journey Maps e Impact Maps se utilizó UXPressia y para la creación de As-Is y To-Be Scenario Maps se utilizó Miro.
+- Figma: https://www.figma.com/downloads/
+- UXPressia: https://uxpressia.com/
+- Miro: https://miro.com/es/
 
-Visual Studio Code: Un editor de código optimizado para desarrollar y depurar aplicaciones web y en la nube de manera eficaz.
+4. Software Development:
+Para el desarrollo de software se utilizó HTML5, CSS3 y JavaScript para el desarrollo de la Landing Page de la startup, por otro lado, para la creación del Web Application de la startup se utilizarán el framework de Vue por el lado del Frontend y en el Backend se utilizará ASP.NET Core Framework y C#.
+Para trabajar con estas tecnologías, se emplearon los siguientes IDEs:
+Visual Studio Code: Herramienta principal para el desarrollo Frontend y Backend, que ofrece una amplia gama de extensiones para mejorar la productividad del equipo. (En nuestro caso solo fue utilizado para la Landing Page).
+JetBrains Toolbox: Proporciona un entorno integrado para el desarrollo web, con características avanzadas de edición y depuración que faciitan la creación de aplicaciones web robustas.
+- Visual Studio Code: https://code.visualstudio.com/
+- JetBrains Toolbox: https://www.jetbrains.com/toolbox-app/
 
-HTML: Un lenguaje utilizado para la creación de la página de inicio.
-
-CSS: Un lenguaje empleado para dar estilo y mejorar la presentación de los contenidos.
-
-JavaScript: Un lenguaje de programación utilizado por los desarrolladores para hacer las páginas web más interactivas.
-
-Git: Un sistema de control de versiones distribuido que permite la colaboración del equipo en el proyecto.
-
-* Software Testing:
-Dado que empleamos Visual Studio Code como editor de código, tendremos acceso a la extensión Live Server, la cual nos permite configurar un servidor local para visualizar instantáneamente las modificaciones realizadas en un navegador web como Microsoft Edge o Chrome. Además, para llevar a cabo pruebas de aceptación, utilizaremos Gherkin y luego cargaremos los resultados en el repositorio.
-
-* Software Deployment:
-Optaremos por utilizar Github Pages para alojar nuestra página de inicio, dado que se trata de una página estática que no requiere cambios frecuentes. Esta elección es beneficiosa ya que Github Pages permite actualizar el contenido de forma gratuita.
-
-* Software Document:
-En lo que respecta a la documentación del software, emplearemos HTML para crear nuestra página de inicio. Esta página servirá como una fuente de información detallada sobre el software que estamos desarrollando.
+5. Software Documentation:
+La documentación del software se realizó utilizando GitHub, además de ser utilizado como plataforma de control de versiones, GitHub también se empleó para alojar la documentación técnica del proyecto. Se crearon repositorios específicos para almacenar toda la información. La documentación se gestionó mediante archivos Markdown para facilitar la creación y edición colaborativa.
+- GitHub: https://github.com/
 
 ### 5.1.2 Source Code Management.
 
-En esta sección, detallaremos la implementación de GitFlow, un flujo de trabajo para el control de versiones que define diferentes ramas además de la rama principal (main), como la rama de desarrollo (develop). Para GitFlow, cada nueva característica requiere su propia rama, por lo que describiremos las convenciones utilizadas para nombrar estas ramas de características.
+En este proyecto, utilizaremos GitHub como plataforma y sistema de control de versiones para gestionar el código fuente de nuestras diferentes partes del proyecto dentro de una organización.
 
-| *Main: *Esta rama contendrá la versión estable del proyecto, lista para su despliegue.  |
-|-----------------------------------------------------------------------------------------|
+**Repositorios en GitHub**
+- Organización: https://github.com/upc-AppWeb-BicasTeam
+- Landing Page: https://github.com/upc-AppWeb-BicasTeam/upc-AppWeb-BicasTeam-LandingPage
+- Report : https://github.com/upc-AppWeb-BicasTeam/upc-AppWeb-BicasTeam-Report
 
-Develop: En esta rama se agrupan todos los elementos en proceso de desarrollo. Una vez que el trabajo en una funcionalidad está completo y se considera listo para avanzar, se fusionará con la rama de lanzamiento (release).
+**GitFlow Workflow**
+Implementaremos el modelo GitFlow como Workflow de control de versiones, siguiendo las convenciones y prácticas establecidas para una gestión eficiente del desarrollo de software.
+1. **Branches Principales:
+- `main`: Rama principal del repositorio, contiene el código estable y liberado.
+- `develop`: Rama de desarrollo deonde se integran las nuevas características y mejoras.
 
-Feature: Cada miembro del equipo trabajará en su propia rama individual, donde subirá el código asignado para una función específica. Estas ramas de características se integrarán con la rama "develop".
+2. Branches de Funcionalidades (Feature Branches):
+- Para cada nueva funcionalidad, se creará una rama de funcionalidad con el prefijo `feature/`, seguido del nombre descriptivo de la función o característica. En nuestro caso, creamos 5 branches de características correspondientes a los 5 capítulos de nuestro informe, donde se realizan los commits respectivos antes de fusionarlos con la rama develop cuando estén listos.
 
-En cuanto a la convención para nombrar las ramas de características, seguiremos el formato siguiente:
+3. Branches de Lanzamiento (Release Branches) y Branches de Corrección (Hotfix Branches):
+En nuestro caso, no hicimos uso de estas branches ya que no lo vimos necesario al ser solo documentacion del reporte.
 
-| feature_<nombre -integrante>/<breve-descripción>    |
-|-----------------------------------------------------|
+**Versionado Semántico**
+Seguimos la especificación Semantic Versioning 2.0.0 para nombrar nuestras versiones, siguiendo el formato: `MAJOR.MINOR.PATCH`.
 
-Para etiquetar las versiones de lanzamiento, adoptaremos el versionado semántico 2.0.0, que sigue la estructura:
+**Conventional Commits**
+Aplicamos el estándar de Conventional Commits para los mensajes de commit, siguiendo un formato estructurado que describe claramente los cambios realizados. Esto nos ayudó a automatizar la generación de notas de versión y facilitar la comprensión del historial de cambos del proyecto.
 
-| Mayor.Menor.Parche. |
-|---------------------|
-
-El último dígito (Parche) se refiere principalmente a correcciones de errores compatibles con versiones anteriores. El segundo dígito (Menor) aumenta cuando se agregan características compatibles con la versión anterior. El primer dígito (Mayor) se incrementa para cambios significativos que podrían no ser compatibles con la versión anterior.
-
-Finalmente, implementaremos el uso de Conventional Commits para los mensajes de texto en cada commit. Estos mensajes seguirán la estructura:
-
-| type: description |
-|-------------------|
+Con estas prácticas y convenciones adaptadas a una organización en GitHub, buscamos mantener un flujo de desarrollo ordenado, colaborativo y bien documentado.
 
 ### 5.1.3 Source Code Style Guide & Conventions.
 
-Nuestro objetivo es adherirnos a las normativas y pautas de codificación establecidas, provenientes de diversas fuentes como el HTML Style Guide and Coding Conventions, la Guía de Estilo de Codificación para JavaScript y las Convenciones Gherkin para Especificaciones Legibles.
+En esta sección, se establece las convenciones y prácticas que seguiremos para nombrar elementos y programar en los lenguajes utilizados en la solución, que incluyen HTML, CSS, JavaScript, Vue.js, C#, y Gherkin para los archivos `.feature`. Todas las convenciones seguirán la nomenclatura en inglés y adoptarán convenciones estándares de codificación.
 
-**CONVENCIONES A SEGUIR**
-
-**HTML*:
-
-- Es crucial emplear nombres descriptivos para los archivos HTML.
-- Se recomienda seguir una convención de nomenclatura consistente, como camelCase, para nombres de archivos y carpetas.
+1. **HTML y CSS**:
+- Basado en las recomendaciones de W3C y otras fuentes de la comunidad, se establecerán convenciones para el nombramiento de elemntos hTML y estilo de la codificación CSS.
+- Se seguirán las convenciones recomendadas por Google para HTML y CSS, que incluyen el uso de identaciones de 2 espacios, el uso de comillas dobles para atributos y el uso de comentarios descriptivos.
+- Se utilizará la metodologìa BEM para organizar las clases CSS en bloques, elementos y modificadores, lo que facilitará la modularidad y la reutilización del código. 
 - Se debe utilizar los elementos HTML de manera semántica para una correcta descripción del contenido del sitio web, incluyendo el uso adecuado de etiquetas.
-- Mantener una estructura de código clara y legible mediante una adecuada indentación.
-- Se insta a utilizar un estilo de formato uniforme en todo el código para mejorar su mantenibilidad.
+- Para el desarrollo con Vue.js, se adoptarán las convenciones recomendadas por la comunidad de Vue, que incluyen el uso de PascalCase para los nombres y componentes y el uso de camelCase para las propiedades y métodos de los componentes.
 
-**CSS*:
+2. **JavaScript**:
+- Se tomarán en cuenta las directrices proporcionadas por MDN para la escritura de JavaScript, que incluyen el uso de nombres descriptivos para variables y funciones en camelCase, el uso de declaración de variavles con `let` o `const` en lugar de `var`, y el uso de punto y coma al final de cada declaración.
+- Se seguirán las convenciones de codificación recomendadas por Google para JavaScript, que incluyen el uso de comillas simples para literales de cadena, el uso de comentarios descriptivos y el uso de funciones de flecha para expresiones de función.
 
-- Se aconseja utilizar nombres de clases descriptivos y significativos para aplicar estilos a los elementos HTML.
-- Se debe preferir nombres que reflejen la función o propósito del elemento en lugar de su apariencia.
-- Evitar el uso de IDs para estilos, ya que puede resultar en especificidad excesiva y dificultar la reutilización de estilos.
+3. **Vue.js**:
+- Se adoptarán las convenciones de codificación recomendadas por la comunidad de aplicaciones Vue.js, que incluyen el uso de directivas v-bind y v-on abreviadas, el uso de ciclo de vida y la organización de componentes en carpetas y subcarpetas según su función.
 
-**JavaScript*:
+4. **C# (ASP.NET Core)**:
+- Se seguirán las convenciones de codificación establecidas por Microsoft para el lenguaje C#, que incluyen el uso de PascalCase para nombres de clases y métodos, el uso de camelCase para nombres de variables locales y parámetros, y el uso de comentarios XML para documentar el código.
+- Para el desarrollo en ASP.NET Core, se adoptarán las directrices proporcionadas por Microsoft en sus guías de codificación, que incluyen el uso de inyección de dependencias, la separación clara entre capas de la aplicación y el uso de modelos de vista para la comunicación entre el controlador y la vista.
 
-- Se seguirá la convención de camelCase para nombres de variables y funciones en JavaScript.
-- Es importante utilizar espacios o tabulaciones de manera consistente, y asegurarse de mantener una línea de código por línea para mejorar la legibilidad.
+5. **Gherkin**:
+- Se aplicarán las convenciones recomendadas para escribir especificaciones legibles en Gherkin, que incluyen el uso de palabras clave como Given, When y Then para describir el comportamiento del sistema, el uso de un lenguaje sencillo y claro, y la organización de los escenarios en contextos, acciones y resultados.
+- Se seguirán las mejores prácticas recomendadas por Cucumber para escribir escenarios de prueba en Gherkin, que incluyen la reutilización de pasos de prueba, la modularización de escenarios y la escritura de pruebas autoexplicativas.
 
-**Gherkin*:
-
-- Se recomienda utilizar las palabras clave de Gherkin como Given, When, Then para estructurar los escenarios de forma coherente y expresiva.
+Además de estas referencias, se promoverá el uso de buenas prácticas y metodologías estándar en el desarrollo de software, como la modularidad, la reutilización de código, la legibilidad del código, la optimización del rendimiento y la seguridad. 
+Con estas guías de estilo y convenciones de codificación, buscamos asegurar la coherencia, la calidad y la mantenibilidad del código a lo largo de todo el proyecto.
 
 ### 5.1.4 Software Deployment Configuration.
 
-En esta sección, abordaremos la configuración del despliegue de nuestra solución, detallando los pasos necesarios para llevar el Landing Page desde los repositorios de código fuente hasta su implementación final.
+En esta sección, describiremos la configuración necesaria para desplegar satisfactoriamente cada uno de los productos digitales de nuestra solución, incluyendo Landing Page, los Web Services y las Frontend Web Applications.
 
-Para comenzar, crearemos un repositorio en GitHub destinado a almacenar los archivos HTML, CSS y JavaScript pertinentes. Cada miembro del equipo trabajará en su propia rama "feature" para desarrollar componentes específicos del landing page. Una vez que se completa una característica, se fusionará con la rama "develop" para mantener actualizada la versión del landing page. Posteriormente, configuraremos GitHub Pages para publicar la página de destino, utilizando la rama "develop".
+**Pasos para el despliegue**
+1. Landing Page:
+- Clonar o descargar el repositorio desde GitHub.
+- Configurar el servidore web para alojar la Landing Page.
+- Copiar los archivos HTMLS, CSS y JavaScript en el directorio correspondiente del servidor.
+- Configurar cualquier dependencia adicional, como bibliotecas de JavaScript o imágenes.
+- Verificar quue la Landing Page se cargue correctamente en el navegador.
 
-A continuación, detallamos los pasos necesarios para este despliegue en GitHub Pages:
+2. Web Services (API):
+- Preparar el código fuente del servicio web, asegurando que esté correctamente estructurado y documentado.
+- Configurar un entorno de desarrolo o pruebas para realizar pruebas exhaustivas del servicio antes del desplieguee.
+- Desplegar el código en un servidor adecuado para el entorno de producción.
+- Configurar la seguridad y la autenticación según los requisitos del sistema.
+- Documentar la API utilizando OpenAPI Specification para facilitar su integración y uso por parte de otros sistemas.
 
-- Creación de un repositorio público en GitHub y asignación de un nombre apropiado.
-- Configuración de las ramas necesarias siguiendo el flujo de trabajo estándar de Gitflow, que incluye main, release, develop, features y hotfix.
-- Acceso a la sección de ajustes del repositorio y selección de la pestaña Pages.
-- Navegación hacia la sección de configuración para GitHub Pages.
-- Seleccionar la rama "develop" como la rama de despliegue del landing page, manteniendo las demás configuraciones con sus valores predeterminados.
-- Al seleccionar la rama correspondiente, se generará un enlace que proporcionará acceso al landing page. Cada modificación realizada en la rama "develop" se reflejará automáticamente en este enlace.
-- Cada miembro del equipo trabajará en sus propias ramas de características.
-- Se realizarán fusiones entre la rama "develop" y las ramas de características para integrar los avances.
-- Se observarán los cambios reflejados en el enlace proporcionado por GitHub Pages.
-- Finalmente, el landing page estará desplegado y listo para ser visualizado y utilizado.
+3. Frontend Web Applications:
+- Clonar repositorio desde GitHub.
+- Compilar y empaquetar las aplicaciones frontend. En nuestro caso, utilizamos el framework Vue.js, por lo que se debe ejecutar los comandos de construcción (`npm run build`) para generar los archivos estáticos.
+- Una vez empaquetadas, las Frontend Web Applications se pueden servir utilizando un servidor de aplicaciones compatible con archivos estáticos, como Nginx o incluso GitHub Pages para proyectos estáticos más simples.
+- Si es necesario, se deben configurar las rutas en el servidor de aplicaciones para que conincidan con las rutas esperadas por las aplicaciones frontend.
 
 ## 5.2 Landing Page, Services & Applications Implementation.
 
 A continuación, detallaremos nuestra estrategia para ejecutar la implementación, pruebas y lanzamiento de nuestro landing page, así como de los servicios web y la interfaz de usuario de la aplicación web en cada iteración de desarrollo. En relación al Sprint 1, nos concentraremos exclusivamente en explicar el procedimiento de implementación del landing page.
 
-### 5.2.1 Sprint 1
-### 5.2.1.1 Sprint Planning 1
+### 5.2.1 Sprint n
+### 5.2.1.1 Sprint Planning n
 
 El objetivo primordial de esta reunión es crear un plan claro y alcanzable para el sprint, identificando las tareas necesarias y comprometiéndose con un conjunto definido de resultados concretos que impulsen el progreso del proyecto. A continuación, se presenta un resumen del Encuentro de Planificación del Sprint, que ofrecerá una visión general de los temas discutidos y las decisiones tomadas durante la reunión.
 
@@ -136,7 +145,7 @@ El objetivo primordial de esta reunión es crear un plan claro y alcanzable para
 | Sprint 1 Velocity                    | Con el equipo para este sprint 1 decidimos aceptar 4 Story Points      |
 | Sum of Story Points                  | La suma de los Story Points para los User Stories que se están incluyendo en este Sprint 1 es 28 |
 
-### 5.2.1.2 Sprint Backlog 1
+### 5.2.1.2 Sprint Backlog n
 
 <table>
         <tr>

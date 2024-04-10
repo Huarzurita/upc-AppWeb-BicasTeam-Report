@@ -154,12 +154,38 @@ El mockup siguió el orden establecido previamente tanto para el Desktop Web Bro
 ## 4.4 Web Applications UX/UI Design
 
 ### 4.4.1 Web Applications Wireframes
+![Web Applications Wireframes](/assets/chapter04/wireframe.PNG)
+![Web Applications Wireframes](/assets/chapter04/wireframe2.PNG)
+![Web Applications Wireframes](/assets/chapter04/wireframe3.PNG)
 
 ### 4.4.2 Web Applications Wireflow Diagrams
+User Goal: El usuario tiene dos opciones de registro en la aplicación: como “Businessmen” o como “Transportist”.
+
+Si el usuario elige registrarse como “Businessmen”, el proceso comienza en la pantalla de registro, donde se solicitan datos del usuario, como correo electrónico y contraseña, así como datos personales. Si el usuario completa todos los campos requeridos con información válida, acepta los términos y condiciones y hace clic en el botón “Crear cuenta”, se mostrará un formulario. En este formulario, el usuario deberá ingresar los correos electrónicos de los conductores que forman parte de su flota de vehículos. Si el usuario completa este formulario correctamente, aparecerá una ventana con el mensaje “REGISTRO EXITOSO”. Si no, se mostrará un mensaje que indica “El correo es inválido o no existe”.
+
+Si el usuario elige registrarse como “Transportist”, el proceso también comienza en la pantalla de registro, donde se solicitan datos del usuario y datos personales. Si el usuario completa todos los campos requeridos con información válida, acepta los términos y condiciones y hace clic en el botón “Crear cuenta”, aparecerá una ventana con el mensaje “REGISTRO EXITOSO. Ahora eres parte de la organización [Nombre de la Empresa]”. Si no, se mostrará un mensaje que indica “El correo es inválido o no existe”.
+
+![Web Applications Wireflow Diagrams](/assets/chapter04/registro-de-empresario.png)
+![Web Applications Wireflow Diagrams](/assets/chapter04/registro-de-conductor.png)
+
 
 ### 4.4.3 Web Applications Mock-ups
+![Web Applications Mock-ups](/assets/chapter04/macbook-pro-14_-4.png)
+![Web Applications Mock-ups](/assets/chapter04/macbook-pro-14_-3.png)
+![Web Applications Mock-ups](/assets/chapter04/macbook-pro-14_-2.png)
+![Web Applications Mock-ups](/assets/chapter04/macbook-pro-14_-1.png)
+![Web Applications Mock-ups](/assets/chapter04/macbook-pro-14_-3(1).png)
+
 
 ### 4.4.4 Web Applications User Flow Diagrams
+User Goal: El usuario tiene dos opciones de registro en la aplicación: como “Businessmen” o como “Transportist”.
+
+Si el usuario elige registrarse como “Businessmen”, el proceso comienza en la pantalla de registro, donde se solicitan datos del usuario, como correo electrónico y contraseña, así como datos personales. Si el usuario completa todos los campos requeridos con información válida, acepta los términos y condiciones y hace clic en el botón “Crear cuenta”, se mostrará un formulario. En este formulario, el usuario deberá ingresar los correos electrónicos de los conductores que forman parte de su flota de vehículos. Si el usuario completa este formulario correctamente, aparecerá una ventana con el mensaje “REGISTRO EXITOSO”. Si no, se mostrará un mensaje que indica “El correo es inválido o no existe”.
+
+Si el usuario elige registrarse como “Transportist”, el proceso también comienza en la pantalla de registro, donde se solicitan datos del usuario y datos personales. Si el usuario completa todos los campos requeridos con información válida, acepta los términos y condiciones y hace clic en el botón “Crear cuenta”, aparecerá una ventana con el mensaje “REGISTRO EXITOSO. Ahora eres parte de la organización [Nombre de la Empresa]”. Si no, se mostrará un mensaje que indica “El correo es inválido o no existe”.
+![Web Applications User Flow Diagrams](/assets/chapter04/Web%20Application_BicasTeam_page-0001.jpg)
+![Web Applications User Flow Diagrams](/assets/chapter04/Web%20Application_BicasTeam_page-0003.jpg)
+
 
 ## 4.5 Web Applications Prototyping
 

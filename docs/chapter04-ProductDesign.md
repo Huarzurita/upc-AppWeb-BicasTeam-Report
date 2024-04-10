@@ -182,7 +182,32 @@ El mockup siguió el orden establecido previamente tanto para el Desktop Web Bro
 
 ### 4.7.1 Class Diagrams
 
+![Class Diagrams](/assets/chapter04/UML-MoviGestion.png)
+
+Link for LucidChart: https://lucid.app/lucidchart/2d956275-81a0-403d-b9f2-005fa58431f6/edit?viewport_loc=-1886%2C-1663%2C3923%2C1908%2C0_0&invitationId=inv_f6f786bf-d4b8-4d72-bd35-97214589f959
+
 ### 4.7.2 Class Dictionary
+
+En esta seccion se definiran las clase que se identificaron en el Class Diagram:
+
+- **Class Vehicules:** Representa los vehículos en el sistema.
+- **Class ReportVehicule:** Representa los informes relacionados con los vehículos en el sistema.
+- **Classs ReportInfraction:** Representa los informes de infracción relacionados con los vehículos en el sistema.
+- **Class VehiculeFeatures:** Representa las características de los vehículos en el sistema.
+- **Class Feaures:** Representa las características en general.
+- **Class Carriers:** Representa los transportistas en el sistema.
+- **Class CarrierContacts:** Representa los contactos relacionados con los transportistas en el sistema.
+- **Class Managers:** Representa los gerentes en el sistema.
+- **Class ManagerContacts:** Representa los contactos relacionados con los gerentes en el sistema.
+- **Class Items:** Representa los artículos en el sistema.
+- **Class Packet:** Representa los paquetes en el sistema.
+- **Class ReportPacket:** Representa los informes relacionados con los paquetes en el sistema.
+- **Class HasShipped:** Representa los envíos en el sistema.
+- **Class TransportationCost:** Representa los costos de transporte en el sistema.
+- **Class ReportAccident:** Representa los informes relacionados con los accidentes en el sistema.
+- **Class Destination:** Representa los destinos en el sistema.
+- **Class VehiculeRoute:** Representa las rutas de vehículos en el sistema.
+
 
 ## 4.8 Database Design
 ### 4.8.1 Database Diagram

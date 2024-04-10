@@ -123,90 +123,117 @@ En esta sección, describiremos la configuración necesaria para desplegar satis
 
 ## 5.2 Landing Page, Services & Applications Implementation.
 
-A continuación, detallaremos nuestra estrategia para ejecutar la implementación, pruebas y lanzamiento de nuestro landing page, así como de los servicios web y la interfaz de usuario de la aplicación web en cada iteración de desarrollo. En relación al Sprint 1, nos concentraremos exclusivamente en explicar el procedimiento de implementación del landing page.
+En esta sección, describiremos el proceso de implementación, pruebas, documentación y despliegue de la Landing Page, los Web Services y las Frontend Web Applications. Abordaremos cada componente de manera individual a lo largo de los diferentes sprints, comenzando en este Sprint 1 con la implementación específica de la Landing Page. Una vez establecido nuestro Product Backlog, cada sprint se dividirá en secciones internas para abordar cada aspecto de la implementación y la colaboración del equipo.
 
-### 5.2.1 Sprint n
-### 5.2.1.1 Sprint Planning n
+### 5.2.1 Sprint 1
 
-El objetivo primordial de esta reunión es crear un plan claro y alcanzable para el sprint, identificando las tareas necesarias y comprometiéndose con un conjunto definido de resultados concretos que impulsen el progreso del proyecto. A continuación, se presenta un resumen del Encuentro de Planificación del Sprint, que ofrecerá una visión general de los temas discutidos y las decisiones tomadas durante la reunión.
+En esta sección, documentaremos y explicaremos el progreso tanto en el desarrollo del producto como en la colaboración del equipo durante el Sprint 1. Seguimos un proceso definido que abarca desde la planificación hasta la revisión y documentación del trabajo realizado. A lo largo de las siguientes secciones, detallaremos cómo se llevó a cabo la planificación del sprint, qué tareas se incluyeron en el Sprint Backlog, las pruebas y evidencia de desarrollo para la revisión del sprint, así como la documentación de los servicios y las percepciones clave sobre la colaboración del equipo durante este periodo
+
+### 5.2.1.1 Sprint Planning 1
+
+En esta sección, se detallan los aspectos principales del Sprint Planning Meeting para el Sprint n. Este encuentro es crucial para establecer los objetivos del sprint, determinar las user stories que se abordarán y asignar tareas al equipo. A continuación, se presenta un resumen del Sprint Planning Meeting para este período.
 
 | Sprint #                             | Sprint 1           |
 |--------------------------------------|--------------------|
 | Sprint Planning Background                                |
 | Date                                 |  2024-03-23        |
 | Time                                 |  01:30 PM          |
-| Location                             |  Discord           |
+| Location                             |  Virtual (Discord) |
 | Prepared By                          |  Piero Tarazona    |
 | Attendees (to planning meeting)      |  Piero Tarazona, Mauricio Chacon, Elias, Moises Donayre, Miguel |
-| Sprint 1 – 1 Review Summary          |  El primer sprint resultó exitoso en cuanto al progreso del producto de software y la colaboración eficiente del equipo. Los hitos alcanzados y la retroalimentación recopilada durante esta evaluación establecen una base sólida para el próximo sprint y demuestran el compromiso del equipo.  |
-| Sprint 1 – 1 Retrospective Summary   |  La retrospectiva del primer sprint nos permitió analizar el rendimiento del equipo y detectar áreas que requieren mejoras. Este análisis nos servirá como punto de partida para promover la mejora continua y optimizar la colaboración del equipo en los siguientes sprints.  |
+| Sprint 1 – 1 Review Summary          |  Durante el primer sprint, avanzamos significativamente en el desarrollo del producto y logramos una colaboración eficiente dentro del equipo. Alcanzamos hitos importantes y recopilamos retroalimentación valiosa que nos servirá como base para el próximo sprint.  |
+| Sprint 1 – 1 Retrospective Summary   |  En la retrospectiva del primer sprint identificamos áreas para mejorar, como la comunicación y la estimación de tareas. Estamos comprometidos a implementar acciones correctivas y mejorar continuamente nuestro proceso de trabajo.  |
 | Sprint Goal & User Stories                                |
 | Sprint 1 Goal                        | Alcanzar una métrica de cumplimiento del 100%, lo que indicará que se ha logrado los objetivos del sprint 1.        |
-| Sprint 1 Velocity                    | Con el equipo para este sprint 1 decidimos aceptar 4 Story Points      |
-| Sum of Story Points                  | La suma de los Story Points para los User Stories que se están incluyendo en este Sprint 1 es 28 |
+| Sprint 1 Velocity                    | Acordamos aceptar 4 Story Points como nuestra capacidad de entrega para este sprint.     |
+| Sum of Story Points                  | La suma de los Story Points para los User Stories que se están incluyendo en este Sprint 1 es 6 |
 
-### 5.2.1.2 Sprint Backlog n
+### 5.2.1.2 Sprint Backlog 1
 
+El Sprint 1 está centrado en la implementación de las funcionalidades clave de la landing page del sitio web, priorizando las historias de usuario identificadas. Nuestro objetivo principal es proporcionar a los visitantes una experiencia inicial sólida al presentar de manera clara y concisa las características y beneficios del sitio, junto con una navegación intuitiva y acceso rápido a la información relevante. Al completar las tareas asociadas a las historias de usuario definidas, sentaremos las bases para futuras iteraciones, asegurando que la página de inicio cumpla con las expectativas de los usuarios y contribuya al éxito del proyecto.
+
+URL del Board en Trello: https://trello.com/invite/b/9fFNzPVl/ATTId6d62a99d06e758b547d220c4b08a09131B77500/appweb
+![Board Trello](/assets/boardTrello.png)
 <table>
-        <tr>
-            <td colspan="2">Sprint #</td>
-            <td colspan="6">Sprint 1</td>
-        </tr>
-        <tr>
-            <td colspan="2">User Story</td>
-            <td colspan="6">Work-Item / Task</td>
-        </tr>
-        <tr>
-            <td>Id</td>
-            <td>Title</td>
-            <td>Id</td>
-            <td>Title</td>
-            <td>Descripcion</td>
-            <td>Estimation (Hours)</td>
-            <td>Assigned To</td>
-            <td>Status (To-do / In / Process / ToReview / Done)</td>
-        </tr>
-        <tr>
-            <td>US13</td>
-            <td>Landing - Navegacion</td>
-            <td>T01</td>
-            <td>Implementar menú de navegación en la página de inicio</td>
-            <td>Desarrollar un menú de navegación para la página de inicio, permitiendo a los visitantes acceder fácilmente a secciones relevantes. Esto incluye diseño, identificación de secciones clave y garantía de funcionalidad en diferentes dispositivos, mejorando así la experiencia del usuario.</td>
-            <td>40 minutos</td>
-            <td>Mauricio</td>
-            <td>Done</td>
-        </tr>
-        <tr>
-            <td>US14</td>
-            <td>Landing - Dirigir a aplicacion web</td>
-            <td>T02</td>
-            <td> Integración del Enlace Directo a la Aplicación Web Principal</td>
-            <td>Integrar un enlace directo en la página de inicio para permitir a los visitantes acceder fácilmente a la aplicación web principal, agilizando así su experiencia de navegación.</td>
-            <td>1 hora</td>
-            <td>Moises</td>
-            <td>Done</td>
-        </tr>
-        <tr>
-            <td>US15</td>
-            <td>Landing - Encabezado</td>
-            <td>T03</td>
-            <td>Diseño del Encabezado Informativo</td>
-            <td>Crear un encabezado en la página de inicio para ofrecer información breve sobre los servicios, precios y contacto, facilitando la comprensión de los visitantes sobre lo que ofrece el sitio.</td>
-            <td>1 hora</td>
-            <td>Miguel</td>
-            <td>Done</td>
-        </tr>
-        <tr>
-            <td>US16</td>
-            <td>Landing - contactoFooter</td>
-            <td>T04</td>
-            <td>Diseño del Footer de Contacto</td>
-            <td>Integrar un footer en la página de inicio con enlaces a redes sociales, barra de navegación adicional y detalles de contacto de la empresa para una experiencia de usuario completa.</td>
-            <td>1 hora</td>
-            <td>Piero</td>
-            <td>Done</td>
-        </tr>
-    </table>
+    <tr>
+        <td colspan="2">Sprint #</td>
+        <td colspan="6">Sprint 1</td>
+    </tr>
+    <tr>
+        <td colspan="2">User Story</td>
+        <td colspan="6">Work-Item / Task</td>
+    </tr>
+    <tr>
+        <td>Id</td>
+        <td>Title</td>
+        <td>Id</td>
+        <td>Title</td>
+        <td>Descripcion</td>
+        <td>Estimation (Hours)</td>
+        <td>Assigned To</td>
+        <td>Status (To-do / In / Process / ToReview / Done)</td>
+    </tr>
+    <tr>
+        <td>US17</td>
+        <td>Landing - Resumen del sitio web</td>
+        <td>T05</td>
+        <td>Desarrollar resumen claro y conciso sobre las características y beneficios del sitio web en la página de inicio.</td>
+        <td>Crear una sección de resumen en la página de inicio que presente de manera clara y concisa las principales características y beneficios del sitio web, destacando los puntos más relevantes de manera atractiva y fácil de entender.</td>
+        <td>2 hora</td>
+        <td>Piero Tarazona</td>
+        <td>Done</td>
+    </tr>
+    <tr>
+        <td>US18</td>
+        <td>Landing - Resumen de precios</td>
+        <td>T06</td>
+        <td>Implementar acceso claro y visible a la información detallada de los planes ofrecidos en la página de inicio.</td>
+        <td>Integrar un acceso claro y visible en la página de inicio que permita a los visitantes buscar información detallada sobre los planes ofrecidos, incluyendo características, beneficios, limitaciones, términos y condiciones, precio y cualquier otra información relevante.</td>
+        <td>3 hora</td>
+        <td>Mauricio Chacon</td>
+        <td>Done</td>
+    </tr>
+    <tr>
+        <td>US19</td>
+        <td>Landing - Información a pie de página</td>
+        <td>T07</td>
+        <td>Desarrollar un resumen claro y conciso del sitio web al final de la página de inicio.</td>
+        <td>Crear un resumen al final de la página de inicio que destaque los aspectos más relevantes del sitio web, como las características principales, los servicios ofrecidos, la información de contacto y cualquier otra información importante para los visitantes.</td>
+        <td>1 hora</td>
+        <td>Miguel Huarcaya</td>
+        <td>Done</td>
+    </tr>
+    <tr>
+        <td>US20</td>
+        <td>Landing - Ir a aplicación web directamente</td>
+        <td>T08</td>
+        <td>Integrar un llamado a la acción claro y visible para dirigir a los visitantes a la aplicación web principal.</td>
+        <td>Presentar un llamado a la acción claro y visible en la página de inicio que guíe a los visitantes a explorar más a fondo el sitio web o tomar la acción deseada, como registrarse, suscribirse o contactar al equipo.</td>
+        <td>1 hora</td>
+        <td>Elias Torres</td>
+        <td>Done</td>
+    </tr>
+    <tr>
+        <td>US21</td>
+        <td>Landing - Navegación de información</td>
+        <td>T09</td>
+        <td>Presentar contenido claro, detallado y preciso sobre lo que ofrece el sitio web en la página de inicio.</td>
+        <td>Proporcionar contenido claro, detallado y preciso en la página de inicio que describa las características, funcionalidades y beneficios del sitio web de manera comprensible y convincente.</td>
+        <td>1 hora</td>
+        <td>Moises Donayre</td>
+        <td>Done</td>
+    </tr>
+    <tr>
+        <td>US22</td>
+        <td>Landing - Navegación de contacto</td>
+        <td>T10</td>
+        <td>Mostrar información de contacto visible y accesible en la página de inicio.</td>
+        <td>Mostrar claramente la información de contacto, como dirección de correo electrónico, número de teléfono y/o dirección física, en una sección destacada de la página de inicio para que los visitantes puedan comunicarse con el sitio web de manera efectiva.</td>
+        <td>3 hora</td>
+        <td>Elias Torres</td>
+        <td>Done</td>
+    </tr>
+</table>
 
 ### 5.2.1.3 Development Evidence for Sprint Review.
 
@@ -222,14 +249,22 @@ El objetivo primordial de esta reunión es crear un plan claro y alcanzable para
 
 ### 5.2.1.5 Execution Evidence for Sprint Review. 
 
-En esta sección, detallaremos los hitos alcanzados durante el Sprint 1:
+Durante el Sprint 1, se logró un progreso significativo en la implementación de las características clave de la página de inicio del sitio web. El equipo completó con éxito todas las historias de usuario asignadas para este sprint, que incluyeron el desarrollo de un resumen claro de las características y beneficios del sitio web, la integración de acceso visible a información detallada de precios, la adición de un resumen conciso al final de la página de inicio, la inclusión de un llamado a la acción prominente para dirigir a los visitantes a la aplicación web principal, la presentación de contenido informativo claro y detallado, y la integración de información de contacto visible en la página de inicio. El equipo trabajó de manera colaborativa para garantizar que las características implementadas cumplan con los requisitos y contribuyan a una experiencia de usuario positiva.
+Capturas de pantalla:
 
-- Establecimiento de repositorios en GitHub para el reporte y el landing page.
-- Creación de wireframes y mock-ups para el landing page.
-- Elaboración de wireframes y mock-ups para la aplicación web.
-- Implementación exitosa del landing page.
-- Diseño del prototipo de la aplicación web.
-- Publicación del landing page en GitHub Pages.
+-Sección de Resumen:
+
+-Acceso a la Información de Precios:
+
+-Resumen al Final:
+
+-Sección de Llamado a la Acción:
+
+-Contenido Informativo:
+
+-Sección de Información de Contacto:
+
+Video: 
 
 ### 5.2.1.6 Services Documentation Evidence for Sprint Review. 
 
@@ -237,14 +272,13 @@ Durante este Sprint 1, nos enfocamos en desarrollar el landing page, sin impleme
 
 ### 5.2.1.7 Software Deployment Evidence for Sprint Review.
 
-Describiremos las acciones llevadas a cabo durante el sprint 1, incluyendo la preparación y despliegue de nuestro landing page:
+Durante el Sprint 1, llevamos a cabo el despliegue de nuestra landing page en GitHub Pages. A continuación, detallamos los pasos realizados:
 
-- En primer lugar, creamos un repositorio en GitHub dedicado al landing page.
-- Posteriormente, creamos las ramas necesarias siguiendo el flujo de trabajo de GitFlow.
-- Luego, accedimos a la sección "Pages" en la configuración del repositorio.
-- Ajustamos la configuración para especificar la fuente del landing page.
-- Después de guardar los cambios en la configuración, se generó un enlace para acceder al landing page.
-- Este enlace nos permite visualizar las actualizaciones realizadas en la rama "develop".
+1. Creación del Repositorio en GitHub: Iniciamos creando un repositorio dedicado en GitHub para nuestro proyecto de landing page.
+2. Configuración de la Rama main: Aseguramos que la rama principal del repositorio se llamara main, ya que GitHub Pages toma esta rama como base para el despliegue automático.
+3. Preparación del Contenido: Desarrollamos y diseñamos nuestra landing page, asegurándonos de que todos los archivos y recursos necesarios estuvieran presentes en el repositorio.
+4. Generación del Enlace de GitHub Pages: Navegamos a la sección "Pages" en la configuración del repositorio en GitHub. Configuramos la fuente del GitHub Pages para que tomara el contenido de la rama main.
+5. Despliegue Automático: GitHub Pages automáticamente detectó los cambios en la rama main y desplegó la landing page en la URL proporcionada por GitHub Pages.
 
 ### 5.2.1.8 Team Collaboration Insights during Sprint.
 

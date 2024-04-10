@@ -264,7 +264,7 @@ encuentra en el país que perjudican su trabajo?
 EMPRESARIOS
 
 ENTREVISTA 1
-![Entrevista 1 Empresarios](http://drive.google.com/uc?export=view&id=1aCvAmNZlYi9pE98DmHCcc0981vV3Q97Y)
+![Entrevista 1 Empresarios](/assets/chapter02/EmpresarioEntrevista.png)
 
 Link: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202217633_upc_edu_pe/EQJKCGE27UVLvkmyMhlcoYUBZKqyIwhlrlsPr_NkQlAebQ?e=yR5tyL
 

@@ -239,16 +239,6 @@ evidenciado debe tener coherencia con el Registro de Versiones del Informe -->
 
 [5.2.1.8. Team Collaboration Insights during Sprint.]()
 
-[5.3. Validation Interviews]()
-
-[5.3.1. Diseño de Entrevistas.]()
-
-[5.3.2. Registro de Entrevistas]()
-
-[5.3.3. Evaluaciones según heurísticas.]()
-
-[5.4. Video About-the-Product.]()
-
 [Conclusiones]()
 
 [Bibliografía]()
@@ -277,12 +267,98 @@ del ABET – EAC - Student Outcome 5
     </tr>
     <tr>
         <td>Participa en equipos multidisciplinarios con eficacia, eficiencia y objetividad, en el marco de un proyecto en soluciones de ingeniería de software</td>
-        <td>Col 2</td>
-        <td>Col 3</td>
+        <td><strong>Miguel Huarcaya
+        <br>
+        TB1:</strong> <br>
+        -Implentación de las historias de usuarios y el Product Backlog
+        <br>
+        -Cooperación con el landing page
+        <br>
+        -Realización del Impact Map
+        <br>
+        -Contribución en puntos del Needfinding
+        <br>
+        <strong>Piero Tarazona
+        <br>
+        TB1:</strong> <br>
+        -Aportar en el apartado de entrevistas y análisis
+        <br>
+        -Implementación de los puntos en el Style Guidelines
+        <br>
+        -Implementación del diagrama de clases
+        <br>
+        -Mejora del Software Configuration Management
+        <br>
+        <strong>Elias Torres
+        <br>
+        TB1:</strong> <br>
+        -Realización de entrevistas
+        <br>
+        -Contribución del As-Is y To-Be Scenario Mapping
+        <br>
+        -Ayuda en el product design 
+        <br>
+        -Implementación del Domain-Driven Software Architecture
+        <br>
+        -Implementación del landing page
+        <br>
+        <strong>Moises Donayre
+        <br>
+        TB1:</strong> <br>
+        -Implementación del Startup Profile y segmentos objetivos
+        <br>
+        -Seguimiento de competidores y análisis
+        <br>
+        -Contribución en el apartado de entrevistas y análisis
+        <br>
+        -Ayuda en el Product Design
+        <br>
+        -Contribución con el landing page
+        <br>
+        <strong>Maurcio Chacon
+        <br>
+        TB1:</strong> <br>
+        -Implementación del Lean UX Process
+        <br>
+        -Contribución en el Ubiquitous Language
+        <br>
+        -Ayuda en el Product Design
+        <br>
+        -Contribución con el landing page
+        <br>
+        -Aportación en los puntos del Product Implementation, Validation & Deployment
+        </td>
+        <td>-La planificación del proyecto aseguró una buena distribución de tareas. Además, la colaboración activa de los miembros del equipo permitió la revision y corrección múltiple de tareas que se consideraban completadas.
+        <br>
+        -De la misma manera, destacamos el valor de la comunicación interna en el trabajo, lo que facilitó la realización eficiente de cada tarea previniendo la acumulacion excesiva de trabajo.</td>
     </tr>
     <tr>
         <td>Conoce al menos un sector empresarial o dominio de aplicación de soluciones de software</td>
-        <td>Col 2</td>
-        <td>Col 3</td>
+        <td><strong>Miguel Huarcaya
+        <br>
+        TB1:</strong> <br>
+        Durante este entregable aprendí a realizar correctamente los user persona e impact map.
+        <br>
+        <strong>Piero Tarazona
+        <br>
+        TB1:</strong> <br>
+        Para esta entrega supimos elegir nuestros segmentos y personas para la entrevista, de esta manera conocemos sus puntos de vista.
+        <br>
+        <strong>Elias Torres
+        <br>
+        TB1:</strong> <br>
+        He trabajado en el proyecto con nuevas herramientas vistas en el statement, así tendremos un entregable más profesional.
+        <br>
+        <strong>Moises Donayre
+        <br>
+        TB1:</strong> <br>
+        En el desarrollo nos enfocamos en analizar la competencia para observar las necesidades del entorno.
+        <br>
+        <strong>Maurcio Chacon
+        <br>
+        TB1:</strong> <br>
+        En esta entrega se escogió la problemática a resolver teniendo en cuenta su relevancia en la sociedad actual.
+        </td>
+        <td>Es esencial que el equipo se coordine para adaptarse a los cambios de planes en respuesta a los desafíos emergentes. Esta adaptabilidad no solo permite una resolución eficaz de los problemas, sino que también fomenta la resiliencia del equipo, permitiendo una mayor capacidad para manejar futuros obstáculos.</td>
     </tr>
 </table>

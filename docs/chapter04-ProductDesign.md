@@ -141,11 +141,15 @@ Estas acciones y técnicas contribuyen a una experiencia de usuario fluida y sat
 ## 4.3 Landing Page UI Design
 ### 4.3.1 Landing Page Wireframe
 
-(IMAGEN DEL LANDING)
+![Landing page Wireframe HomePage](/assets/chapter04/wireframe-Homepage.jpg)
+
+![Landing page Wireframe error 404](/assets/chapter04/wireframe-404-Page%20.jpg)
 
 ### 4.3.2 Landing Page Mock-up
 
-(IMAGEN DEL LANDING)
+![Landing page mock up HomePage](/assets/chapter04/mockup-homepage.jpg)
+
+![Landing page mock up error 404](/assets/chapter04/mockup-404-Page.jpg)
 
 ## 4.4 Web Applications UX/UI Design
 

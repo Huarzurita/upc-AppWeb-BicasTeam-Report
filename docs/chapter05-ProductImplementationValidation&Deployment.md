@@ -236,35 +236,79 @@ URL del Board en Trello: https://trello.com/invite/b/9fFNzPVl/ATTId6d62a99d06e75
 </table>
 
 ### 5.2.1.3 Development Evidence for Sprint Review.
+Esta sección documenta y presenta la serie de commits realizados en el repositorio del Landing Page. Estos commits, que son una parte integral del proceso de desarrollo, se han gestionado utilizando la metodología GitFlow y siguiendo estrictamente las convenciones establecidas para los commits. Esta evidencia sirve como un registro transparente y trazable de nuestro progreso y esfuerzos de desarrollo a lo largo del sprint.
+
+![Lista de commits](/assets/commits.png)
 
 | Repository                        | Branch              | Commit Id                          | Commit Message                   | Commit Message Body           |Commited on (Date) |
 |-----------------------------------|---------------------|------------------------------------|----------------------------------|-------------------------------|-------------------|
-| REPOSITORIO DEL LANDING(NOMBRE)   | feature/loremipsum  | 14ca4e3                            | feat: ...                        | MENSAJE DEL COMMIT            | FECHA DEL COMMIT  |
+| upc-AppWeb-BicasTeam-LandingPage.github.io   | main     | d3b094b | chore: ...                      | initial commit         | 10-04             |
+| upc-AppWeb-BicasTeam-LandingPage.github.io   | main     | 499f6c3 | feat: ...                        | create structure for landing            | 10-04             |
+| upc-AppWeb-BicasTeam-LandingPage.github.io   | feature/section-header  | a6fd61f                        | feat: ...                        | create header section            | 10-04             |
+| upc-AppWeb-BicasTeam-LandingPage.github.io   | feature/section-about-us  | f46c9f4                        | feat: ...                        | create about us             | 10-04             |
+| upc-AppWeb-BicasTeam-LandingPage.github.io   | feature/section-about-team  | 559b871                        | feat: ...                        | create about team           | 10-04             |
+| upc-AppWeb-BicasTeam-LandingPage.github.io   | feature/section-about-team   | 320162e                        | feat: ...                        | create about team            | 10-04             |
+| upc-AppWeb-BicasTeam-LandingPage.github.io   | feature/section-about-team   | 74db128                        | feat: ...                        | create about team           | 10-04             |
+| upc-AppWeb-BicasTeam-LandingPage.github.io   | feature/section-about-team   | 6db4844                        | feat: ...                        | delete file style            | 10-04             |
+| upc-AppWeb-BicasTeam-LandingPage.github.io   | feature/section-about-team   | f80d9c2                        | feat: ...                        | create about team            | 10-04             |
+| upc-AppWeb-BicasTeam-LandingPage.github.io   | feature/section-about-team   | 77dcfbf                        | feat: ...                        | deleted style           | 10-04             |
+| upc-AppWeb-BicasTeam-LandingPage.github.io   | feature/section-about-team   | 57cd331                        | feat: ...                        | create about team            | 10-04             |
+| upc-AppWeb-BicasTeam-LandingPage.github.io   | feature/section-about-team   | 2ac60ee                        | feat: ...                        | deleted style            | 10-04             |
+| upc-AppWeb-BicasTeam-LandingPage.github.io   | feature/section-about-team   | a89f5a6                        | feat: ...                        | add folder for organizing files            | 10-04             |
+| upc-AppWeb-BicasTeam-LandingPage.github.io   | feature/section-about-team   | 9c04bc0                        | feat: ...                        | create about team           | 10-04             |
+| upc-AppWeb-BicasTeam-LandingPage.github.io   | feature/section-about-team   | e645b3b                        | feat: ...                        | delete public directory            | 10-04             |
+| upc-AppWeb-BicasTeam-LandingPage.github.io   | feature/section-about-team   | 1488c1e                        | feat: ...                        | add style and images            | 10-04             |
+| upc-AppWeb-BicasTeam-LandingPage.github.io   | feature/section-hero  | 09191fd                        | feat: ...                        | implement hero section            | 10-04             |
+| upc-AppWeb-BicasTeam-LandingPage.github.io   | feature/section-hero  | 0ba7ade                        | feat: ...                        | implement footer section            | 10-04             |
+| upc-AppWeb-BicasTeam-LandingPage.github.io   | feature/section-footer  | 77037f0                        | feat: ...                        | create footer section            | 10-04             |
+| upc-AppWeb-BicasTeam-LandingPage.github.io   | feature/section-pricing  | 84c90ea                        | chore: ...                        | created pricing and contact section                           | 10-04             |
+| upc-AppWeb-BicasTeam-LandingPage.github.io   | develop  | c3a6a0c                            | feat: ...                        | merge branch 'feature/section-hero'                           | 10-04             |
+| upc-AppWeb-BicasTeam-LandingPage.github.io   | develop  | 4f4b5b7                            | feat: ...                        | merge branch 'feature/section-about-us'                       | 10-04             |
+| upc-AppWeb-BicasTeam-LandingPage.github.io   | develop  | e63214c                            | feat: ...                        | merge branch 'feature/section-about-team' into develop        | 10-04             |
+| upc-AppWeb-BicasTeam-LandingPage.github.io   | develop  | 7d5209d                            | feat: ...                        | merge branch 'feature/section-services' into develop          | 10-04             |
+| upc-AppWeb-BicasTeam-LandingPage.github.io   | develop  | 432e18e                            | feat: ...                        | merge branch 'feature/section-pricing' into develop           | 10-04             |
+| upc-AppWeb-BicasTeam-LandingPage.github.io   | develop  | 9b278c2                            | feat: ...                        | merge branch 'feature/section-footer' into develop            | 10-04             |
+| upc-AppWeb-BicasTeam-LandingPage.github.io   | main     | fbf4690                            | fix: ...                         | fix the ubication for the code            | 10-04             |
 
 ### 5.2.1.4 Testing Suite Evidence for Sprint Review. 
+En esta sección, presentamos la evidencia de las pruebas realizadas durante el sprint. Hemos utilizado Gherkin para definir los escenarios de prueba y hemos registrado cada prueba en commits específicos en nuestro repositorio. A continuación, se muestra un registro de estos commits:
 
 | Repository                        | Branch              | Commit Id                          | Commit Message                   | Commit Message Body           |Commited on (Date) |
 |-----------------------------------|---------------------|------------------------------------|----------------------------------|-------------------------------|-------------------|
-| REPOSITORIO DEL LANDING(NOMBRE)   | feature/loremipsum  | 14ca4e3                            | feat: ...                        | MENSAJE DEL COMMIT            | FECHA DEL COMMIT  |
+| upc-AppWeb-BicasTeam-LandingPage.github.io   | feature/section-header  | 1fbb6f6                           | feat: ...                        | add tests for header section            | 10/04  |
+| upc-AppWeb-BicasTeam-LandingPage.github.io   | feature/section-footer  | ee12b07                          | feat: ...                        | add test for footer section           | 10/04  |
+| upc-AppWeb-BicasTeam-LandingPage.github.io   | feature/section-services  | e36977f                            | feat: ...                        | add test for pricing section            | 10/04  |
 
 ### 5.2.1.5 Execution Evidence for Sprint Review. 
 
 Durante el Sprint 1, se logró un progreso significativo en la implementación de las características clave de la página de inicio del sitio web. El equipo completó con éxito todas las historias de usuario asignadas para este sprint, que incluyeron el desarrollo de un resumen claro de las características y beneficios del sitio web, la integración de acceso visible a información detallada de precios, la adición de un resumen conciso al final de la página de inicio, la inclusión de un llamado a la acción prominente para dirigir a los visitantes a la aplicación web principal, la presentación de contenido informativo claro y detallado, y la integración de información de contacto visible en la página de inicio. El equipo trabajó de manera colaborativa para garantizar que las características implementadas cumplan con los requisitos y contribuyan a una experiencia de usuario positiva.
 Capturas de pantalla:
 
--Sección de Resumen:
+- Sección de Resumen:
 
--Acceso a la Información de Precios:
+![Resumen](/assets/resumen.png)
 
--Resumen al Final:
+- Acceso a la Información de Precios:
 
--Sección de Llamado a la Acción:
+![Precios](/assets/precios.png)
 
--Contenido Informativo:
+- Resumen al Final:
 
--Sección de Información de Contacto:
+![Footer](/assets/footer.png)
 
-Video: 
+- Contenido Informativo:
+
+![Board Trello](/assets/servicios.png)
+
+- Llamado a la acción
+
+![Board Trello](/assets/calltoAction.png)
+
+- Sección de Información de Contacto:
+
+![Contacto](/assets/contacto.png)
+
+Video: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202212911_upc_edu_pe/EdWszOh699pDu919Y5P6xZcBELghHGlX6WIoZ03PN5I0mA?e=5AvfFc&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
 
 ### 5.2.1.6 Services Documentation Evidence for Sprint Review. 
 
@@ -282,8 +326,19 @@ Durante el Sprint 1, llevamos a cabo el despliegue de nuestra landing page en Gi
 
 ### 5.2.1.8 Team Collaboration Insights during Sprint.
 
-Para este primer Sprint, hemos completado el desarrollo del landing page y colaborado estrechamente en su implementación. La colaboración entre los miembros del equipo se refleja en los diversos commits realizados en el repositorio, los cuales han sido debidamente documentados en las capturas de pantalla adjuntas.
+Durante este primer Sprint, hemos completado el desarrollo del landing page y hemos colaborado estrechamente en su implementación. La colaboración entre los miembros del equipo se refleja en los diversos commits realizados en el repositorio de GitHub, los cuales han sido debidamente documentados en las capturas de pantalla adjuntas.
+Para asegurar una colaboración efectiva, hemos implementado GitFlow como nuestra metodología de trabajo colaborativo en Git. Con GitFlow, hemos creado ramas para cada una de las secciones de nuestra landing page. Esto nos ha permitido trabajar de manera organizada y centrarnos en completar correctamente las historias de usuario designadas para cada sección.
+En cuanto a la elaboración del código, hemos asignado a cada miembro del equipo una sección específica del landing page. Esta estrategia nos ha permitido avanzar de manera más eficiente y completar el trabajo antes de la fecha de entrega.
+Además, hemos realizado reuniones adicionales para intercambiar ideas y resolver cualquier duda o problema que pudiera surgir durante el desarrollo del landing page. Estas sesiones han contribuido de manera positiva al éxito del proyecto.
+A continuación, presentamos algunas capturas de pantalla que muestran los commits realizados por los miembros del equipo en GitHub:
+![Ramas](/assets/branches.png)
 
-En cuanto a la colaboración del equipo, hemos llevado a cabo reuniones tanto presenciales como virtuales para asignar tareas y discutir la estrategia de desarrollo del proyecto. Esta práctica nos ha permitido comprender claramente nuestras responsabilidades individuales y mejorar nuestro rendimiento. Para la elaboración del código, hemos adoptado la decisión de asignar a cada miembro del equipo una sección específica del landing page, con el objetivo de avanzar de manera más eficiente y completar el trabajo antes de la fecha de entrega.
+![Miguel](/assets/miguel.png)
 
-Por último, hemos realizado reuniones adicionales para intercambiar ideas y resolver cualquier duda o problema que pudiera surgir durante el desarrollo del landing page. Estas sesiones han contribuido de manera positiva al éxito del proyecto.
+![Mauricio](/assets/mauricio.png)
+
+![Piero](/assets/piero.png)
+
+![Elias](/assets/elias.png)
+
+![Moises](/assets/moises.png)

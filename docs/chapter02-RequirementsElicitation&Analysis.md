@@ -369,7 +369,16 @@ Martín Merino Ávila, con 35 años de experiencia como conductor, trabaja para 
 
 EMPRESARIOS
 
-<!-- AQUI VA EL ANALISSI DE LAS ENTREVSITAS D ELOS EMPRESARIOS -->
+Para el análisis de las entrevistas, se pueden identificar varias características comunes entre los entrevistados que son relevantes para la construcción de los arquetipos de usuarios en el segmento objetivo de empresarios. A continuación, se presenta un análisis de estas características:
+- Todos los entrevistados llevan una media de aproximadamente de 25 años de experiencia.
+- Los entrevistados tienen empresas de transporte que ofrecen servicios tanto para el transporte personal como para el turismo.
+- El WhatsApp es el medio de comunicación más utilizado por los empresarios para comunicar a sus trabajadores las rutas y envios que fueron asignados.
+- Algunos empresario también utilizan aplicaciones móviles para confirmar que llego la entrega.
+- El mantenimiento de los buses se realiza de manera preventiva, basado en un calendario establecido por kilometraje.
+- La empresa gestiona el mantenimiento en coordinación con los conductores y el personal de mecánica.
+- Los empresarios están dispuestos a utilizar aplicaciones móviles para mejorar la gestión de su trabajo.
+- Los empresarios estan en buscar de mejoras en la comunicación dentro de la empresa.
+- La edad de los entrevistados se encuentra en el rango de 30 a 55 años.
 
 
 TRANSPORTISTAS

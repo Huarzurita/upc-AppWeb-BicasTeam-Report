@@ -264,7 +264,7 @@ encuentra en el país que perjudican su trabajo?
 EMPRESARIOS
 
 ENTREVISTA 1
-![Entrevista 1 Empresarios](http://drive.google.com/uc?export=view&id=1aCvAmNZlYi9pE98DmHCcc0981vV3Q97Y)
+![Entrevista 1 Empresarios](/assets/chapter02/entrevista_empresario1.png)
 
 Link: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202217633_upc_edu_pe/EQJKCGE27UVLvkmyMhlcoYUBZKqyIwhlrlsPr_NkQlAebQ?e=yR5tyL
 
@@ -284,21 +284,21 @@ Marco tiene 10 años de experiencia gestionando flotas de transporte. Trabaja co
 
 
 ENTREVISTA 2
-![Entrevista 2 Empresarios]()
+![Entrevista 2 Empresarios](/assets/chapter02/entrevista_empresario2.png)
 
-Link:
+Link: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202216021_upc_edu_pe/EYdgA1x060VOrYs7MF-bbdYB-g9TzjEYRgOuRA9CqY-l9w?e=haR9pZ
 
-Inicia: 
+Inicia: 0:00
 
-Duración:
+Duración: 6:47
 
-Nombre: 
+Nombre: Gustavo Manrique
 
-Edad: 
+Edad: 40
 
-Distrito: 
+Distrito: Chorrillos
 
-RESUMEN:
+RESUMEN: Gustavo tiene 6 años de experiencia gestionando flotas de transporte para movilidad escolar teniendo 10 minivanes. Nos comenta que no tiene un sistema de gestión, utilizando whatsapp y google maps para poder comunicarse con sus transportistas. Si tuviera un sistema de comunicación de flotas generaría mas confianza en quienes contratan su servicio y así incrementar sus clientes. Finalmente, está decidido en cambiar su forma de gestión y en contratar un servicio como este.
 
 
 

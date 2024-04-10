@@ -386,4 +386,4 @@ Figma App Web: https://www.figma.com/file/UznJufoIMBwWow9ny8cXO5/Web-Application
 
 PivotalTracker-ProductBacklog: https://www.pivotaltracker.com/projects/2700650
 
-Video EXPO TB1: 
+Video EXPO TB1: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202116207_upc_edu_pe/EXDoi9eqytxDgS2l2ETDzYcBysGoygJvD6vi1xoWs_YzFw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=vQWNo8

@@ -44,12 +44,12 @@ MoviGestion proporciona una solución completa que cubre todas las necesidades d
 | Descripcion           | Soy estudiante de 5to ciclo de la carrera de ingeniería de software. Me considero una persona empática y solidaria, además de apoyar a mis compañeros de equipo cuando requieren ayuda. Tengo conocimientos en HTML, CSS y C++   |
 | Foto                  | ![Moises](/assets/chapter01/moises.png) |
 
-| Integrante            |                         |
+| Integrante            |  Elias Torres Espinoza                       |
 | --------------------- | ----------------------- |
-| Codigo del Estudiante |                         |
-| Carrera               |                         |
-| Descripcion           |                         |
-| Foto                  | ![](/assets/chapter01/) |
+| Codigo del Estudiante |     u20191A453                    |
+| Carrera               |    Ingenieria de software                     |
+| Descripcion           |   Actualmente soy de 7 ciclo en la Universidad Peruana de Ciencias Aplicadas, cuento con conocimientos en C++, C#, Python, HTML y css.                       |
+| Foto                  | ![Elias](/assets/chapter01/Foto%20Perfil%20Integrante%20Elias.jpg) |
 
 ## 1.2 Solution Profile
 

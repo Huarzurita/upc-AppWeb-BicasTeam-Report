@@ -95,12 +95,17 @@ Usaremos elementos de imágenes que reflejen nuestras ofertas, así como el uso 
 
 ### 4.6.1 Software Architecture Context Diagram
 ![Context Diagram](/assets/chapter04/Software%20Architecture%20Context%20Diagram.jpeg)
+
 ### 4.6.2 Software Architecture Container Diagrams
-![Container Diagrams](/assets/chapter04/Software%20Architecture%20Container%20Diagrams.jpeg)
+
+![Container Diagrams](/assets/chapter04/Software%20Architecture%20Container%20Diagrams.png)
 
 ### 4.6.3 Software Architecture Components Diagrams
-![Components Diagrams](/assets/chapter04/Software%20Architecture%20Components%20Diagrams%201.jpeg)
-![Components Diagrams](/assets/chapter04/Software%20Architecture%20Components%20Diagrams%202.jpeg)
+
+![Components Diagrams](/assets/chapter04/Software%20Architecture%20Components%20Diagrams%201.png)
+
+![Components Diagrams](/assets/chapter04/Software%20Architecture%20Components%20Diagrams%202.png)
+
 ## 4.7 Software Object-Oriented Design
 
 ### 4.7.1 Class Diagrams

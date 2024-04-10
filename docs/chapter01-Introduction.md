@@ -37,12 +37,12 @@ MoviGestion proporciona una solución completa que cubre todas las necesidades d
 | Descripcion           | Soy estudiante de 5to ciclo de la carrera de Ingeniería de Software. Me caracterizo por mi pensamiento crítico y capacidad de encontrar soluciones viables para los distintos problemas. Tengo conocimientos en HTML, CSS, C++. |
 | Foto                  | ![Piero](/assets/chapter01/piero.png)                                                                                                                                                                                           |
 
-| Integrante            |                         |
+| Integrante            | Moises Rodolfo Donayre Peña   |
 | --------------------- | ----------------------- |
-| Codigo del Estudiante |                         |
-| Carrera               |                         |
-| Descripcion           |                         |
-| Foto                  | ![](/assets/chapter01/) |
+| Codigo del Estudiante | U202216021                      |
+| Carrera               | Ingeniería de Software      |
+| Descripcion           | Soy estudiante de 5to ciclo de la carrera de ingeniería de software. Me considero una persona empática y solidaria, además de apoyar a mis compañeros de equipo cuando requieren ayuda. Tengo conocimientos en HTML, CSS y C++   |
+| Foto                  | ![Moises](/assets/chapter01/moises.png) |
 
 | Integrante            |                         |
 | --------------------- | ----------------------- |

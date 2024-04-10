@@ -301,6 +301,42 @@ Distrito: Chorrillos
 RESUMEN: Gustavo tiene 6 años de experiencia gestionando flotas de transporte para movilidad escolar teniendo 10 minivanes. Nos comenta que no tiene un sistema de gestión, utilizando whatsapp y google maps para poder comunicarse con sus transportistas. Si tuviera un sistema de comunicación de flotas generaría mas confianza en quienes contratan su servicio y así incrementar sus clientes. Finalmente, está decidido en cambiar su forma de gestión y en contratar un servicio como este.
 
 
+ENTREVISTA 3
+![Entrevista 2 Empresarios](/assets/chapter02/Entrevista%20Empresario%203.PNG)
+
+Link: https://upcedupe-my.sharepoint.com/:v:/g/personal/u20191a453_upc_edu_pe/EUwHFOhfEWhMvyc7xG_vQU4BJORRZNxCY9RDij9BwYzrKg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=2T6ADp
+
+Inicia: 0:00
+
+Duración: 5:44
+
+Nombre: Gilver Flores
+
+Edad: 48
+
+Distrito: Villa El Salvador
+
+RESUMEN: Gilver Flores es un empresario con una década de experiencia en la gestión de flotas de transporte, valora el rastreo por GPS para la seguridad y la puntualidad, y utiliza WhatsApp para coordinar con los conductores. Está abierto a adoptar nuevas tecnologías para mejorar la competitividad y la responsabilidad de su empresa, y ve el valor en características como la optimización de la asignación de rutas. Reconoce la importancia de un mantenimiento de vehículos efectivo y cree que la optimización de las rutas y los sistemas de seguimiento de mantenimiento virtual pueden mejorar las operaciones. Evalúa el éxito de las soluciones de gestión de flotas en función de cómo mejoran la puntualidad y las prácticas de mantenimiento preventivo.
+
+
+ENTREVISTA 4
+![Entrevista 2 Empresarios](/assets/chapter02/Entrevista%20Empresario%204.PNG)
+
+Link: https://upcedupe-my.sharepoint.com/:v:/g/personal/u20191a453_upc_edu_pe/Ee4VsZTV3elLuCnESEniJfoB2KL0J91OGdUuZiHVMfpX_A?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=rBtEj1
+
+Inicia: 0:00
+
+Duración: 8:29
+
+Nombre: Abraham Quenta
+
+Edad: 28
+
+Provincia: Tacna
+
+RESUMEN: Abraham Quenta es un emprendedor en el sector del transporte con 6 años de experiencia, gestiona su empresa utilizando Excel para tareas como la emisión de billetes y WhatsApp para la comunicación interna. Desea un sistema donde los pasajeros puedan reservar asientos y donde pueda rastrear la ubicación de los conductores durante los viajes. Considera que la implementación de una aplicación con estas características es crucial para la eficiencia operativa. Enfatiza la importancia de cumplir con las regulaciones de entidades como la ATU y el Ministerio de Transporte. Finalmente, destaca la importancia de tener información actualizada sobre el mantenimiento del vehículo integrada en un sistema de seguimiento.
+
+
 
 TRANSPORTISTAS
 

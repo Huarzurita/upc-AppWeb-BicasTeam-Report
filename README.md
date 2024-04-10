@@ -360,17 +360,17 @@ del ABET – EAC - Student Outcome 5
 </table>
 
 # Conclusiones (Avance)
-Durante el desarrollo de este proyecto, se han identificado y analizado las necesidades de los usuarios y las funcionalidades clave requeridas para la aplicación MoviGestion, destinada a gestionar flotas de transporte en diversos ámbitos empresariales. Se han creado historias de usuario detalladas, epics y se han definido criterios de aceptación para garantizar que el producto final cumpla con los requisitos del cliente y las expectativas de los usuarios.
 
-El enfoque en la implementación de un API RESTful ha permitido diseñar y desarrollar funcionalidades que facilitan la interacción con la aplicación desde otras plataformas y sistemas. Las Technical Stories han desempeñado un papel fundamental en la planificación y ejecución de la implementación técnica, asegurando la calidad, la eficiencia y la escalabilidad del sistema.
-
-El análisis de impacto, los mapas de contexto y los mapas de impacto han proporcionado una comprensión profunda de los objetivos del negocio y los beneficios esperados del producto, así como las interacciones y dependencias entre los diferentes elementos del sistema.
+La implementación del proceso Lean UX en el Capítulo 1 ha facilitado una comprensión más profunda y una aplicación más eficaz de las herramientas en nuestra propuesta orientada al servicio de transporte para clientes. Además, ha contribuido a una definición más precisa de nuestro público objetivo o segmento al cual se dirige nuestra aplicación. Al finalizar la fase inicial de nuestro proyecto y tras identificar los principales problemas enfrentados por nuestros segmentos, llegamos a la conclusión de que la aplicación web MoviGestion sería beneficiosa para mejorar la experiencia tanto de los transportistas como de los empresarios que tienen flotas de camiones al utilizar la herramienta. El proceso de entrevistas ha sido fundamental para esclarecer la visión del proyecto desde la perspectiva del usuario, lo que ha resultado crucial para mejorar las funcionalidades de la aplicación.
 
 # Bibliografia 
-Evans, Eric. "Domain-Driven Design: Tackling Complexity in the Heart of Software." Addison-Wesley Professional, 2003.
+Berné, M. (2023, 8 marzo). Criterios de aceptación: ejemplos para elaborarlos. Blog. https://www.scrummanager.com/blog/2023/03/criterios-de-aceptacion-definicion-y-ejemplos/ 
 
-Leffingwell, Dean. "Agile Software Requirements: Lean Requirements Practices for Teams, Programs, and the Enterprise." Addison-Wesley Professional, 2010.
+Conventional commits. (s. f.). Conventional Commits. https://www.conventionalcommits.org/en/v1.0.0/ 
 
+Markdown - La guía definitiva en español. (2022, 14 febrero). Markdown. https://markdown.es/ 
+
+Tune, N. (2018, 1 agosto). Domain-Driven Architecture Diagrams - Strategy, Architecture, Continuous Delivery, and DDD - Medium. Medium. 
 
 
 # Anexos

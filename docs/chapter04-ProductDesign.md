@@ -200,9 +200,9 @@ Si el usuario elige registrarse como “Transportist”, el proceso también com
 
 ### 4.6.3 Software Architecture Components Diagrams
 
-![Components Diagrams](/assets/chapter04/Software%20Architecture%20Components%20Diagrams%201.png)
+![Components Diagrams](/assets/chapter04/Software%20Architecture%20Components%20Diagrams%201.jpeg)
 
-![Components Diagrams](/assets/chapter04/Software%20Architecture%20Components%20Diagrams%202.png)
+
 
 ## 4.7 Software Object-Oriented Design
 

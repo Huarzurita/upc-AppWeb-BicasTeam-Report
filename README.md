@@ -671,6 +671,8 @@ Link Github Landing page: https://github.com/upc-AppWeb-BicasTeam/upc-AppWeb-Bic
 
 LandingPage Desplegado:  https://upc-appweb-bicasteam.github.io/upc-AppWeb-BicasTeam-LandingPage.github.io/
 
+App Web Desplegado: https://upc-appweb-bicasteam.github.io/upc-AppWeb-BicasTeam-AppWeb.github.io/
+
 Figma Landing Page: https://www.figma.com/file/oSwWYfZnNSnswDhg3Hj8Hi/BicasTeam-AppWeb?type=design&node-id=10%3A2&mode=design&t=swT32jkAXP4WhU5w-1
 
 Figma App Web: https://www.figma.com/file/UznJufoIMBwWow9ny8cXO5/Web-Application_BicasTeam?type=design&node-id=126%3A98&mode=design&t=QAcsG0V5XHFwF6rg-1

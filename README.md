@@ -288,34 +288,52 @@ Universidad Peruana de Ciencias Aplicadas
         <td>Avance de conclusiones, bibliográficas y anexos</td>
     </tr>
     <tr>
-        <td>algo</td>
-        <td>3asdasd</td>
-        <td>gerwwegewgweg</td>
-        <td>Sdfgdfgs</td>
+        <td>V1.2</td>
+        <td>22/04/2024</td>
+        <td>Tarazona Medina, Piero Abel</td>
+        <td>Se realizó el Sprint Planning 2</td>
     </tr>
     <tr>
-        <td>algo</td>
-        <td>3asdasd</td>
-        <td>gerwwegewgweg</td>
-        <td>Sdfgdfgs</td>
+        <td>V1.2</td>
+        <td>22/04/202</td>
+        <td>Elias Enrique Torres Espinoza</td>
+        <td>Se realizó el Sprint Backlog 2</td>
     </tr>
     <tr>
-        <td>algo</td>
-        <td>3asdasd</td>
-        <td>gerwwegewgweg</td>
-        <td>Sdfgdfgs</td>
+        <td>V1.3</td>
+        <td>23/04/2024</td>
+        <td>Donayre Peña, Moises Rodolfo</td>
+        <td>Evidencia de desarrollo para Sprint Review</td>
     </tr>
     <tr>
-        <td>algo</td>
-        <td>3asdasd</td>
-        <td>gerwwegewgweg</td>
-        <td>Sdfgdfgs</td>
+        <td>V1.4</td>
+        <td>24/04/2024</td>
+        <td>Huarcaya Chavez Miguel Alejandro Daniel</td>
+        <td>Información sobre la colaboración en equipo durante Sprint</td>
     </tr>
     <tr>
-        <td>algo</td>
-        <td>3asdasd</td>
-        <td>gerwwegewgweg</td>
-        <td>Sdfgdfgs</td>
+        <td>V1.5</td>
+        <td>24/04/2024</td>
+        <td>team</td>
+        <td>Avance de conclusiones, bibliográficas y anexos.</td>
+    </tr>
+    <tr>
+        <td>V1.6</td>
+        <td>25/04/2024</td>
+        <td>Tarazona Medina, Piero Abel</td>
+        <td>Se mejoran los Assumptions e hypothesis statements.</td>
+    </tr>
+    <tr>
+        <td>V1.7</td>
+        <td>25/04/2024</td>
+        <td>Chacón Martínez, Mauricio Sebastián</td>
+        <td>Se mejoraron los análisis de entrevistas.</td>
+    </tr>
+    <tr>
+        <td>V1.8</td>
+        <td>29/04/2024</td>
+        <td>Chacón Martínez, Mauricio Sebastián</td>
+        <td>Se mejoró el orden del documento</td>
     </tr>
 </table>
 
@@ -323,15 +341,8 @@ Universidad Peruana de Ciencias Aplicadas
 ---
 ---
 # Project Report Collaboration Insights
-Link de Repositorio: https://github.com/Huarzurita/upc-AppWeb-BicasTeam-Report.git
+Link de Repositorio: https://github.com/upc-AppWeb-BicasTeam/upc-AppWeb-BicasTeam-AppWeb.git
 
-<!--  Adicionalmente, para cada entrega explica cómo
-se han desarrollado las actividades de elaboración del informe y se presenta
-capturas en imagen de los analíticos de colaboración y commits en GitHub para el
-repositorio del informe, realizados por los miembros del equipo. Todos los miembros
-del equipo deben tener participación en la elaboración del informe. Esta sección
-debe ir expandiéndose con descripciones y evidencias en cada entrega. Lo descrito y
-evidenciado debe tener coherencia con el Registro de Versiones del Informe -->
 
 
 ---
@@ -526,10 +537,14 @@ del ABET – EAC - Student Outcome 5
         -Realización del Impact Map
         <br>
         -Contribución en puntos del Needfinding
+        <br><strong>
+        TP1:</strong><br>
+        -Implmentacion de login y register en la rama main content flow del app web y organizador 
+        <br>
         <br>
         <strong>Piero Tarazona
         <br>
-        TB1:</strong> <br>
+        TB1:</strong><br>
         -Aportar en el apartado de entrevistas y análisis
         <br>
         -Implementación de los puntos en el Style Guidelines
@@ -537,7 +552,9 @@ del ABET – EAC - Student Outcome 5
         -Implementación del diagrama de clases
         <br>
         -Mejora del Software Configuration Management
-        <br>
+        <br><strong>
+        TP1:</strong><br>
+        -Elaboracion de reportes de la aplicacion<br>
         <strong>Elias Torres
         <br>
         TB1:</strong> <br>
@@ -550,7 +567,8 @@ del ABET – EAC - Student Outcome 5
         -Implementación del Domain-Driven Software Architecture
         <br>
         -Implementación del landing page
-        <br>
+        <br><strong>TP1:</strong><br>
+        -Implementacion de home y estilos generales<br><br>
         <strong>Moises Donayre
         <br>
         TB1:</strong> <br>
@@ -563,7 +581,8 @@ del ABET – EAC - Student Outcome 5
         -Ayuda en el Product Design
         <br>
         -Contribución con el landing page
-        <br>
+        <br><strong>TP1:</strong><br>
+        -Implementaicon de shipmetns de la aplicacion frontend<br><br>
         <strong>Maurcio Chacon
         <br>
         TB1:</strong> <br>
@@ -576,10 +595,14 @@ del ABET – EAC - Student Outcome 5
         -Contribución con el landing page
         <br>
         -Aportación en los puntos del Product Implementation, Validation & Deployment
+        <strong>TP1:</strong><br>
+        -Implementacion de profile management de la aplicacion y estilos generales<br>
         </td>
         <td>-La planificación del proyecto aseguró una buena distribución de tareas. Además, la colaboración activa de los miembros del equipo permitió la revision y corrección múltiple de tareas que se consideraban completadas.
         <br>
-        -De la misma manera, destacamos el valor de la comunicación interna en el trabajo, lo que facilitó la realización eficiente de cada tarea previniendo la acumulacion excesiva de trabajo.</td>
+        -De la misma manera, destacamos el valor de la comunicación interna en el trabajo, lo que facilitó la realización eficiente de cada tarea previniendo la acumulacion excesiva de trabajo.<br>
+        -Un correcto uso de las ramas, git flow y commit conventional son muy utiles 
+        </td><br>
     </tr>
     <tr>
         <td>Conoce al menos un sector empresarial o dominio de aplicación de soluciones de software</td>
@@ -587,34 +610,40 @@ del ABET – EAC - Student Outcome 5
         <br>
         TB1:</strong> <br>
         Durante este entregable aprendí a realizar correctamente los user persona e impact map.
-        <br>
+        <br><string>TP1:</string><br>
+        -En esta entrega aprendi la imporatncia de un correcto git flow y organizacion de carpetas segunbouinded context<br>
         <strong>Piero Tarazona
         <br>
         TB1:</strong> <br>
         Para esta entrega supimos elegir nuestros segmentos y personas para la entrevista, de esta manera conocemos sus puntos de vista.
-        <br>
+        <br><strong>Tp1:</strong><br>
+        -Durante esta entrega aprendi el uso correcto de los conventional commits y lo imporatnte de una correcta organizacvion <br>
         <strong>Elias Torres
         <br>
         TB1:</strong> <br>
         He trabajado en el proyecto con nuevas herramientas vistas en el statement, así tendremos un entregable más profesional.
-        <br>
+        <br><strong>TP1:</strong><br>
+        -En esta entrega realizamos avances sobre una capa de nuestra solucion, la capa de presentacion<br>
         <strong>Moises Donayre
         <br>
         TB1:</strong> <br>
         En el desarrollo nos enfocamos en analizar la competencia para observar las necesidades del entorno.
-        <br>
+        <br><strong>TP1:</strong><br>
+        -Durante esta entrega aprendi a utilizar correctamente los convetional commits y una correcta organizaion grupal para el desarrollo de softawre de una solucion<br>
         <strong>Maurcio Chacon
         <br>
         TB1:</strong> <br>
         En esta entrega se escogió la problemática a resolver teniendo en cuenta su relevancia en la sociedad actual.
         </td>
-        <td>Es esencial que el equipo se coordine para adaptarse a los cambios de planes en respuesta a los desafíos emergentes. Esta adaptabilidad no solo permite una resolución eficaz de los problemas, sino que también fomenta la resiliencia del equipo, permitiendo una mayor capacidad para manejar futuros obstáculos.</td>
+        <td>Es esencial que el equipo se coordine para adaptarse a los cambios de planes en respuesta a los desafíos emergentes. Esta adaptabilidad no solo permite una resolución eficaz de los problemas, sino que también fomenta la resiliencia del equipo, permitiendo una mayor capacidad para manejar futuros obstáculos.<br><br>La organizacion del equipo utilizando convenciones de organizacion ayuda anormemente a la efectividad de nuestro avances y rendimiento.</td>
     </tr>
 </table>
 
 # Conclusiones (Avance)
 
 La implementación del proceso Lean UX en el Capítulo 1 ha facilitado una comprensión más profunda y una aplicación más eficaz de las herramientas en nuestra propuesta orientada al servicio de transporte para clientes. Además, ha contribuido a una definición más precisa de nuestro público objetivo o segmento al cual se dirige nuestra aplicación. Al finalizar la fase inicial de nuestro proyecto y tras identificar los principales problemas enfrentados por nuestros segmentos, llegamos a la conclusión de que la aplicación web MoviGestion sería beneficiosa para mejorar la experiencia tanto de los transportistas como de los empresarios que tienen flotas de camiones al utilizar la herramienta. El proceso de entrevistas ha sido fundamental para esclarecer la visión del proyecto desde la perspectiva del usuario, lo que ha resultado crucial para mejorar las funcionalidades de la aplicación.
+
+ El uso correcto de convenciones agiliza mucho el desarrollo pues facilita la comunicacion del objetivo del proyecto a traves de mulitples herrramientas, como los bounded context, uso de conventional commits,etc. La experiencia de este desaroollo nos permitio entender a cabalidad el desarollo de una solucion web utilizando Vue.js para la capa de presetnacion (front-end)
 
 # Bibliografia 
 Berné, M. (2023, 8 marzo). Criterios de aceptación: ejemplos para elaborarlos. Blog. https://www.scrummanager.com/blog/2023/03/criterios-de-aceptacion-definicion-y-ejemplos/ 
@@ -627,7 +656,7 @@ Tune, N. (2018, 1 agosto). Domain-Driven Architecture Diagrams - Strategy, Archi
 
 
 # Anexos
-Link gitHub Repositorio: https://github.com/upc-AppWeb-BicasTeam/upc-AppWeb-BicasTeam-Report.git
+Link gitHub Repositorio: https://github.com/upc-AppWeb-BicasTeam/upc-AppWeb-BicasTeam-AppWeb.git
 
 Link Github Landing page: https://github.com/upc-AppWeb-BicasTeam/upc-AppWeb-BicasTeam-LandingPage.github.io.git
 
@@ -640,3 +669,6 @@ Figma App Web: https://www.figma.com/file/UznJufoIMBwWow9ny8cXO5/Web-Application
 PivotalTracker-ProductBacklog: https://www.pivotaltracker.com/projects/2700650
 
 Video EXPO TB1: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202116207_upc_edu_pe/EXDoi9eqytxDgS2l2ETDzYcBysGoygJvD6vi1xoWs_YzFw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=vQWNo8
+
+
+Video de EXPO TP1:

@@ -343,6 +343,15 @@ Universidad Peruana de Ciencias Aplicadas
 # Project Report Collaboration Insights
 Link de Repositorio: https://github.com/upc-AppWeb-BicasTeam/upc-AppWeb-BicasTeam-AppWeb.git
 
+TB1: En esta etapa, el equipo se reunió para definir el alcance y los objetivos, asignando tareas específicas a cada miembro. Comenzamos recopilando datos y revisando información relevante, con cada miembro contribuyendo con investigaciones individuales que luego compartimos y discutimos en reuniones periódicas. En GitHub, establecimos un flujo de trabajo para colaborar en la redacción del informe, creando un repositorio dedicado con secciones divididas en archivos Markdown para facilitar la colaboración y revisión
+
+![Capturas-TB1](/assets/chapter01/evidenciaTB1.png)
+
+TP1:Para esta entrega, el equipo se reunió para definir el alcance y los objetivos, asignando tareas específicas a cada miembro. 
+Dividimos el trabajo por ramas utilizando Git Flow, cada uno realizó una rama en relación a las historias de usuario creadas de la aplicación web y se tuvo reuniones periódicas para ver el avance del proyecto. Además corregimos los errores de la anterior entrega, mejorando por completo el proyecto.
+
+
+![Capturas-TP1](/assets/chapter01/evidenciasTP1.png)
 
 
 ---
@@ -601,7 +610,7 @@ del ABET – EAC - Student Outcome 5
         <td>-La planificación del proyecto aseguró una buena distribución de tareas. Además, la colaboración activa de los miembros del equipo permitió la revision y corrección múltiple de tareas que se consideraban completadas.
         <br>
         -De la misma manera, destacamos el valor de la comunicación interna en el trabajo, lo que facilitó la realización eficiente de cada tarea previniendo la acumulacion excesiva de trabajo.<br>
-        -Un correcto uso de las ramas, git flow y commit conventional son muy utiles 
+        - La implementación efectiva del sprint planning y la cooperación constante con la aplicación web destacaron la importancia del trabajo en equipo, contribuyendo así al éxito del proyecto. 
         </td><br>
     </tr>
     <tr>
@@ -635,7 +644,7 @@ del ABET – EAC - Student Outcome 5
         TB1:</strong> <br>
         En esta entrega se escogió la problemática a resolver teniendo en cuenta su relevancia en la sociedad actual.
         </td>
-        <td>Es esencial que el equipo se coordine para adaptarse a los cambios de planes en respuesta a los desafíos emergentes. Esta adaptabilidad no solo permite una resolución eficaz de los problemas, sino que también fomenta la resiliencia del equipo, permitiendo una mayor capacidad para manejar futuros obstáculos.<br><br>La organizacion del equipo utilizando convenciones de organizacion ayuda anormemente a la efectividad de nuestro avances y rendimiento.</td>
+        <td>Es esencial que el equipo se coordine para adaptarse a los cambios de planes en respuesta a los desafíos emergentes. Esta adaptabilidad no solo permite una resolución eficaz de los problemas, sino que también fomenta la resiliencia del equipo, permitiendo una mayor capacidad para manejar futuros obstáculos.<br><br>- En este proyecto, he mejorado mi habilidad para desarrollar el frontend de manera efectiva. Ha sido una oportunidad para adquirir conocimientos prácticos y habilidades específicas en el desarrollo web..</td>
     </tr>
 </table>
 

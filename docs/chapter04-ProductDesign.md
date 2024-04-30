@@ -196,7 +196,7 @@ Si el usuario elige registrarse como “Transportist”, el proceso también com
 
 ### 4.6.2 Software Architecture Container Diagrams
 
-![Container Diagrams](/assets/chapter04/Software%20Architecture%20Container%20Diagrams.png)
+![Container Diagrams](/assets/chapter04/Software%20Architecture%20Container%20Diagrams.jpeg)
 
 ### 4.6.3 Software Architecture Components Diagrams
 

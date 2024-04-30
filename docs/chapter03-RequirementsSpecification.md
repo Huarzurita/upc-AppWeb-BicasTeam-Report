@@ -12,9 +12,9 @@ EMPRESARIO:
 ## 3.2 User Stories
 ### 3.2.1 User Stories Web Aplication
 
-EPICS
+USER STORIES 
 <table>
-    <tr>
+<tr>
         <th>Epic ID</th>
         <th>Titulo</th>
         <th>Descripcion</th>
@@ -64,10 +64,6 @@ EPICS
         <td>Reporte de problemas</td>
         <td>Como transportista quiero reportar problemas que puedan suceder en mi labor para que se tomen las medidas necesarias.</td>
     </tr>
-</table>
-
-USER STORIES FOR APLICATION
-<table>
     <tr>
         <th>Epic Id</th>
         <th>Story Id</th>
@@ -255,17 +251,6 @@ USER STORIES FOR APLICATION
         <td>Seguimiento y Resolución Oportuna del Problema - Dado el gerente recibe la notificación sobre un problema técnico reportado por un transportista. Cuando el gerente revisa el reporte del problema técnico. Entonces el gerente realiza un seguimiento oportuno del problema reportado, toma las medidas necesarias para resolverlo lo antes posible y proporciona retroalimentación al transportista sobre las acciones tomadas para abordar el problema.</td>
     </tr>
     <!-- SEPARACION DE EPIC 9-->
-</table>
-
-USER STORIES FOR LANDING PAGE
-<table>
-    <tr>
-        <th>Epic Id</th>
-        <th>Story Id</th>
-        <th>Titulo</th>
-        <th>Descripcion</th>
-        <th>Criterios de aceptacion</th>
-    </tr>
     <!-- SEPARACION ENCABEZADOS -->
     <tr>
         <td rowspan="6">EP02</td>
@@ -325,18 +310,6 @@ USER STORIES FOR LANDING PAGE
         <td>Completa y Actualizada - Dado el visitante busca información de contacto. Cuando el visitante revisa la información proporcionada. Entonces la información de contacto es completa y precisa, incluyendo todos los detalles necesarios para que el visitante pueda comunicarse con el sitio web de manera efectiva. Además, se asegura de que la información esté actualizada y corresponda a la ubicación y horario de operación vigentes.</td>
     </tr>
     <!-- SEPARACION EPIC 3 -->
-</table>
-
-
-USER TECHNICAL STORIES
-<table>
-    <tr>
-        <th>Epic Id</th>
-        <th>Story Id</th>
-        <th>Titulo</th>
-        <th>Descripcion</th>
-        <th>Criterios de aceptacion</th>
-    </tr>
     <!-- SEPARACION ENCABEZADOS -->
     <tr>
         <td rowspan="6">EP01</td>
@@ -368,6 +341,8 @@ USER TECHNICAL STORIES
     </tr>
     <!-- SEPARACION EPIC 1 -->
 </table>
+
+Link Pivotal Tracker:https://www.pivotaltracker.com/projects/2700650
 
 ## 3.3 Impact Mapping
 EMPRESARIO

@@ -38,10 +38,6 @@ Universidad Peruana de Ciencias Aplicadas
         <td>Donayre Peña, Moises Rodolfo</td>
         <td>u202216021</td>
     </tr>
-    <tr>
-        <td>nombre</td>
-        <td>codigo</td>
-    </tr>
 </table>
 
 
@@ -59,10 +55,267 @@ Universidad Peruana de Ciencias Aplicadas
         <th>Descripcion de modificacion</th>
     </tr>
     <tr>
-        <td>Algo</td>
-        <td>Algo</td>
-        <td>Algo</td>
-        <td>Algo</td>
+        <td>V0.1</td>
+        <td>20/03/2024</td>
+        <td>Elias Enrique Torres Espinoza</td>
+        <td>Se Describió la Startup y su producto creado</td>
+    </tr>
+    <tr>
+        <td>V0.2</td>
+        <td>20/03/2024</td>
+        <td>Donayre Peña, Moises Rodolfo</td>
+        <td>Se agregó el perfil de los integrantes</td>
+    </tr>
+    <tr>
+        <td>V0.3</td>
+        <td>21/03/2024</td>
+        <td>Chacón Martínez, Mauricio Sebastián</td>
+        <td>Se describieron los antecedentes y problemática aplicando la técnica adecuada.</td>
+    </tr>
+    <tr>
+        <td>V0.4</td>
+        <td>21/03/2024</td>
+        <td>Tarazona Medina, Piero Abel</td>
+        <td>Se añadió Lean UX Problem statement</td>
+    </tr>
+    <tr>
+        <td>V0.5</td>
+        <td>21/03/2024</td>
+        <td>Elias Enrique Torres Espinoza</td>
+        <td>Se añadió Lean UX Hipótesis</td>
+    </tr>
+    <tr>
+        <td>V0.6</td>
+        <td>21/03/2024</td>
+        <td>Donayre Peña, Moises Rodolfo</td>
+        <td>Se agregó Lean UX Assumptions</td>
+    </tr>
+    <tr>
+        <td>V0.7</td>
+        <td>22/03/2024</td>
+        <td>Huarcaya Chavez Miguel Alejandro Daniel</td>
+        <td>Lean UX canvas</td>
+    </tr><tr>
+        <td>V0.8</td>
+        <td>22/03/202</td>
+        <td>Elias Enrique Torres Espinoza</td>
+        <td>Agregó Segmentos objetivos</td>
+    </tr>
+    <tr>
+        <td>V0.9</td>
+        <td>22/03/2024</td>
+        <td>Huarcaya Chavez Miguel Alejandro Daniel</td>
+        <td>Se añadió Análisis competitivo y estrategias frente a competidores</td>
+    </tr>
+    <tr>
+        <td>V0.10</td>
+        <td>24/03/2024</td>
+        <td>Chacón Martínez, Mauricio Sebastián</td>
+        <td>Se diseñó y realizó las entrevistas al segmento objetivo.</td>
+    </tr>
+    <tr>
+        <td>V0.11</td>
+        <td>24/03/2024</td>
+        <td>Tarazona Medina, Piero Abel</td>
+        <td>Se hizo un análisis de las entrevistas realizadas.</td>
+    </tr>
+    <tr>
+        <td>V0.12</td>
+        <td>24/03/2024</td>
+        <td> Elias Enrique Torres Espinoza</td>
+        <td>Se construyó un User Persona</td>
+    </tr>
+    <tr>
+        <td>V0.13</td>
+        <td>24/03/2024</td>
+        <td>Donayre Peña, Moises Rodolfo</td>
+        <td>Se agregó el Task Matrix y Journey Mapping</td>
+    </tr>
+    <tr>
+        <td>V0.14</td>
+        <td>26/03/2024</td>
+        <td>Tarazona Medina, Piero Abel</td>
+        <td>Se agregó el Journey Mapping.</td>
+    </tr>
+    <tr>
+        <td>V0.15</td>
+        <td>26/03/2024</td>
+        <td>Huarcaya Chavez Miguel Alejandro Daniel</td>
+        <td>Se agregó el mapa de empatía y el As-is Scenario Mapping</td>
+    </tr>
+    <tr>
+        <td>V0.16</td>
+        <td>26/03/2024</td>
+        <td>Chacón Martínez, Mauricio Sebastián</td>
+        <td>Se agregó Ubiquituos lenguaje</td>
+    </tr>
+    <tr>
+        <td>V0.17</td>
+        <td>27/03/2024</td>
+        <td> Elias Enrique Torres Espinoza</td>
+        <td>Se agregó el To be, los User Stories,Impact Map,Product Backlog</td>
+    </tr>
+    <tr>
+        <td>V0.18</td>
+        <td>27/03/2024</td>
+        <td> Donayre Peña, Moises Rodolfo</td>
+        <td>Se agregó los User Stories</td>
+    </tr>
+    <tr>
+        <td>V0.19</td>
+        <td>27/03/2024</td>
+        <td>Huarcaya Chavez Miguel Alejandro Daniel</td>
+        <td>Se agregó el Impact Mapping</td>
+    </tr>
+    <tr>
+        <td>V0.20</td>
+        <td>27/03/2024</td>
+        <td>Tarazona Medina, Piero Abel</td>
+        <td>Se agregó el Product Backlog</td>
+    </tr>
+    <tr>
+        <td>V0.21</td>
+        <td>28/03/2024</td>
+        <td>Huarcaya Chavez Miguel Alejandro Daniel</td>
+        <td>Se añadió la Guía de estilos</td>
+    </tr>
+    <tr>
+        <td>V0.22</td>
+        <td>28/03/2024</td>
+        <td>Chacón Martínez, Mauricio Sebastián</td>
+        <td>Se colocó la arquitectura de la información</td>
+    </tr>
+    <tr>
+        <td>V0.23</td>
+        <td>28/03/2024</td>
+        <td>Tarazona Medina, Piero Abel</td>
+        <td>Se realizó los wireframe del Landing page</td>
+    </tr>
+    <tr>
+        <td>V0.24</td>
+        <td>28/03/2024</td>
+        <td>Chacón Martínez, Mauricio Sebastián</td>
+        <td>Se realizó los mockup del Landing page</td>
+    </tr>
+    <tr>
+        <td>V0.25</td>
+        <td>28/03/2024</td>
+        <td> Elias Enrique Torres Espinoza</td>
+        <td>Se realizó los wireframe de la Web Application</td>
+    </tr>
+    <tr>
+        <td>V0.26</td>
+        <td>28/03/2024</td>
+        <td>Tarazona Medina, Piero Abel</td>
+        <td>Se realizó los mockup de la Web Application</td>
+    </tr>
+    <tr>
+        <td>V0.27</td>
+        <td>28/03/2024</td>
+        <td>Donayre Peña, Moises Rodolfo</td>
+        <td>Se agregó el flow diagrams para Web Application.</td>
+    </tr>
+    <tr>
+        <td>V0.28</td>
+        <td>29/03/2024</td>
+        <td> Huarcaya Chavez Miguel Alejandro Daniel</td>
+        <td>Se realizó el prototipo de la aplicación web</td>
+    </tr>
+    <tr>
+        <td>V0.29</td>
+        <td>29/03/2024</td>
+        <td> Elias Enrique Torres Espinoza</td>
+        <td>Se realizó el domain-driven Software Architecture</td>
+    </tr>
+    <tr>
+        <td>V0.30</td>
+        <td>30/03/2024</td>
+        <td>Tarazona Medina, Piero Abel</td>
+        <td>Se agregó el class diagrams</td>
+    </tr>
+    <tr>
+        <td>V0.31</td>
+        <td>31/03/2024</td>
+        <td>Elias Enrique Torres Espinoza</td>
+        <td>Se agregó el class dictionary</td>
+    </tr>
+    <tr>
+        <td>V0.32</td>
+        <td>01/04/2024</td>
+        <td>Donayre Peña, Moises Rodolfo</td>
+        <td>Se realizó el diseño de la base de datos</td>
+    </tr>
+    <tr>
+        <td>V0.33</td>
+        <td>04/04/2024</td>
+        <td>Chacón Martínez, Mauricio Sebastián</td>
+        <td>Software Configuration Management</td>
+    </tr>
+    <tr>
+        <td>V0.34</td>
+        <td>04/04/2024</td>
+        <td>Chacón Martínez, Mauricio Sebastián</td>
+        <td>Implementación de páginas de destino, servicios y aplicaciones</td>
+    </tr>
+    <tr>
+        <td>V0.35</td>
+        <td>05/04/2024</td>
+        <td>Tarazona Medina, Piero Abel</td>
+        <td>Se realizó el Sprint Planning 1</td>
+    </tr>
+    <tr>
+        <td>V0.36</td>
+        <td>05/04/2024</td>
+        <td>Elias Enrique Torres Espinoza</td>
+        <td>Se realizó el Sprint Backlog 1</td>
+    </tr>
+    <tr>
+        <td>V0.37</td>
+        <td>06/04/202</td>
+        <td> Donayre Peña, Moises Rodolfo</td>
+        <td>Evidencia de desarrollo para Sprint Review.</td>
+    </tr>
+    <tr>
+        <td>V0.38</td>
+        <td>06/04/2024</td>
+        <td>Huarcaya Chavez Miguel Alejandro Daniel</td>
+        <td>Información sobre la colaboración en equipo durante Sprint.</td>
+    </tr>
+    <tr>
+        <td>V1.0</td>
+        <td>06/04/2024</td>
+        <td>Chacón Martínez, Mauricio Sebastián</td>
+        <td>Avance de conclusiones, bibliográficas y anexos</td>
+    </tr>
+    <tr>
+        <td>algo</td>
+        <td>3asdasd</td>
+        <td>gerwwegewgweg</td>
+        <td>Sdfgdfgs</td>
+    </tr>
+    <tr>
+        <td>algo</td>
+        <td>3asdasd</td>
+        <td>gerwwegewgweg</td>
+        <td>Sdfgdfgs</td>
+    </tr>
+    <tr>
+        <td>algo</td>
+        <td>3asdasd</td>
+        <td>gerwwegewgweg</td>
+        <td>Sdfgdfgs</td>
+    </tr>
+    <tr>
+        <td>algo</td>
+        <td>3asdasd</td>
+        <td>gerwwegewgweg</td>
+        <td>Sdfgdfgs</td>
+    </tr>
+    <tr>
+        <td>algo</td>
+        <td>3asdasd</td>
+        <td>gerwwegewgweg</td>
+        <td>Sdfgdfgs</td>
     </tr>
 </table>
 

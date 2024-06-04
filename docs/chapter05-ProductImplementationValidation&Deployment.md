@@ -447,3 +447,24 @@ Durante el Sprint 2, llevamos a cabo el despliegue de nuestra aplicación web en
 ### 5.2.2.8 Team Collaboration Insights during Sprint.
 
 Durante este segundo Sprint, hemos avanzado el desarrollo de la aplicación web y hemos colaborado estrechamente en su implementación. La colaboración entre los miembros del equipo se refleja en los diversos commits realizados en el repositorio de GitHub, los cuales han sido debidamente documentados en las capturas de pantalla adjuntas. Para asegurar una colaboración efectiva, hemos implementado GitFlow como nuestra metodología de trabajo colaborativo en Git. Con GitFlow, hemos creado ramas para cada una de las secciones de nuestra aplicación web. Esto nos ha permitido trabajar de manera organizada y centrarnos en completar correctamente las historias de usuario designadas para cada sección. En cuanto a la elaboración del código, hemos asignado a cada miembro del equipo una sección específica de la aplicación web. Esta estrategia nos ha permitido avanzar de manera más eficiente y completar el trabajo antes de la fecha de entrega. Además, hemos realizado reuniones adicionales para intercambiar ideas y resolver cualquier duda o problema que pudiera surgir durante el desarrollo del landing page. Estas sesiones han contribuido de manera positiva al éxito del proyecto. A continuación, presentamos algunas capturas de pantalla que muestran los commits realizados por los miembros del equipo en GitHub:
+
+
+###
+
+### 5.2.3. Sprint 3
+### 3 5.2.3.1. Spring Planning 
+### 5.2.3.2. Sprint Backlog 
+### 5.2.3.3. Development Evidence for Sprint Review. 
+### 5.2.3.4. Testing Suite Evidence for Sprint Review. 
+### 5.2.3.5. Execution Evidence for Sprint Review. 
+### 5.2.3.6. Services Documentation Evidence for Sprint Review. 
+
+### 5.2.3.7. Software Deployment Evidence for Sprint Review.
+
+### 5.2.3.8. Team Collaboration Insights during Sprint.
+### 5.3. Validation Interviews. 
+### 5.3.1. Diseño de Entrevistas. 
+### 5.3.2. Registro de Entrevistas. 
+### 5.3.3. Evaluaciones según heurísticas. 
+### 5.4. Video About-the-Product. 
+

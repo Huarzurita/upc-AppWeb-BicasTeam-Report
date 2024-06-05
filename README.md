@@ -676,6 +676,8 @@ LandingPage Desplegado:  https://upc-appweb-bicasteam.github.io/upc-AppWeb-Bicas
 
 App Web Desplegado: https://upc-appweb-bicasteam.github.io/upc-AppWeb-BicasTeam-AppWeb.github.io/
 
+Web Service Desplegado: http://pierotarazona-001-site1.jtempurl.com/
+
 Figma Landing Page: https://www.figma.com/file/oSwWYfZnNSnswDhg3Hj8Hi/BicasTeam-AppWeb?type=design&node-id=10%3A2&mode=design&t=swT32jkAXP4WhU5w-1
 
 Figma App Web: https://www.figma.com/file/UznJufoIMBwWow9ny8cXO5/Web-Application_BicasTeam?type=design&node-id=126%3A98&mode=design&t=QAcsG0V5XHFwF6rg-1
@@ -685,4 +687,7 @@ PivotalTracker-ProductBacklog: https://www.pivotaltracker.com/projects/2700650
 Video EXPO TB1: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202116207_upc_edu_pe/EXDoi9eqytxDgS2l2ETDzYcBysGoygJvD6vi1xoWs_YzFw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=vQWNo8
 
 
-Video de EXPO TP1:
+Video de EXPO TP1: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202116207_upc_edu_pe/EXDoi9eqytxDgS2l2ETDzYcBysGoygJvD6vi1xoWs_YzFw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxv
+
+Video Expo TP1: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202217633_upc_edu_pe/Ech9xATWtJtMlnBS3Th7gHYBsmt8grTr4yjT_qeDSrsxfg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=2WPBEH
+

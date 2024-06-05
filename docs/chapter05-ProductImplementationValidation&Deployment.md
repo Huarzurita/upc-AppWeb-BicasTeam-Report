@@ -342,3 +342,167 @@ A continuación, presentamos algunas capturas de pantalla que muestran los commi
 ![Elias](/assets/elias.png)
 
 ![Moises](/assets/moises.png)
+
+### 5.2.2 Sprint 2
+En esta sección, comentaremos y explicaremos el progreso tanto en el desarrollo del producto como en la colaboración del equipo durante el Sprint 2. Seguimos un proceso definido que abarca desde la planificación hasta la revisión y documentación del trabajo realizado. A lo largo de las siguientes secciones, detallaremos cómo se llevó a cabo la planificación del sprint, qué tareas se incluyeron en el Sprint Backlog, las pruebas y evidencia de desarrollo para la revisión del sprint, así como la documentación de los servicios y las percepciones clave sobre la colaboración del equipo durante este periodo.
+
+#### 5.2.2.1 Sprint Planning 2
+En esta sección, se detallan los aspectos principales del Sprint Planning Meeting para el Sprint n. Este encuentro es crucial para establecer los objetivos del sprint, determinar las user stories que se abordarán y asignar tareas al equipo. A continuación, se presenta un resumen del Sprint Planning Meeting para este período.
+
+|Sprint #|Sprint 2|
+| :- | :- |
+|Sprint Planning Background||
+|Date|2024-04-22|
+|Time|07:06 PM|
+|Location|Google Meet|
+|Prepared by|Piero Abel Tarazona Medina|
+|Attendees (to planning meeting)|Piero Tarazona, Mauricio Chacon, Elias, Moises Donayre, Miguel|
+|Sprint 2 – 1 Review Summary|Sprint 2 fue un éxito en términos de avance del frontend de la aplicación web y colaboración efectiva del equipo. Los logros alcanzados y la retroalimentación recopilada durante esta revisión proporcionan una base sólida para el siguiente sprint y refuerzan el compromiso del equipo con la calidad y la entrega oportuna del producto.|
+|Sprint 2 – 1 Retrospective Summary|Para la retrospectiva del Sprint 2 nos sirvió para reflexionar sobre el desempeño del equipo e identificar áreas de mejora. Esto nos servirá como base para impulsar la mejora continua y optimizar el trabajo del equipo en los próximos sprints.|
+|Sprint Goal & User Stories||
+|Sprint 1 Goal|Alcanzar una métrica de cumplimiento del 100%, lo que indicará que se ha logrado los objetivos del sprint 2.|
+|Sprint 1 Velocity|Con el equipo para este sprint 2 decidimos aceptar 7 Story Points|
+|Sum of Story Points|La suma de los Story Points para los User Stories que se están incluyendo en este Sprint 2 es 21|
+
+#### 5.2.2.2 Sprint Backlog 2
+El Sprint 2 está centrado en el frontend de nuestra aplicación web, priorizando las historias de usuario identificadas. Nuestro objetivo principal es proporcionar a los usuarios una experiencia inicial sólida al presentar una navegación intuitiva y acceso rápido a las funcionalidades relevantes. Al completar las tareas asociadas a las historias de usuario definidas, sentaremos una buena base para la aplicación web, asegurando que lo propuesto contribuya al éxito del proyecto.
+
+URL del Board en Trello: 
+
+<https://trello.com/invite/b/5B5dHJXJ/ATTI89c324fa13b11e255137811b14e197e78549A8F8/appweb-sprinbacklog-2> 
+
+![trello sprint 2](/assets/chapter05%20-%20spring%202/trello-print-backlog-2.png)
+
+|Sprint #|Sprint 2|||||||
+| :- | :- | :- | :- | :- | :- | :- | :- |
+|User Story|Work-Item / Task|||||||
+|Id|Title|Id|Title|Descripción|Estimation (Hours)|Assigned to|Status (To-do / In / Process / ToReview / Done)|
+|US02|Visualización de reportes de un transportista.|T07|Desarrollo de la función de reportes para transportistas|Establecer una conexión entre la funcionalidad y la base de datos para obtener los reportes de cada transportista.|4|Piero Tarazona|Done|
+|US13|Reporte de infracciones|T08|Implementación de reporte de infracciones vehiculares|Crear las estructuras de datos necesarias para almacenar la información de las infracciones que reporte un transportista|5|Piero Tarazona|Done|
+|US10|Gestión de inventario de flotas|T09|Incorporación de una gestión de flotas vehiculares|Crear un sistema de gestión de inventario de flotas que permita al gerente visualizar y agregar nuevas flotas al negocio.|5|Mauricio Chacon|Done|
+|US11|Modificar perfil de gerente|T10|Sistema de modificación de perfiles de gerentes|Permitir la modificación de los campos del perfil del gerente, incluyendo información personal y credenciales de acceso.|5|Miguel Huarcaya|Done|
+|US12|Modificar perfil de transportistas|T11|Sistema de modificación de perfiles de transportistas|Permitir la modificación de los campos del perfil del transportista, incluyendo información personal y credenciales de acceso.|6|Mauricio Chacon|Done|
+|US03|Visualización de envíos asignados a un transportista.|T12|Implementar envios a transportista|Desarrollar un sistema que permita obtener la información de los envíos asignados a los transportistas, facilitando el seguimiento y la gestión de las entregas en tiempo real.|6|Elias Torres|Done|
+|US08|Visualización de historial de envíos|T13|Implementar historial de envíos|Implementar la funcionalidad que permita recuperar y presentar los envíos asignados a un transportista específico, proporcionando una visión clara de las tareas pendientes y completadas por cada miembro del equipo de transporte.|5|Moises Donayre|Done|
+
+#### 5.2.2.3 Development Evidence for Sprint Review
+Esta sección documenta y presenta la serie de commits realizados en el repositorio de la Aplicación Web. Estos commits, que son una parte integral del proceso de desarrollo, se han gestionado utilizando la metodología GitFlow y siguiendo estrictamente las convenciones establecidas para los commits. Esta evidencia sirve como un registro transparente y trazable de nuestro progreso y esfuerzos de desarrollo a lo largo del sprint.
+
+![Development evidence](/assets//chapter05%20-%20spring%202/sprint2-developmentEvidenceSprint.jpg)
+
+|Repository|Branch|Commit Id|Commit Message|Commit Message Body|Committed on (Date)|
+| :-: | :-: | :-: | :-: | :-: | :-: |
+|upc-pre-202401-si729-sv54-bicasteam-app-web|main|f4745dd|chore|create project with Vite + Vue.js|22-04|
+|upc-pre-202401-si729-sv54-bicasteam-app-web|main|6a269f7|chore|created carpets|23-04|
+|upc-pre-202401-si729-sv54-bicasteam-app-web|feature/display-of-carrier-statistics|e221a5b|feat|added default configuration for remote services client|23-04|
+|upc-pre-202401-si729-sv54-bicasteam-app-web|feature/display-of-carrier-statistics|4858997|feat|added configuration for in-app navigation|25-04|
+|upc-pre-202401-si729-sv54-bicasteam-app-web|feature/display-of-carrier-statistics|44502a1|doc|updated documentation with summary, features and dependencies|25-04|
+|upc-pre-202401-si729-sv54-bicasteam-app-web|feature/display-of-carrier-statistics|36b609a|feat|implemented main view integrating in-app navigation|27-04|
+|upc-pre-202401-si729-sv54-bicasteam-app-web|feature/display-of-carrier-statistics|a101c7a|feat|add report view in table|27-04|
+|upc-pre-202401-si729-sv54-bicasteam-app-web|feature/display-of-carrier-statistics|17863f0|feat|add sidebar component|29-04|
+|upc-pre-202401-si729-sv54-bicasteam-app-web|feature/display-of-carrier-statistics|61fba68|feat|updated table information, now driver names are shown by another json file|29-04|
+|upc-pre-202401-si729-sv54-bicasteam-app-web|feature/display-of-carrier-statistics|240de24|fix|app.vue name|30-04|
+|upc-pre-202401-si729-sv54-bicasteam-app-web|feature/main-content-flow|4858997|feat|added configuration for in-app navigation support|22-04|
+|upc-pre-202401-si729-sv54-bicasteam-app-web|feature/main-content-flow|18a5257|feat|added login page and route|22-04|
+|upc-pre-202401-si729-sv54-bicasteam-app-web|feature/main-content-flow|9f107ab|feat|add regsiter type selection account|22-04|
+|upc-pre-202401-si729-sv54-bicasteam-app-web|feature/main-content-flow|0b1da44|feat|register validations added|25-04|
+|upc-pre-202401-si729-sv54-bicasteam-app-web|feature/main-content-flow|a40221f|fix|path of login component and redirect|25-04|
+|upc-pre-202401-si729-sv54-bicasteam-app-web|feature/main-content-flow|2bb7de8|feat|update db.json|27-04|
+|upc-pre-202401-si729-sv54-bicasteam-app-web|feature/main-content-flow|9f3f805|fix|count class|27-04|
+|upc-pre-202401-si729-sv54-bicasteam-app-web|feature/main-content-flow|051757c|fix|json and endpoints|29-04|
+|upc-pre-202401-si729-sv54-bicasteam-app-web|feature/main-content-flow|4f87ae5|fix|fix components in profiles-mangment bounded countext|29-04|
+|upc-pre-202401-si729-sv54-bicasteam-app-web|feature/personal-data-managment|3dd439b|feat|change textinputarea color|25-04|
+|upc-pre-202401-si729-sv54-bicasteam-app-web|feature/personal-data-managment|f5efa83|feat|add api connection to display data from fakeAPI|25-04|
+|upc-pre-202401-si729-sv54-bicasteam-app-web|feature/personal-data-managment|e3cf545|feat|refactor data-view component|27-04|
+|upc-pre-202401-si729-sv54-bicasteam-app-web|feature/personal-data-managment|d291656|feat|add form for profile management|27-04|
+|upc-pre-202401-si729-sv54-bicasteam-app-web|feature/personal-data-managment|83da2e8|feat|add sidebar component|29-04|
+|upc-pre-202401-si729-sv54-bicasteam-app-web|feature/shipment-managment|b199910|feat|added view shipment component|22-04|
+|upc-pre-202401-si729-sv54-bicasteam-app-web|feature/shipment-managment|3db8a08|feat|added option to view details of each shipment and add new shipment and add new shipments|25-04|
+|upc-pre-202401-si729-sv54-bicasteam-app-web|feature/shipment-managment|d48519d|feat|updated connection with my json server|28-04|
+|upc-pre-202401-si729-sv54-bicasteam-app-web|feature/shipment-managment|7fa96e9|feat|added visualization of shipments|30-04|
+|upc-pre-202401-si729-sv54-bicasteam-app-web|feature/vehicules-managment|ea6e12b|feat|add vehicles-businessman methods|22-04|
+|upc-pre-202401-si729-sv54-bicasteam-app-web|feature/vehicules-managment|2758ab3|feat|add display-vehicles-businessman page|25-04|
+|upc-pre-202401-si729-sv54-bicasteam-app-web|feature/vehicules-managment|ec567a2|feat|direction for vechiles|27-04|
+|upc-pre-202401-si729-sv54-bicasteam-app-web|feature/vehicules-managment|beb6dd7|fix|routes and information from login|27-04|
+|upc-pre-202401-si729-sv54-bicasteam-app-web|feature/vehicules-managment|3dd439b|feat|change textinputarea color|27-04|
+|upc-pre-202401-si729-sv54-bicasteam-app-web|feature/vehicules-managment|2d6d5e7|feat|ddded route for vehicle fleet view|29-04|
+|upc-pre-202401-si729-sv54-bicasteam-app-web|develop|9cb2d63|feat|page vehicle carrier|30-04|
+|upc-pre-202401-si729-sv54-bicasteam-app-web|develop|fef7d7b|feat|add services|30-04|
+|upc-pre-202401-si729-sv54-bicasteam-app-web|develop|c8e9bfb|fix|type in sidebar|30-04|
+|upc-pre-202401-si729-sv54-bicasteam-app-web|develop|2758ab3|feat|add display-vehicles-businessman page|30-04|
+|upc-pre-202401-si729-sv54-bicasteam-app-web|develop|ea6e12b|feat|add vehicles-businessman methods|30-04|
+|upc-pre-202401-si729-sv54-bicasteam-app-web|develop|1b028ef|fix|fix components in profiles managment bounded context|30-04|
+|upc-pre-202401-si729-sv54-bicasteam-app-web|develop|28c141d|feat|routes implemented and merge|30-04|
+|upc-pre-202401-si729-sv54-bicasteam-app-web|develop|6cc6e44|feat|setting funcionality|30-04|
+|upc-pre-202401-si729-sv54-bicasteam-app-web|develop|b199910|feat|added view shipment component|30-04|
+|upc-pre-202401-si729-sv54-bicasteam-app-web|develop|26c5b8d|feat|merge and implemented shipments|30-04|
+
+#### 5.2.2.4 Testing Suite Edvidence for Sprint Review
+En esta sección, presentamos la evidencia de las pruebas realizadas durante el sprint. Hemos utilizado Gherkin para definir los escenarios de prueba y hemos registrado cada prueba en commits específicos en nuestro repositorio. A continuación, se muestra un registro de estos commits:
+
+|Repository|Branch|Commit Id|Commit Message|Commit Message Body|Commited on (Date)|
+| :- | :- | :- | :- | :- | :- |
+|upc-pre-202401-si729-sv54-bicasteam-app-web|featuredisplay-of-carrier-statistics|e221a5b|feat: ...|add test for display of carrier statistics|29-04|
+|upc-pre-202401-si729-sv54-bicasteam-app-web|feature/main-content-flow|4858997|feat: ...|add test for main content flow|29-04|
+|upc-pre-202401-si729-sv54-bicasteam-app-web|feature/personal-data-managment|3dd439b|feat: ...|add test for personal data managment|29-04|
+|upc-pre-202401-si729-sv54-bicasteam-app-web|feature/shipment-managment|b199910|feat: ...|<p>add test for shipment managment</p><p></p>|29-04|
+|upc-pre-202401-si729-sv54-bicasteam-app-web|feature/vehicules-managment|ea6e12b|feat: ...|add test for vehicules managment|29-04|
+
+#### 5.2.2.5 Execution Evidence for Sprint Review
+Durante el Sprint 2, se logró un progreso significativo en la implementación de las características clave del frontend en la aplicación web. El equipo completó con éxito las historias de usuario asignadas para este sprint, que incluyeron el desarrollo del frontend en nuestra aplicación web, también con la integración de acceso visible a todas las opciones, incluso de un llamado a la acción prominente para dirigir a los visitantes a la aplicación web. El equipo trabajó de manera colaborativa para garantizar que las características implementadas cumplan con los requisitos y contribuyan a una experiencia de usuario positiva.
+
+Capturas de pantalla:
+![Execution evidence](/assets/chapter05%20-%20spring%202/ExecutionEvidenceSpirntReview1.png)
+
+![Execution evidence 2](/assets/chapter05%20-%20spring%202/ExecutionEvidenceSpirntReview2.png)
+
+#### 5.2.2.6 Serivces Documentation Evidence for Sprint Review
+Durante este Sprint 2, nos enfocamos en desarrollar el “App web Solution”, sin implementación de ningún servicio. Por lo tanto, este punto quedará sin actividad en este aspecto.
+
+#### 5.2.2.7 Software Deployment Evidence for Sprint Review
+Durante el Sprint 2, llevamos a cabo el despliegue de nuestra aplicación web en GitHub Pages. A continuación, detallamos los pasos realizados:
+
+- Creación del Repositorio en GitHub: Iniciamos creando un repositorio dedicado en GitHub para nuestro proyecto de aplicación web.
+- Configuración de la Rama main: Aseguramos que la rama principal del repositorio se llamará main, ya que GitHub Pages toma esta rama como base para el despliegue automático.
+- Preparación del Contenido: Desarrollamos y diseñamos nuestra aplicación web, asegurándonos de que todos los archivos y recursos necesarios estuvieran presentes en el repositorio.
+- Generación del enlace de GitHub Pages: Navegamos a la sección "Pages" en la configuración del repositorio en GitHub. Configuramos la fuente del GitHub Pages para que tomara el contenido de la rama main.
+- Despliegue Automático: GitHub Pages automáticamente detectó los cambios en la rama main y desplegó la aplicación web en la URL proporcionada por GitHub Pages.
+
+#### 5.2.2.8 Team collaboration insights during Sprint
+Durante este segundo Sprint, hemos avanzado el desarrollo de la aplicación web y hemos colaborado estrechamente en su implementación. La colaboración entre los miembros del equipo se refleja en los diversos commits realizados en el repositorio de GitHub, los cuales han sido debidamente documentados en las capturas de pantalla adjuntas. Para asegurar una colaboración efectiva, hemos implementado GitFlow como nuestra metodología de trabajo colaborativo en Git. Con GitFlow, hemos creado ramas para cada una de las secciones de nuestra aplicación web. Esto nos ha permitido trabajar de manera organizada y centrarnos en completar correctamente las historias de usuario designadas para cada sección. En cuanto a la elaboración del código, hemos asignado a cada miembro del equipo una sección específica de la aplicación web. Esta estrategia nos ha permitido avanzar de manera más eficiente y completar el trabajo antes de la fecha de entrega. Además, hemos realizado reuniones adicionales para intercambiar ideas y resolver cualquier duda o problema que pudiera surgir durante el desarrollo del landing page. Estas sesiones han contribuido de manera positiva al éxito del proyecto. A continuación, presentamos algunas capturas de pantalla que muestran los commits realizados por los miembros del equipo en GitHub:
+
+![Team Collaboration Insights](/assets/chapter05%20-%20spring%202/TeamCollaborationInsightDuringSprint.png)
+
+---
+
+### 5.2.3 Sprint 3
+
+#### 5.2.3.1 Sprint Planning 3
+
+#### 5.2.3.2 Sprint Backlog 3
+
+#### 5.2.3.3 Development Evidence for Sprint Review
+
+#### 5.2.3.4 Testing Suite Evidence for Sprint Review
+
+#### 5.2.3.5 Execution Evidence for Sprint Review
+
+#### 5.2.3.6 Services Documentation Evidence for Sprint Review
+
+#### 5.2.3.7 Software Deployment Evidence for Sprint Review
+
+#### 5.2.3.8 Team Collaboration Insights During Sprint
+
+---
+
+## 5.3 Validation Interviews
+
+### 5.3.1 Diseño de Entrevsitas
+
+### 5.3.2 Registro de Entrevistas
+
+### 5.3.3 Evaluaciones segun heuristicas
+
+---
+
+## 5.4 Video About The Product

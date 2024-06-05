@@ -17,8 +17,6 @@ Universidad Peruana de Ciencias Aplicadas
 ### Producto: MoviGestion
 ### Integrantes:
 
-<center>
-
 <table align="center">
     <tr>
         <th>Nombre</th>
@@ -46,8 +44,6 @@ Universidad Peruana de Ciencias Aplicadas
     </tr>
 </table>
 
-
-</center>
 
 <center> Abril, 2024</center>
 
@@ -239,16 +235,6 @@ evidenciado debe tener coherencia con el Registro de Versiones del Informe -->
 
 [5.2.1.8. Team Collaboration Insights during Sprint.]()
 
-[5.3. Validation Interviews]()
-
-[5.3.1. Diseño de Entrevistas.]()
-
-[5.3.2. Registro de Entrevistas]()
-
-[5.3.3. Evaluaciones según heurísticas.]()
-
-[5.4. Video About-the-Product.]()
-
 [Conclusiones]()
 
 [Bibliografía]()
@@ -277,12 +263,130 @@ del ABET – EAC - Student Outcome 5
     </tr>
     <tr>
         <td>Participa en equipos multidisciplinarios con eficacia, eficiencia y objetividad, en el marco de un proyecto en soluciones de ingeniería de software</td>
-        <td>Col 2</td>
-        <td>Col 3</td>
+        <td><strong>Miguel Huarcaya
+        <br>
+        TB1:</strong> <br>
+        -Implentación de las historias de usuarios y el Product Backlog
+        <br>
+        -Cooperación con el landing page
+        <br>
+        -Realización del Impact Map
+        <br>
+        -Contribución en puntos del Needfinding
+        <br>
+        <strong>Piero Tarazona
+        <br>
+        TB1:</strong> <br>
+        -Aportar en el apartado de entrevistas y análisis
+        <br>
+        -Implementación de los puntos en el Style Guidelines
+        <br>
+        -Implementación del diagrama de clases
+        <br>
+        -Mejora del Software Configuration Management
+        <br>
+        <strong>Elias Torres
+        <br>
+        TB1:</strong> <br>
+        -Realización de entrevistas
+        <br>
+        -Contribución del As-Is y To-Be Scenario Mapping
+        <br>
+        -Ayuda en el product design 
+        <br>
+        -Implementación del Domain-Driven Software Architecture
+        <br>
+        -Implementación del landing page
+        <br>
+        <strong>Moises Donayre
+        <br>
+        TB1:</strong> <br>
+        -Implementación del Startup Profile y segmentos objetivos
+        <br>
+        -Seguimiento de competidores y análisis
+        <br>
+        -Contribución en el apartado de entrevistas y análisis
+        <br>
+        -Ayuda en el Product Design
+        <br>
+        -Contribución con el landing page
+        <br>
+        <strong>Maurcio Chacon
+        <br>
+        TB1:</strong> <br>
+        -Implementación del Lean UX Process
+        <br>
+        -Contribución en el Ubiquitous Language
+        <br>
+        -Ayuda en el Product Design
+        <br>
+        -Contribución con el landing page
+        <br>
+        -Aportación en los puntos del Product Implementation, Validation & Deployment
+        </td>
+        <td>-La planificación del proyecto aseguró una buena distribución de tareas. Además, la colaboración activa de los miembros del equipo permitió la revision y corrección múltiple de tareas que se consideraban completadas.
+        <br>
+        -De la misma manera, destacamos el valor de la comunicación interna en el trabajo, lo que facilitó la realización eficiente de cada tarea previniendo la acumulacion excesiva de trabajo.</td>
     </tr>
     <tr>
         <td>Conoce al menos un sector empresarial o dominio de aplicación de soluciones de software</td>
-        <td>Col 2</td>
-        <td>Col 3</td>
+        <td><strong>Miguel Huarcaya
+        <br>
+        TB1:</strong> <br>
+        Durante este entregable aprendí a realizar correctamente los user persona e impact map.
+        <br>
+        <strong>Piero Tarazona
+        <br>
+        TB1:</strong> <br>
+        Para esta entrega supimos elegir nuestros segmentos y personas para la entrevista, de esta manera conocemos sus puntos de vista.
+        <br>
+        <strong>Elias Torres
+        <br>
+        TB1:</strong> <br>
+        He trabajado en el proyecto con nuevas herramientas vistas en el statement, así tendremos un entregable más profesional.
+        <br>
+        <strong>Moises Donayre
+        <br>
+        TB1:</strong> <br>
+        En el desarrollo nos enfocamos en analizar la competencia para observar las necesidades del entorno.
+        <br>
+        <strong>Maurcio Chacon
+        <br>
+        TB1:</strong> <br>
+        En esta entrega se escogió la problemática a resolver teniendo en cuenta su relevancia en la sociedad actual.
+        </td>
+        <td>Es esencial que el equipo se coordine para adaptarse a los cambios de planes en respuesta a los desafíos emergentes. Esta adaptabilidad no solo permite una resolución eficaz de los problemas, sino que también fomenta la resiliencia del equipo, permitiendo una mayor capacidad para manejar futuros obstáculos.</td>
     </tr>
 </table>
+
+# Conclusiones 
+
+La introducción del enfoque Lean UX en el primer capítulo ha favorecido una comprensión más profunda y una aplicación más efectiva de las herramientas en nuestra propuesta de servicio de transporte para clientes. Además, ha contribuido a una definición más precisa de nuestro público objetivo o segmento al que está dirigida nuestra aplicación. Al completar la fase inicial de nuestro proyecto y después de identificar los principales problemas enfrentados por nuestros segmentos, hemos llegado a la conclusión de que la aplicación web MoviGestion sería beneficiosa para mejorar la experiencia tanto de los transportistas como de los empresarios que poseen flotas de camiones al utilizar la herramienta. El proceso de entrevistas ha sido esencial para aclarar la visión del proyecto desde la perspectiva del usuario, lo que ha resultado crucial para mejorar las funcionalidades de la aplicación.
+Durante el Sprint 2, el equipo ha seguido un proceso estructurado desde la planificación hasta la revisión y documentación del trabajo realizado. Lo que nos ha servido para el desarrollo del producto, cumpliendo con las tareas incluidas en el Sprint Backlog, y se ha puesto énfasis en la colaboración del equipo. La evaluación de la planificación del sprint, la realización de pruebas y la documentación de servicios son aspectos clave abordados, junto con la identificación de percepciones clave sobre la colaboración del equipo. Estos esfuerzos proporcionan una base sólida para mejorar continuamente el proceso y garantizar la calidad y eficiencia en el desarrollo del producto.
+En el Sprint 3, ha sido un éxito al establecer una base técnica sólida para la aplicación MoviGestion. La implementación del web service no solo ha mejorado la eficiencia operativa del sistema, sino que también ha proporcionado una experiencia de usuario más fluida y segura. El enfoque en pruebas rigurosas, documentación detallada y colaboración efectiva ha sido clave para alcanzar estos logros y establecer un camino claro para futuras mejoras y desarrollos en el proyecto.
+
+
+# Bibliografia 
+Berné, M. (2023, 8 marzo). Criterios de aceptación: ejemplos para elaborarlos. Blog. https://www.scrummanager.com/blog/2023/03/criterios-de-aceptacion-definicion-y-ejemplos/ 
+
+Conventional commits. (s. f.). Conventional Commits. https://www.conventionalcommits.org/en/v1.0.0/ 
+
+Markdown - La guía definitiva en español. (2022, 14 febrero). Markdown. https://markdown.es/ 
+
+Tune, N. (2018, 1 agosto). Domain-Driven Architecture Diagrams - Strategy, Architecture, Continuous Delivery, and DDD - Medium. Medium. 
+
+
+# Anexos
+Link gitHub Repositorio: https://github.com/upc-AppWeb-BicasTeam/upc-AppWeb-BicasTeam-Report.git
+
+Link Github Landing page: https://github.com/upc-AppWeb-BicasTeam/upc-AppWeb-BicasTeam-LandingPage.github.io.git
+
+LandingPage Desplegado:  https://upc-appweb-bicasteam.github.io/upc-AppWeb-BicasTeam-LandingPage.github.io/
+
+Figma Landing Page: https://www.figma.com/file/oSwWYfZnNSnswDhg3Hj8Hi/BicasTeam-AppWeb?type=design&node-id=10%3A2&mode=design&t=swT32jkAXP4WhU5w-1
+
+Figma App Web: https://www.figma.com/file/UznJufoIMBwWow9ny8cXO5/Web-Application_BicasTeam?type=design&node-id=126%3A98&mode=design&t=QAcsG0V5XHFwF6rg-1
+
+PivotalTracker-ProductBacklog: https://www.pivotaltracker.com/projects/2700650
+
+Video EXPO TB1: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202116207_upc_edu_pe/EXDoi9eqytxDgS2l2ETDzYcBysGoygJvD6vi1xoWs_YzFw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=vQWNo8

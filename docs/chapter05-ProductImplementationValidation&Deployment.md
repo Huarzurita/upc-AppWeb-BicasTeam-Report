@@ -607,10 +607,123 @@ Durante este segundo Sprint, hemos avanzado el desarrollo del web service y hemo
 ---
 
 ## 5.3 Validation Interviews
+Con el fin de obtener y separar correctamente toda la información obtenida durante las entrevistas, se optó por definir un banco de preguntas según nuestro segmento de mercado identificado anteriormente. Este grupo de preguntas está especializado para la obtención de información específica según la persona entrevistada y según la problemática investigada para el proyecto y la posible solución en la forma de nuestro producto. 
 
 ### 5.3.1 Diseño de Entrevsitas
+**Para los Empresarios:**
+
+- ¿Cuál es su opinión general sobre la plataforma MoviGestion tras la demostración?
+- ¿Qué características de MoviGestion le resultaron más útiles para la gestión de su flota?
+- ¿Hay alguna función que no encontró en MoviGestion y que consideraría esencial para su operación?
+- ¿Cómo evalúa la interfaz de usuario en términos de facilidad de uso y navegación?
+- ¿Cuánto tiempo cree que le tomaría a su equipo adaptarse al uso de MoviGestion?
+- ¿Cuáles son los principales desafíos que enfrenta actualmente en la gestión de su flota?
+- ¿Cómo cree que MoviGestion podría ayudarle a superar esos desafíos?
+- ¿Qué tan útil considera la funcionalidad de registro de incidencias en la plataforma?
+- ¿Qué aspectos de la gestión de envíos exitosos le parecen más críticos para su operación?
+- ¿Está dispuesto a recomendar MoviGestion a otros empresarios del sector? ¿Por qué?
+- ¿Cómo valora la seguridad de la información y los datos en la plataforma MoviGestion?
+
+**Para los Transportistas:**
+
+- ¿Cuál fue su impresión general de la plataforma MoviGestion después de la demostración?
+- ¿Qué tan fácil le resultó navegar y utilizar las funciones de MoviGestion?
+- ¿Qué características de MoviGestion le parecieron más útiles para su trabajo diario?
+- ¿Hay alguna función que no encontró en MoviGestion y que consideraría útil para su labor?
+- ¿Cómo cree que MoviGestion podría ayudarle a realizar su trabajo de manera más eficiente?
+- ¿Qué tan útil considera la funcionalidad de registro de incidencias para reportar problemas en tiempo real?
+- ¿Qué tan fácil le resultó el proceso de seguimiento de envíos en MoviGestion?
+- ¿Cómo valora la capacidad de monitorear los sitios de entrega a través de la plataforma?
+- ¿Le parece intuitiva la interfaz de usuario de MoviGestion? ¿Hay algo que cambiaría?
+- ¿Cómo le gustaría que MoviGestion le notificara sobre nuevas tareas o cambios en las entregas?
+- ¿Qué mejoras le gustaría ver en futuras actualizaciones de la plataforma?
+- ¿Cómo valora la seguridad de la información y los datos en la plataforma MoviGestion?
+- ¿Cree que MoviGestion le ayudaría a reducir el tiempo de inactividad y aumentar la productividad?
+- ¿Estaría dispuesto a recomendar MoviGestion a otros transportistas? ¿Por qué?
 
 ### 5.3.2 Registro de Entrevistas
+1. ### <a name="_heading=h.mqpm42spx03x"></a>***Segmento objetivo: Empresarios***
+   **Entrevista N°1:**
+
+![Entrevista 1](/assets/chapter05%20-%20review/entrevista1.png)
+
+- **Datos principales:**
+- **Nombre completo del entrevistado:** Gustavo Manrique
+- **Edad:** 40 años
+- **Distrito: Chorrillos**
+- **Link: [https://upcedupe-my.sharepoint.com/:v:/g/personal/u202216021_upc_edu_pe/Empresario](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202216021_upc_edu_pe/EYdgA1x060VOrYs7MF-bbdYB-g9TzjEYRgOuRA9CqY-l9w?e=haR9pZ)**
+- **Inicio de la entrevista:** 0:00 
+- **Duración:** 6:40
+- **Resumen:** El empresario Gustavo Manrique expresó una opinión muy bien sobre MoviGestion, destacando la utilidad de las estadísticas de rendimiento y el seguimiento de envíos exitosos. Considera que la plataforma es fácil de usar y que su equipo podría adaptarse rápidamente. También, identificó como desafíos principales el seguimiento de envíos, gestión de incidencias y optimización de rutas, áreas donde cree que MoviGestion puede ayudar significativamente. Mencionó la necesidad de una herramienta para la optimización de rutas en tiempo real. Valora altamente la seguridad de la información y está dispuesto a recomendar la plataforma a otros empresarios del sector.
+
+**Entrevista N°2:**
+
+![Entrevsita2](/assets/chapter05%20-%20review/entrevista2.png)
+
+- **Datos principales:**
+- **Nombre completo del entrevistado:** Marco Tarazona
+- **Edad:** 57 años
+- **Distrito:** Puente Piedra
+- **Link: [Video](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202217633_upc_edu_pe/EQJKCGE27UVLvkmyMhlcoYUBZKqyIwhlrlsPr_NkQlAebQ?e=yR5tyL)**
+- **Inicio de la entrevista:** 0:00
+- **Duración:** 2:17
+- **Resumen:** El empresario Marco Tarazona expresó una opinión positiva sobre MoviGestion, resaltando su utilidad para la gestión de flotas, especialmente en el seguimiento de envíos y la gestión de incidencias. Mencionó la facilidad de uso de la plataforma y consideró que su equipo podría adaptarse rápidamente. Identificó como posible desafio la optimización de rutas y la necesidad de integración con otros sistemas. Además, valora la seguridad de la información y está dispuesto a recomendar MoviGestion a otros empresarios del sector.
+
+**Entrevista N°3:**
+
+![Entrevsita 3](/assets/chapter05%20-%20review/entrevista3.png)
+
+- **Datos principales:**
+- **Nombre completo del entrevistado:** Abraham Quenta
+- **Edad:** 28 años
+- **Distrito:** Tacna
+- **Link: [Video_20240605003047183_by_VideoShow.mp4**](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20191a453_upc_edu_pe/EVoUsQcedjZHkRdxa-Z7_YUBLTmGiwmlqNwTjrWrYxZ4Bw?e=3pSUjY&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)**
+- **Inicio de la entrevista:** 0:00
+- **Duración:** 10:45
+- **Resumen:** Abraham se presenta como un profesional del transporte con 5 años de experiencia en el sector transporte provincial, cuya ruta principal es de Tacna a Puno. Comenta sobre la página de destino de su servicio, que incluye información sobre los servicios ofrecidos y permite la personalización del idioma. Abraham explora las características y funcionalidades del sitio web, como la gestión de la flota, los informes de los conductores y la gestión de vehículos, y aprecia el aspecto organizativo de la plataforma, señalando que es fácil encontrar las funciones deseadas. Abraham menciona algunos problemas menores con la visibilidad del texto y la navegación, pero en general considera que la interfaz de usuario es clara y sencilla. información del vehículo, así como las estrategias de marketing y el diseño de la página de destino, pero en general. considera que la aplicación es valiosa, especialmente para monitorear las actividades de los conductores.
+
+**Segmento objetivo: Transportistas**
+
+**Entrevista N°1:**
+
+![Entrevsita 4](/assets/chapter05%20-%20review/entrevista4.png)
+
+- **Datos principales:**
+- **Nombre completo del entrevistado:** Martín Merino Ávila
+- **Edad:** 50 años
+- **Distrito:** Villa El Salvador
+- **Link: [https://upcedupe-my.sharepoint.com/transportista-Martín Merino Ávila](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202217633_upc_edu_pe/EY5rIHwdoYJEo1060clcg08Bj9EUW4PKzVWG0qSQZ9iLKw?e=qVv4x8)**
+- **Inicio de entrevista:** 0:00
+- **Duración:** 7:50
+- **Resumen:** El transportista Martín Merino Ávila expresó algunas dudas sobre la plataforma MoviGestion, especialmente en relación a la cantidad de tiempo que podría tomar adaptarse a una nueva herramienta, pero tras la demostración y uso práctico, encontró la interfaz más intuitiva de lo que esperaba. Nos comentó que las funciones de registro de incidencias eran lo mejor. Aunque cree que la plataforma podría beneficiarse de más opciones de personalización, le gusta la seguridad de la información. Al final, Martín reconoció que MoviGestion es una opción sólida y estaría dispuesta a recomendarla a otros transportistas.
+
+**Entrevista N°2:**
+
+![Entrevsita 5](/assets/chapter05%20-%20review/entrevista5.png)
+
+- **Datos principales:**
+- **Nombre completo del entrevistado:** Ricardo Chate Flores
+- **Edad:** 45 años
+- **Distrito:** Cercado de Lima
+- **Link: [https://upcedupe-my.sharepoint.com/transportista-Ricardo Chate Flores](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202217633_upc_edu_pe/EXSD46lHMXBHhtXU68u21MAB1k4GPVrGtb73aiHuhk-O4A?e=baM5qv)**
+- **Inicio de entrevista:** 0:00
+- **Duración:** 8:00
+- **Resumen:** El transportista Ricardo Chate Flores expresó una opinión positiva sobre MoviGestion, destacando su facilidad de uso y navegación intuitiva. Consideró útiles las funciones de registro de incidencias y seguimiento de envíos para su trabajo diario. Valora la capacidad de monitorear los sitios de entrega y mencionó que la plataforma podría ayudarle a trabajar de manera más eficiente. Aunque satisfecho con las funcionalidades actuales, sugirió la necesidad de notificaciones más personalizables. José destacó la seguridad de la información y está dispuesto a recomendar MoviGestion a otros transportistas, ya que cree que puede reducir el tiempo de inactividad y aumentar la productividad.
+
+**Entrevista N°3:**
+
+![Entrevsita 6](/assets/chapter05%20-%20review/entrevista6.png)
+
+- **Datos principales:**
+- **Nombre completo del entrevistado:** Víctor Cuba Bautista
+- **Edad:** 42 años
+- **Distrito:** Villa El Salvador
+- **Link: [https://upcedupe-my.sharepoint.com/transportista-Víctor Cuba Bautista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202217633_upc_edu_pe/Ee0tJI_1TaVDlx1FOyZIwjwBiTQSNEtbkeaMh9ggxyFgFQ?e=vercnA)**
+- **Inicio de entrevista:** 0:00
+- **Duración:** 4:50
+- **Resumen:** El transportista Víctor Cuba Bautista tras probar la plataforma, reconoció que el uso de las funciones eran más sencillos de lo que esperaba. Encontró especialmente útil el registro de incidencias en tiempo real. Aunque le gustaría ver mejoras en algunas funcionalidades adicionales, valora la capacidad de monitorear los sitios de entrega y la seguridad de los datos proporcionada por la plataforma. Al final, Víctor concluyó que MoviGestion es una herramienta efectiva que puede mejorar su eficiencia y reducir el tiempo de inactividad, y estaría dispuesto a recomendarla a otros transportistas.
+
+
 
 ### 5.3.3 Evaluaciones segun heuristicas
 

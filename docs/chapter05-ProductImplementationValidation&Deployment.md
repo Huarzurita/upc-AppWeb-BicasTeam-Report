@@ -564,7 +564,10 @@ Capturas de pantalla:
 
 CAPTURAS DEL WEB SERVICE DESPLEGADO
 
-[CAPTURAS DEL WEB SERVICE DESPLEGADO]
+![CAPTURAS DEL WEB SERVICE DESPLEGADO](/assets/chapter05%20-%20spring%203/executionEvidenceSprint3_0.jpg)
+
+![CAPTURAS DEL WEB SERVICE DESPLEGADO 2](/assets/chapter05%20-%20spring%203/executionEvidenceSprint3_1.jpg)
+
 
 #### 5.2.3.6 Services Documentation Evidence for Sprint Review
 Durante el Sprint 3, el equipo ha trabajado intensamente en la documentación de los Web Services desarrollados. Utilizando OpenAPI, hemos documentado todos los endpoints relevantes, asegurando que cada uno de ellos esté claramente definido y accesible para los desarrolladores. Esta documentación es esencial para garantizar una integración fluida y eficiente del web service con otros componentes de la aplicación y con sistemas externos.
@@ -586,7 +589,34 @@ Durante el Sprint 3, el equipo ha trabajado intensamente en la documentación de
 |&emsp;&emsp;&emsp;&emsp;/user/{id}|&emsp;&emsp;&emsp;&emsp;Obtener perfil por Id|&emsp;&emsp;&emsp;&emsp;GET|&emsp;&emsp;&emsp;&emsp;/api/v1/user/{id}|&emsp;&emsp;&emsp;&emsp;id|&emsp;&emsp;&emsp;&emsp;|
 |&emsp;&emsp;&emsp;&emsp;/user|&emsp;&emsp;&emsp;&emsp;Obtener todo los perfil|&emsp;&emsp;&emsp;&emsp;GET|&emsp;&emsp;&emsp;&emsp;/api/v1/user|&emsp;&emsp;&emsp;&emsp;none|&emsp;&emsp;&emsp;&emsp;|
 
-1. #### <a name="_heading=h.ikcf394glpjk"></a>**URL del Repositorio:**
+CAPTURAS DE INTERACCION CON LA DOCUMENTACION:
+A continuación, se incluyen capturas de pantalla que muestran la interacción con la documentación de los web services, utilizando datos de muestra.
+
+1. Endopoint de crear Reporte (/report) - POST
+
+![1](/assets/chapter05%20-%20spring%203/post.png)
+
+Descripción: La captura muestra la documentación del endpoint para crear un nuevo reporte, incluyendo los parámetros requeridos y un ejemplo del response.
+
+2. Endpoint de Obtener Reporte por ID (/report/{id}) - GET:
+
+![2](/assets/chapter05%20-%20spring%203/get.png)
+
+Descripción: La captura presenta la documentación del endpoint para obtener un reporte por ID, con la sintaxis de llamada y un ejemplo de response.
+
+3. Endpoint de Crear Vehículo (/vehicle) - POST:
+
+![3](/assets/chapter05%20-%20spring%203/post-veh.png)
+
+Descripción: La imagen muestra cómo documentamos la creación de un nuevo vehículo, especificando los parámetros y un ejemplo del response.
+
+4. Endpoint de Obtener Envío por ID (/shipment/{id}) - GET:
+
+![4](/assets/chapter05%20-%20spring%203/get-id.png)
+
+ Descripción: La captura ilustra la documentación del endpoint para obtener un envío por ID, incluyendo un ejemplo del request y response.
+
+ #### <a name="_heading=h.ikcf394glpjk"></a>**URL del Repositorio:**
    El código fuente del Web Services se encuentran en el siguiente repositorio:
 
 - **Repositorio de Web Service:** [upc-AppWeb-BicasTeam/upc-AppWeb-BicasTeam-Api: Bicas Team - Movigestion - API (github.com)](https://github.com/upc-AppWeb-BicasTeam/upc-AppWeb-BicasTeam-Api)

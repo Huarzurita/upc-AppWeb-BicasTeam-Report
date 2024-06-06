@@ -691,3 +691,6 @@ Video de EXPO TP1: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202116207_
 
 Video Expo TP1: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202217633_upc_edu_pe/Ech9xATWtJtMlnBS3Th7gHYBsmt8grTr4yjT_qeDSrsxfg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=2WPBEH
 
+Video Expo TB2: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202116207_upc_edu_pe/EZoFDuC5TLtFptGOFdWaPL4BNn873oxy4WuFmJbspONVNQ?e=ZYDFL4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+
+Video About The Team: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202116207_upc_edu_pe/EZdxOBmGsVJOnG-uv_SZaq0BHUBgm6bpuojiXg8PyYQtpw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=8uXdYs

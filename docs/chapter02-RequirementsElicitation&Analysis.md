@@ -266,7 +266,7 @@ EMPRESARIOS
 ENTREVISTA 1
 ![Entrevista 1 Empresarios](/assets/chapter02/EmpresarioEntrevista.png)
 
-Link: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202217633_upc_edu_pe/EQJKCGE27UVLvkmyMhlcoYUBZKqyIwhlrlsPr_NkQlAebQ?e=yR5tyL
+Link: https://upcedupe-my.sharepoint.com/:v:/g/personal/u20191a453_upc_edu_pe/EYG1qKqzuUhFt8Gc78livqoBRKkmw0PvytPwY4khR7mtdg?e=y6Iqnc&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
 
 Inicia: 0:00
 
@@ -286,9 +286,9 @@ Marco tiene 10 años de experiencia gestionando flotas de transporte. Trabaja co
 ENTREVISTA 2
 ![Entrevista 2 Empresarios](/assets/chapter02/entrevista_empresario2.png)
 
-Link: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202216021_upc_edu_pe/EYdgA1x060VOrYs7MF-bbdYB-g9TzjEYRgOuRA9CqY-l9w?e=haR9pZ
+Link: https://upcedupe-my.sharepoint.com/:v:/g/personal/u20191a453_upc_edu_pe/EYG1qKqzuUhFt8Gc78livqoBRKkmw0PvytPwY4khR7mtdg?e=y6Iqnc&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
 
-Inicia: 0:00
+Inicia: 2:11
 
 Duración: 6:47
 
@@ -304,9 +304,9 @@ RESUMEN: Gustavo tiene 6 años de experiencia gestionando flotas de transporte p
 ENTREVISTA 3
 ![Entrevista 2 Empresarios](/assets/chapter02/Entrevista%20Empresario%203.PNG)
 
-Link: https://upcedupe-my.sharepoint.com/:v:/g/personal/u20191a453_upc_edu_pe/EUwHFOhfEWhMvyc7xG_vQU4BJORRZNxCY9RDij9BwYzrKg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=2T6ADp
+Link: https://upcedupe-my.sharepoint.com/:v:/g/personal/u20191a453_upc_edu_pe/EYG1qKqzuUhFt8Gc78livqoBRKkmw0PvytPwY4khR7mtdg?e=y6Iqnc&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
 
-Inicia: 0:00
+Inicia: 8:57
 
 Duración: 5:44
 
@@ -322,9 +322,9 @@ RESUMEN: Gilver Flores es un empresario con una década de experiencia en la ges
 ENTREVISTA 4
 ![Entrevista 2 Empresarios](/assets/chapter02/Entrevista%20Empresario%204.PNG)
 
-Link: https://upcedupe-my.sharepoint.com/:v:/g/personal/u20191a453_upc_edu_pe/Ee4VsZTV3elLuCnESEniJfoB2KL0J91OGdUuZiHVMfpX_A?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=rBtEj1
+Link: https://upcedupe-my.sharepoint.com/:v:/g/personal/u20191a453_upc_edu_pe/EYG1qKqzuUhFt8Gc78livqoBRKkmw0PvytPwY4khR7mtdg?e=y6Iqnc&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
 
-Inicia: 0:00
+Inicia: 14:43
 
 Duración: 8:29
 
@@ -344,9 +344,9 @@ ENTREVISTA 1:
 
 ![Entrevista 1 Transportistas](/assets/chapter02/TransEntrevista%201.png)
 
-LINK: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202217633_upc_edu_pe/EXSD46lHMXBHhtXU68u21MAB1k4GPVrGtb73aiHuhk-O4A?e=baM5qv
+LINK: https://upcedupe-my.sharepoint.com/:v:/g/personal/u20191a453_upc_edu_pe/EYG1qKqzuUhFt8Gc78livqoBRKkmw0PvytPwY4khR7mtdg?e=y6Iqnc&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
 
-Inicia: 0:00
+Inicia: 23:11
 
 Duración: 10:04 min
 
@@ -364,9 +364,9 @@ ENTREVISTA 2:
 
 ![Entrevista 2 Transportistas](/assets/chapter02/TransEntrevista%202.png)
 
-LINK: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202217633_upc_edu_pe/Ee0tJI_1TaVDlx1FOyZIwjwBiTQSNEtbkeaMh9ggxyFgFQ?e=vercnA
+LINK: https://upcedupe-my.sharepoint.com/:v:/g/personal/u20191a453_upc_edu_pe/EYG1qKqzuUhFt8Gc78livqoBRKkmw0PvytPwY4khR7mtdg?e=y6Iqnc&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
 
-Inicia: 0:00 
+Inicia: 33:15
 
 Duración: 05:09 min
 
@@ -385,9 +385,9 @@ ENTREVISTA 3:
 
 ![Entrevista 3 Transportistas](/assets/chapter02/TransEntrevista%203.png)
 
-LINK: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202217633_upc_edu_pe/EY5rIHwdoYJEo1060clcg08Bj9EUW4PKzVWG0qSQZ9iLKw?e=qVv4x8
+LINK: https://upcedupe-my.sharepoint.com/:v:/g/personal/u20191a453_upc_edu_pe/EYG1qKqzuUhFt8Gc78livqoBRKkmw0PvytPwY4khR7mtdg?e=y6Iqnc&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
 
-Inicia: 0:00 
+Inicia: 38:25
 
 Duración: 08:02 min
 

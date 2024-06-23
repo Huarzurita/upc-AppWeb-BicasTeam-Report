@@ -41,7 +41,7 @@ Universidad Peruana de Ciencias Aplicadas
 </table>
 
 
-<center> Abril, 2024</center>
+<center> junii, 2024</center>
 
 ---
 ---
@@ -539,17 +539,18 @@ del ABET – EAC - Student Outcome 5
         <td><strong>Miguel Huarcaya
         <br>
         TB1:</strong> <br>
-        -Implentación de las historias de usuarios y el Product Backlog
+        - Implentación de las historias de usuarios y el Product Backlog
         <br>
-        -Cooperación con el landing page
+        - Cooperación con el landing page
         <br>
-        -Realización del Impact Map
+        - Realización del Impact Map
         <br>
-        -Contribución en puntos del Needfinding
+        - Contribución en puntos del Needfinding
         <br><strong>
         TP1:</strong><br>
-        -Implmentacion de login y register en la rama main content flow del app web y organizador 
-        <br>
+        - Implmentacion de login y register en la rama main content flow del app web y organizador 
+        <br><strong>TB2:</strong><br>
+        -Implementacion de IAM y perfil del backend <br>
         <br>
         <strong>Piero Tarazona
         <br>
@@ -563,7 +564,8 @@ del ABET – EAC - Student Outcome 5
         -Mejora del Software Configuration Management
         <br><strong>
         TP1:</strong><br>
-        -Elaboracion de reportes de la aplicacion<br>
+        -Elaboracion de reportes de la aplicacion<br><strong>TB2:</strong><br>
+        -Implementacion del endpoint "vehicles" en el backend<br><br>
         <strong>Elias Torres
         <br>
         TB1:</strong> <br>
@@ -577,7 +579,8 @@ del ABET – EAC - Student Outcome 5
         <br>
         -Implementación del landing page
         <br><strong>TP1:</strong><br>
-        -Implementacion de home y estilos generales<br><br>
+        -Implementacion de home y estilos generales<br><strong>TB2:</strong><br>
+        -Implementacion de reportes y IAM<br><br>
         <strong>Moises Donayre
         <br>
         TB1:</strong> <br>
@@ -591,7 +594,8 @@ del ABET – EAC - Student Outcome 5
         <br>
         -Contribución con el landing page
         <br><strong>TP1:</strong><br>
-        -Implementaicon de shipmetns de la aplicacion frontend<br><br>
+        -Implementaicon de shipmetns de la aplicacion frontend<br><strong>TB2:</strong><br>
+        -Implementacion del endpoint de reportes del backend<br><br>
         <strong>Maurcio Chacon
         <br>
         TB1:</strong> <br>
@@ -605,12 +609,13 @@ del ABET – EAC - Student Outcome 5
         <br>
         -Aportación en los puntos del Product Implementation, Validation & Deployment
         <strong>TP1:</strong><br>
-        -Implementacion de profile management de la aplicacion y estilos generales<br>
+        -Implementacion de profile management de la aplicacion y estilos generales<br><strong>TB2:</strong><br>
+        -Implementacion del endpoint shipments del backend
         </td>
         <td>-La planificación del proyecto aseguró una buena distribución de tareas. Además, la colaboración activa de los miembros del equipo permitió la revision y corrección múltiple de tareas que se consideraban completadas.
         <br>
         -De la misma manera, destacamos el valor de la comunicación interna en el trabajo, lo que facilitó la realización eficiente de cada tarea previniendo la acumulacion excesiva de trabajo.<br>
-        - La implementación efectiva del sprint planning y la cooperación constante con la aplicación web destacaron la importancia del trabajo en equipo, contribuyendo así al éxito del proyecto. 
+        - La implementación efectiva del sprint planning y la cooperación constante con la aplicación web destacaron la importancia del trabajo en equipo, contribuyendo así al éxito del proyecto.<br>-Cómo realizamos la implementación correcta del sprint planning y una buena cooperación constante en el servicio web, realizamos con éxito.
         </td><br>
     </tr>
     <tr>
@@ -618,42 +623,53 @@ del ABET – EAC - Student Outcome 5
         <td><strong>Miguel Huarcaya
         <br>
         TB1:</strong> <br>
-        Durante este entregable aprendí a realizar correctamente los user persona e impact map.
-        <br><string>TP1:</string><br>
-        -En esta entrega aprendi la imporatncia de un correcto git flow y organizacion de carpetas segunbouinded context<br>
+        Durante este entregable aprendi que los reportes en el sector de transportes se dividen en diferentes categorias
+        <br><strong>TP1:</strong><br>
+        -En esta entrega aprendi que debido a que el dispositivo mas usado por los transportistas es el celular, la resposividad de la aplicacion es crucial.<br><strong>TB2:</strong><br>
+        -En esta entrega aprendi que los datos manejados por la aplicacion deben de ser manejados respetando las reglas de negocio<br>
+        <br>
         <strong>Piero Tarazona
         <br>
         TB1:</strong> <br>
         Para esta entrega supimos elegir nuestros segmentos y personas para la entrevista, de esta manera conocemos sus puntos de vista.
-        <br><strong>Tp1:</strong><br>
-        -Durante esta entrega aprendi el uso correcto de los conventional commits y lo imporatnte de una correcta organizacvion <br>
+        <br><strong>TP1:</strong><br>
+        -Durante esta entrega aprendi el uso correcto de los conventional commits y lo imporatnte de una correcta organizacvion <br><strong>TB2:</strong><br>
+        -En esta entrega aprendi que el manejo de datos de los reportes debe respetar las reglas de negocio de la aplicacion
+        <br><br>
         <strong>Elias Torres
         <br>
         TB1:</strong> <br>
         He trabajado en el proyecto con nuevas herramientas vistas en el statement, así tendremos un entregable más profesional.
         <br><strong>TP1:</strong><br>
-        -En esta entrega realizamos avances sobre una capa de nuestra solucion, la capa de presentacion<br>
+        -En esta entrega realizamos avances sobre una capa de nuestra solucion, la capa de presentacion<br><strong>TB2:</strong><br>
+        -En esta entrega aprendi que los datos manejados de envios deben de estar correctamente aislados pues contienen datos sensibles<br>
+        <br>
         <strong>Moises Donayre
         <br>
         TB1:</strong> <br>
         En el desarrollo nos enfocamos en analizar la competencia para observar las necesidades del entorno.
         <br><strong>TP1:</strong><br>
-        -Durante esta entrega aprendi a utilizar correctamente los convetional commits y una correcta organizaion grupal para el desarrollo de softawre de una solucion<br>
+        -Durante esta entrega aprendi a utilizar correctamente los convetional commits y una correcta organizaion grupal para el desarrollo de softawre de una solucion<br><strong>TB2:</strong><br>
+        -Para esta entrega note la importancia de que los datos de los vehiculos esten aislados pues manejan datos sensibles<br>
+        <br>
         <strong>Maurcio Chacon
         <br>
         TB1:</strong> <br>
-        En esta entrega se escogió la problemática a resolver teniendo en cuenta su relevancia en la sociedad actual.
+        En esta entrega se escogió la problemática a resolver teniendo en cuenta su relevancia en la sociedad actual.<br><strong>TP1:</strong><br>-En esta entrega aprendi lo necesario que es manejar un entorno responsivo de la aplicacion pues un segmento objetivo utiliza unicamente un tipo de dispositivo mientras que el otro uno completamente diferente<br><strong>TB2:</strong><br>
+        Para esta entrega entendi que el manejo de datos en general de una aplicacion que interactua con datos sensibles debe tener en cuenta la proteccion de las mismas.
         </td>
-        <td>Es esencial que el equipo se coordine para adaptarse a los cambios de planes en respuesta a los desafíos emergentes. Esta adaptabilidad no solo permite una resolución eficaz de los problemas, sino que también fomenta la resiliencia del equipo, permitiendo una mayor capacidad para manejar futuros obstáculos.<br><br>- En este proyecto, he mejorado mi habilidad para desarrollar el frontend de manera efectiva. Ha sido una oportunidad para adquirir conocimientos prácticos y habilidades específicas en el desarrollo web..</td>
+        <td>-Es esencial que el equipo se coordine para adaptarse a los cambios de planes en respuesta a los desafíos emergentes. Esta adaptabilidad no solo permite una resolución eficaz de los problemas, sino que también fomenta la resiliencia del equipo, permitiendo una mayor capacidad para manejar futuros obstáculos.<br><br>- En este proyecto, he mejorado mi habilidad para desarrollar el frontend de manera efectiva. Ha sido una oportunidad para adquirir conocimientos prácticos y habilidades específicas en el desarrollo web..<br><br>- He adquirido habilidades para desarrollar el backend de manera efectiva. Esta oportunidad me brindó conocimientos prácticos en el servicio web.</td>
     </tr>
 </table>
 
 # Conclusiones 
 
 La introducción del enfoque Lean UX en el primer capítulo ha favorecido una comprensión más profunda y una aplicación más efectiva de las herramientas en nuestra propuesta de servicio de transporte para clientes. Además, ha contribuido a una definición más precisa de nuestro público objetivo o segmento al que está dirigida nuestra aplicación. Al completar la fase inicial de nuestro proyecto y después de identificar los principales problemas enfrentados por nuestros segmentos, hemos llegado a la conclusión de que la aplicación web MoviGestion sería beneficiosa para mejorar la experiencia tanto de los transportistas como de los empresarios que poseen flotas de camiones al utilizar la herramienta. El proceso de entrevistas ha sido esencial para aclarar la visión del proyecto desde la perspectiva del usuario, lo que ha resultado crucial para mejorar las funcionalidades de la aplicación.
-Durante el Sprint 2, el equipo ha seguido un proceso estructurado desde la planificación hasta la revisión y documentación del trabajo realizado. Lo que nos ha servido para el desarrollo del producto, cumpliendo con las tareas incluidas en el Sprint Backlog, y se ha puesto énfasis en la colaboración del equipo. La evaluación de la planificación del sprint, la realización de pruebas y la documentación de servicios son aspectos clave abordados, junto con la identificación de percepciones clave sobre la colaboración del equipo. Estos esfuerzos proporcionan una base sólida para mejorar continuamente el proceso y garantizar la calidad y eficiencia en el desarrollo del producto.
+
+Durante el Sprint 2, el equipo ha seguido un proceso estructurado desde la planificación hasta la revisión y documentación del trabajo realizado. Lo que nos ha servido para el desarrollo del producto, cumpliendo con las tareas incluidas en el Sprint Backlog, y se ha puesto énfasis en la colaboración del equipo. La evaluación de la planificación del sprint, la realización de pruebas y la documentación de servicios son aspectos clave abordados, junto con la identificación de percepciones clave sobre la colaboración del equipo. Estos esfuerzos proporcionan una base sólida para mejorar continuamente el proceso y garantizar la calidad y eficiencia en el desarrollo del producto.<br>
 En el Sprint 3, ha sido un éxito al establecer una base técnica sólida para la aplicación MoviGestion. La implementación del web service no solo ha mejorado la eficiencia operativa del sistema, sino que también ha proporcionado una experiencia de usuario más fluida y segura. El enfoque en pruebas rigurosas, documentación detallada y colaboración efectiva ha sido clave para alcanzar estos logros y establecer un camino claro para futuras mejoras y desarrollos en el proyecto.
 
+Durante el Sprint 4, el equipo se centró en la implementación integral del web service en la aplicación web MoviGestion. Este esfuerzo ha sido crucial para consolidar las mejoras técnicas y funcionales que la aplicación necesita para ofrecer un servicio de transporte más eficiente y efectivo. La integración del web service se ha llevado a cabo con éxito, mejorando la interoperabilidad y la gestión de datos. Esto ha resultado en una experiencia de usuario más rápida y fiable, con una mayor seguridad en la transmisión de datos. La colaboración continua del equipo y la documentación detallada de todas las funcionalidades han sido factores clave para superar los desafíos técnicos y preparar el terreno para futuros desarrollos.
 
  El uso correcto de convenciones agiliza mucho el desarrollo pues facilita la comunicacion del objetivo del proyecto a traves de mulitples herrramientas, como los bounded context, uso de conventional commits,etc. La experiencia de este desaroollo nos permitio entender a cabalidad el desarollo de una solucion web utilizando Vue.js para la capa de presetnacion (front-end)
 

@@ -47,295 +47,73 @@ Universidad Peruana de Ciencias Aplicadas
 ---
 ---
 
-<table>
-    <tr>
-        <th>Version</th>
-        <th>Fecha</th>
-        <th>Autor</th>
-        <th>Descripcion de modificacion</th>
-    </tr>
-    <tr>
-        <td>V0.1</td>
-        <td>20/03/2024</td>
-        <td>Elias Enrique Torres Espinoza</td>
-        <td>Se Describió la Startup y su producto creado</td>
-    </tr>
-    <tr>
-        <td>V0.2</td>
-        <td>20/03/2024</td>
-        <td>Donayre Peña, Moises Rodolfo</td>
-        <td>Se agregó el perfil de los integrantes</td>
-    </tr>
-    <tr>
-        <td>V0.3</td>
-        <td>21/03/2024</td>
-        <td>Chacón Martínez, Mauricio Sebastián</td>
-        <td>Se describieron los antecedentes y problemática aplicando la técnica adecuada.</td>
-    </tr>
-    <tr>
-        <td>V0.4</td>
-        <td>21/03/2024</td>
-        <td>Tarazona Medina, Piero Abel</td>
-        <td>Se añadió Lean UX Problem statement</td>
-    </tr>
-    <tr>
-        <td>V0.5</td>
-        <td>21/03/2024</td>
-        <td>Elias Enrique Torres Espinoza</td>
-        <td>Se añadió Lean UX Hipótesis</td>
-    </tr>
-    <tr>
-        <td>V0.6</td>
-        <td>21/03/2024</td>
-        <td>Donayre Peña, Moises Rodolfo</td>
-        <td>Se agregó Lean UX Assumptions</td>
-    </tr>
-    <tr>
-        <td>V0.7</td>
-        <td>22/03/2024</td>
-        <td>Huarcaya Chavez Miguel Alejandro Daniel</td>
-        <td>Lean UX canvas</td>
-    </tr><tr>
-        <td>V0.8</td>
-        <td>22/03/202</td>
-        <td>Elias Enrique Torres Espinoza</td>
-        <td>Agregó Segmentos objetivos</td>
-    </tr>
-    <tr>
-        <td>V0.9</td>
-        <td>22/03/2024</td>
-        <td>Huarcaya Chavez Miguel Alejandro Daniel</td>
-        <td>Se añadió Análisis competitivo y estrategias frente a competidores</td>
-    </tr>
-    <tr>
-        <td>V0.10</td>
-        <td>24/03/2024</td>
-        <td>Chacón Martínez, Mauricio Sebastián</td>
-        <td>Se diseñó y realizó las entrevistas al segmento objetivo.</td>
-    </tr>
-    <tr>
-        <td>V0.11</td>
-        <td>24/03/2024</td>
-        <td>Tarazona Medina, Piero Abel</td>
-        <td>Se hizo un análisis de las entrevistas realizadas.</td>
-    </tr>
-    <tr>
-        <td>V0.12</td>
-        <td>24/03/2024</td>
-        <td> Elias Enrique Torres Espinoza</td>
-        <td>Se construyó un User Persona</td>
-    </tr>
-    <tr>
-        <td>V0.13</td>
-        <td>24/03/2024</td>
-        <td>Donayre Peña, Moises Rodolfo</td>
-        <td>Se agregó el Task Matrix y Journey Mapping</td>
-    </tr>
-    <tr>
-        <td>V0.14</td>
-        <td>26/03/2024</td>
-        <td>Tarazona Medina, Piero Abel</td>
-        <td>Se agregó el Journey Mapping.</td>
-    </tr>
-    <tr>
-        <td>V0.15</td>
-        <td>26/03/2024</td>
-        <td>Huarcaya Chavez Miguel Alejandro Daniel</td>
-        <td>Se agregó el mapa de empatía y el As-is Scenario Mapping</td>
-    </tr>
-    <tr>
-        <td>V0.16</td>
-        <td>26/03/2024</td>
-        <td>Chacón Martínez, Mauricio Sebastián</td>
-        <td>Se agregó Ubiquituos lenguaje</td>
-    </tr>
-    <tr>
-        <td>V0.17</td>
-        <td>27/03/2024</td>
-        <td> Elias Enrique Torres Espinoza</td>
-        <td>Se agregó el To be, los User Stories,Impact Map,Product Backlog</td>
-    </tr>
-    <tr>
-        <td>V0.18</td>
-        <td>27/03/2024</td>
-        <td> Donayre Peña, Moises Rodolfo</td>
-        <td>Se agregó los User Stories</td>
-    </tr>
-    <tr>
-        <td>V0.19</td>
-        <td>27/03/2024</td>
-        <td>Huarcaya Chavez Miguel Alejandro Daniel</td>
-        <td>Se agregó el Impact Mapping</td>
-    </tr>
-    <tr>
-        <td>V0.20</td>
-        <td>27/03/2024</td>
-        <td>Tarazona Medina, Piero Abel</td>
-        <td>Se agregó el Product Backlog</td>
-    </tr>
-    <tr>
-        <td>V0.21</td>
-        <td>28/03/2024</td>
-        <td>Huarcaya Chavez Miguel Alejandro Daniel</td>
-        <td>Se añadió la Guía de estilos</td>
-    </tr>
-    <tr>
-        <td>V0.22</td>
-        <td>28/03/2024</td>
-        <td>Chacón Martínez, Mauricio Sebastián</td>
-        <td>Se colocó la arquitectura de la información</td>
-    </tr>
-    <tr>
-        <td>V0.23</td>
-        <td>28/03/2024</td>
-        <td>Tarazona Medina, Piero Abel</td>
-        <td>Se realizó los wireframe del Landing page</td>
-    </tr>
-    <tr>
-        <td>V0.24</td>
-        <td>28/03/2024</td>
-        <td>Chacón Martínez, Mauricio Sebastián</td>
-        <td>Se realizó los mockup del Landing page</td>
-    </tr>
-    <tr>
-        <td>V0.25</td>
-        <td>28/03/2024</td>
-        <td> Elias Enrique Torres Espinoza</td>
-        <td>Se realizó los wireframe de la Web Application</td>
-    </tr>
-    <tr>
-        <td>V0.26</td>
-        <td>28/03/2024</td>
-        <td>Tarazona Medina, Piero Abel</td>
-        <td>Se realizó los mockup de la Web Application</td>
-    </tr>
-    <tr>
-        <td>V0.27</td>
-        <td>28/03/2024</td>
-        <td>Donayre Peña, Moises Rodolfo</td>
-        <td>Se agregó el flow diagrams para Web Application.</td>
-    </tr>
-    <tr>
-        <td>V0.28</td>
-        <td>29/03/2024</td>
-        <td> Huarcaya Chavez Miguel Alejandro Daniel</td>
-        <td>Se realizó el prototipo de la aplicación web</td>
-    </tr>
-    <tr>
-        <td>V0.29</td>
-        <td>29/03/2024</td>
-        <td> Elias Enrique Torres Espinoza</td>
-        <td>Se realizó el domain-driven Software Architecture</td>
-    </tr>
-    <tr>
-        <td>V0.30</td>
-        <td>30/03/2024</td>
-        <td>Tarazona Medina, Piero Abel</td>
-        <td>Se agregó el class diagrams</td>
-    </tr>
-    <tr>
-        <td>V0.31</td>
-        <td>31/03/2024</td>
-        <td>Elias Enrique Torres Espinoza</td>
-        <td>Se agregó el class dictionary</td>
-    </tr>
-    <tr>
-        <td>V0.32</td>
-        <td>01/04/2024</td>
-        <td>Donayre Peña, Moises Rodolfo</td>
-        <td>Se realizó el diseño de la base de datos</td>
-    </tr>
-    <tr>
-        <td>V0.33</td>
-        <td>04/04/2024</td>
-        <td>Chacón Martínez, Mauricio Sebastián</td>
-        <td>Software Configuration Management</td>
-    </tr>
-    <tr>
-        <td>V0.34</td>
-        <td>04/04/2024</td>
-        <td>Chacón Martínez, Mauricio Sebastián</td>
-        <td>Implementación de páginas de destino, servicios y aplicaciones</td>
-    </tr>
-    <tr>
-        <td>V0.35</td>
-        <td>05/04/2024</td>
-        <td>Tarazona Medina, Piero Abel</td>
-        <td>Se realizó el Sprint Planning 1</td>
-    </tr>
-    <tr>
-        <td>V0.36</td>
-        <td>05/04/2024</td>
-        <td>Elias Enrique Torres Espinoza</td>
-        <td>Se realizó el Sprint Backlog 1</td>
-    </tr>
-    <tr>
-        <td>V0.37</td>
-        <td>06/04/202</td>
-        <td> Donayre Peña, Moises Rodolfo</td>
-        <td>Evidencia de desarrollo para Sprint Review.</td>
-    </tr>
-    <tr>
-        <td>V0.38</td>
-        <td>06/04/2024</td>
-        <td>Huarcaya Chavez Miguel Alejandro Daniel</td>
-        <td>Información sobre la colaboración en equipo durante Sprint.</td>
-    </tr>
-    <tr>
-        <td>V1.0</td>
-        <td>06/04/2024</td>
-        <td>Chacón Martínez, Mauricio Sebastián</td>
-        <td>Avance de conclusiones, bibliográficas y anexos</td>
-    </tr>
-    <tr>
-        <td>V1.2</td>
-        <td>22/04/2024</td>
-        <td>Tarazona Medina, Piero Abel</td>
-        <td>Se realizó el Sprint Planning 2</td>
-    </tr>
-    <tr>
-        <td>V1.2</td>
-        <td>22/04/202</td>
-        <td>Elias Enrique Torres Espinoza</td>
-        <td>Se realizó el Sprint Backlog 2</td>
-    </tr>
-    <tr>
-        <td>V1.3</td>
-        <td>23/04/2024</td>
-        <td>Donayre Peña, Moises Rodolfo</td>
-        <td>Evidencia de desarrollo para Sprint Review</td>
-    </tr>
-    <tr>
-        <td>V1.4</td>
-        <td>24/04/2024</td>
-        <td>Huarcaya Chavez Miguel Alejandro Daniel</td>
-        <td>Información sobre la colaboración en equipo durante Sprint</td>
-    </tr>
-    <tr>
-        <td>V1.5</td>
-        <td>24/04/2024</td>
-        <td>team</td>
-        <td>Avance de conclusiones, bibliográficas y anexos.</td>
-    </tr>
-    <tr>
-        <td>V1.6</td>
-        <td>25/04/2024</td>
-        <td>Tarazona Medina, Piero Abel</td>
-        <td>Se mejoran los Assumptions e hypothesis statements.</td>
-    </tr>
-    <tr>
-        <td>V1.7</td>
-        <td>25/04/2024</td>
-        <td>Chacón Martínez, Mauricio Sebastián</td>
-        <td>Se mejoraron los análisis de entrevistas.</td>
-    </tr>
-    <tr>
-        <td>V1.8</td>
-        <td>29/04/2024</td>
-        <td>Chacón Martínez, Mauricio Sebastián</td>
-        <td>Se mejoró el orden del documento</td>
-    </tr>
-</table>
+**Registro de Versiones del Informe:**
+
+En esta sección se resumen todas las modificaciones relevantes que sean realizadas sobre el informe durante el ciclo de vida del proyecto.
+
+|Versión|Fecha|Autor|Descripción de modificación|
+| :- | :- | :- | :- |
+|V0.1|20/03/2024|<p>- Elias Enrique Torres Espinoza</p><p></p>|Se Describió la Startup y su producto creado.|
+|V0.2|20/03/2024|- Donayre Peña, Moises Rodolfo|Se agregó el perfil de los integrantes.|
+|V0.3|21/03/2024|- Chacón Martínez, Mauricio Sebastián|Se describieron los antecedentes y problemática aplicando la técnica adecuada.|
+|V0.4|21/03/2024|<p>- Tarazona Medina, Piero Abel</p><p></p>|<p>Se añadió Lean UX Problem statement.</p><p></p>|
+|V0.5|21/03/2024|<p>- Elias Enrique Torres Espinoza</p><p></p>|<p>Se añadió Lean UX Hipótesis.</p><p></p>|
+|V0.6|21/03/2024|<p>- Donayre Peña, Moises Rodolfo</p><p></p>|Se agregó Lean UX Assumptions.|
+|V0.7|22/03/2024|- Huarcaya Chavez Miguel Alejandro Daniel |Lean UX canvas.|
+|V0.8|22/03/2024|<p>- Elias Enrique Torres Espinoza</p><p></p>|Agregó Segmentos objetivos.|
+|V0.9|22/03/2024|- Huarcaya Chavez Miguel Alejandro Daniel |Se añadió Análisis competitivo y estrategias frente a competidores.|
+|V0.10|24/03/2024|- Chacón Martínez, Mauricio Sebastián|Se diseñó y realizó las entrevistas al segmento objetivo.|
+|V0.11|24/03/2024|<p>- Tarazona Medina, Piero Abel</p><p></p>|Se hizo un análisis de las entrevistas realizadas.|
+|V0.12|24/03/2024|<p>- Elias Enrique Torres Espinoza</p><p></p>|Se construyó un User Persona.|
+|V0.13|24/03/2024|<p>- Donayre Peña, Moises Rodolfo</p><p></p>|Se agregó el Task Matrix y Journey Mapping.|
+|V0.14|26/03/2024|- Tarazona Medina, Piero Abel|Se agregó el Journey Mapping.|
+|V0.15|26/03/2024|- Huarcaya Chavez Miguel Alejandro Daniel |Se agregó el mapa de empatía y el As-is Scenario Mapping.|
+|V0.16|26/03/2024|- Chacón Martínez, Mauricio Sebastián|Se agregó Ubiqui|
+|V0.17|27/03/2024|<p>- Elias Enrique Torres Espinoza</p><p></p>|Se agregó el To be, los User Stories,Impact Map,Product Backlog.|
+|V0.18|27/03/2024|<p>- Donayre Peña, Moises Rodolfo</p><p></p>|Se agregó los User Stories|
+|V0.19|27/03/2024|- Huarcaya Chavez Miguel Alejandro Daniel |Se agregó el Impact Mapping|
+|V0.20|27/03/2024|- Tarazona Medina, Piero Abel|Se agregó el Product Backlog.|
+|V0.21|28/03/2024|- Huarcaya Chavez Miguel Alejandro Daniel |Se añadió la Guía de estilos|
+|V0.22|28/03/2024|- Chacón Martínez, Mauricio Sebastián|Se colocó la arquitectura de la información|
+|V0.23|28/03/2024|<p>- Tarazona Medina, Piero Abel</p><p></p>|Se realizó los wireframe del Landing page|
+|V0.24|28/03/2024|- Chacón Martínez, Mauricio Sebastián|Se realizó los mockup del Landing page|
+|V0.25|28/03/2024|<p>- Elias Enrique Torres Espinoza</p><p></p>|Se realizó los wireframe de la Web Application|
+|V0.26|28/03/2024|- Tarazona Medina, Piero Abel|Se realizó los mockup de la Web Application|
+|V0.27|28/03/2024|<p>- Donayre Peña, Moises Rodolfo</p><p></p>|Se agregó el flow diagrams para Web Application.|
+|V0.28|29/03/2024|- Huarcaya Chavez Miguel Alejandro Daniel |Se realizó el prototipo de la aplicación web.|
+|V0.29|29/03/2024|<p>- Elias Enrique Torres Espinoza</p><p></p>|Se realizó el domain-driven Software Architecture|
+|V0.30|30/03/2024|<p>- Tarazona Medina, Piero Abel</p><p></p>|Se agregó el class diagrams|
+|V0.31|31/03/2024|<p>- Elias Enrique Torres Espinoza</p><p></p>|Se agregó el class dictionary|
+|V0.32|01/04/2024|<p>- Donayre Peña, Moises Rodolfo</p><p></p>|Se realizó el diseño de la base de datos|
+|V0.33|04/04/2024|- Chacón Martínez, Mauricio Sebastián|Software Configuration Management|
+|V0.34|04/04/2024|- Chacón Martínez, Mauricio Sebastián|<p>Implementación de páginas de destino, servicios y aplicaciones</p><p></p>|
+|V0.35|05/04/2024|<p>- Tarazona Medina, Piero Abel</p><p></p>|Se realizó el Sprint Planning 1|
+|V0.36|05/04/2024|<p>- Elias Enrique Torres Espinoza</p><p></p>|Se realizó el Sprint Backlog 1|
+|V0.37|06/04/2024|<p>- Donayre Peña, Moises Rodolfo</p><p></p>|Evidencia de desarrollo para Sprint Review.|
+|V0.38|06/04/2024|- Huarcaya Chavez Miguel Alejandro Daniel |Información sobre la colaboración en equipo durante Sprint.|
+|V1.0|06/04/2024|- Chacón Martínez, Mauricio Sebastián|Avance de conclusiones, bibliográficas y anexos.|
+|V1.2|22/04/2024|<p>- Tarazona Medina, Piero Abel</p><p></p>|Se realizó el Sprint Planning 2|
+|V1.2|22/04/2024|<p>- Elias Enrique Torres Espinoza</p><p></p>|Se realizó el Sprint Backlog 2|
+|V1.3|23/04/2024|<p>- Donayre Peña, Moises Rodolfo</p><p></p>|Evidencia de desarrollo para Sprint Review.|
+|V1.4|24/04/2024|- Huarcaya Chavez Miguel Alejandro Daniel |Información sobre la colaboración en equipo durante Sprint.|
+|V1.5|24/04/2024|- Equipo|Avance de conclusiones, bibliográficas y anexos.|
+|V1.6|25/04/2024|-  Tarazona Medina, Piero Abel|Se mejoran los Assumptions e hypothesis statements.|
+|V1.7|25/04/2024|- Chacón Martínez, Mauricio Sebastián|Se mejoraron los análisis de entrevistas.|
+|V1.8|29/04/2024|- Chacón Martínez, Mauricio Sebastián|Se mejoró el orden del documento.|
+|V1.10|01/06/2024|- Huarcaya Chavez Miguel Alejandro Daniel |Se realizó el Sprint Planning 3|
+|V1.11|01/06/2024|- Chacón Martínez, Mauricio Sebastián|Se realizó el Sprint Backlog 3|
+|V1.12|01/06/2024|<p>- Tarazona Medina, Piero Abel</p><p></p>|Evidencia de desarrollo para Sprint Review.|
+|V1.13|01/06/2024|<p>- Elias Enrique Torres Espinoza</p><p></p>|Información sobre la colaboración en equipo durante Sprint.|
+|V1.14|02/06/2024|<p>- Donayre Peña, Moises Rodolfo</p><p></p>|Validación de Entrevistas|
+|V1.15|03/06/2024|- Equipo|Evaluaciones según Heurística|
+|V1.16|03/06/2024|- Equipo|Avance de conclusiones, bibliográficas y anexos.|
+|V1.17|17/04/2024|- Chacón Martínez, Mauricio Sebastián|Se mejoró el orden del documento.|
+|V1.18|17/06/2024|- Huarcaya Chavez Miguel Alejandro Daniel |Se realizó el Sprint Planning 4|
+|V1.19|17/06/2024|- Chacón Martínez, Mauricio Sebastián|Se realizó el Sprint Backlog 4|
+|V1.20|17/06/2024|<p>- Tarazona Medina, Piero Abel</p><p></p>|Evidencia de desarrollo para Sprint Review.|
+|V1.21|22/06/2024|<p>- Elias Enrique Torres Espinoza</p><p></p>|Información sobre la colaboración en equipo durante Sprint.|
+|V1.22|22/06/2024|<p>- Donayre Peña, Moises Rodolfo</p><p></p>|Validación de Entrevistas|
+|V1.23|22/06/2024|- Equipo|Final de conclusiones, bibliográficas y anexos.|
 
 ---
 ---
@@ -352,6 +130,15 @@ Dividimos el trabajo por ramas utilizando Git Flow, cada uno realizó una rama e
 
 
 ![Capturas-TP1](/assets/chapter01/evidenciasTP1.png)
+
+TB2:Para esta entrega, el equipo se reunió para definir el alcance y los objetivos, asignando tareas específicas a cada miembro. 
+Dividimos el trabajo por ramas utilizando Git Flow, cada uno realizó una rama en relación a las historias de usuario creadas de la aplicación web y se tuvo reuniones periódicas para ver el avance del proyecto. Además corregimos los errores de la anterior entrega, mejorando por completo el proyecto.
+
+![Capturas-TB2](/assets/chapter01/evidenciasTB2.png)
+
+TF:En esta última fase del proyecto, el equipo se reunió para establecer los objetivos y definir el alcance, asignando tareas específicas a cada miembro. Organizamos el trabajo en distintas ramas usando Git Flow, con cada persona trabajando en una rama relacionada con las historias de usuario diseñadas para la aplicación web. Mantuvimos reuniones periódicas para evaluar el progreso del proyecto. Además, corregimos los errores de la entrega anterior, mejorando significativamente el proyecto.
+
+![Capturas-TF](/assets/chapter01/evidenciasTF.png)
 
 
 ---

@@ -893,10 +893,31 @@ Esta sección contiene el proceso de evaluación de las sesiones de validación 
 ---
 
 ## 5.4 Video About The Product
+
+En esta sección elaboramos un resumen de los aspectos más relevantes del video About-The-Product.
+
+**Título**: About the Product Movigestion
+
+**Duración**: 2:08
+
+**Objetivo**: Presentar el producto Movigestion y sus funcionalidades
+
+**Pautas de secuencias de contenidos**
+
+
+|Sección|Inicio(hh:mm)|Resumen|
+|-------|-------------|-------|
+|Introducción del presentador|00:01|Se presenta y menciona que va a hablar sobre el producto desarrollado, Movigestión.|
+|Descripción general del producto|00:06|Movigestión está diseñado para ayudar a empresarios con flotas de vehículos a administrar eficientemente.|
+|Funcionalidades de la aplicación|00:11|La aplicación permite a administradores y transportistas gestionar envíos y reportes de sus vehículos.|
+|Pantalla de inicio y login|00:21|Descripción de la pantalla de login y las opciones para registrarse como administrador o transportista.|
+|Funcionalidades para administradores|00:59|Los administradores pueden ver envíos programados, reportes generados por empleados y gestionar vehículos.|
+|Funcionalidades para transportistas|01:30|Los transportistas pueden ver envíos asignados, reportes, agregar reportes y ver los vehículos asignados.|
+|Conclusión|01:55|Resumen final de las capacidades de Movigestión, enfatizando en la gestión y organización de vehículos y reportes.|
+
 ![About The Product](/assets/chapter05%20-%20review/about%20the%20product.PNG)
 
-**Duración:** 2:08
 
-**Link:**<https://upcedupe-my.sharepoint.com/:v:/g/personal/u202116207_upc_edu_pe/EVzNfjl7ZRtAvgrVtGxeeSEB24lFo7SCNzRMpCjNjY7bRg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=sBmRa5>
+Microsoft Stream URL: <https://upcedupe-my.sharepoint.com/:v:/g/personal/u202116207_upc_edu_pe/EVzNfjl7ZRtAvgrVtGxeeSEB24lFo7SCNzRMpCjNjY7bRg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=sBmRa5>
 
-**Link de Youtube publicado en el Landing Page:**https://www.youtube.com/watch?v=KTIzP3XTNLM
+Youtube URL: https://www.youtube.com/About The Product MoviGestion 

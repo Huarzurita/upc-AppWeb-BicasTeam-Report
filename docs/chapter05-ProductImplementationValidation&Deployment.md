@@ -282,6 +282,7 @@ En esta sección, presentamos la evidencia de las pruebas realizadas durante el 
 ### 5.2.1.5 Execution Evidence for Sprint Review. 
 
 Durante el Sprint 1, se logró un progreso significativo en la implementación de las características clave de la página de inicio del sitio web. El equipo completó con éxito todas las historias de usuario asignadas para este sprint, que incluyeron el desarrollo de un resumen claro de las características y beneficios del sitio web, la integración de acceso visible a información detallada de precios, la adición de un resumen conciso al final de la página de inicio, la inclusión de un llamado a la acción prominente para dirigir a los visitantes a la aplicación web principal, la presentación de contenido informativo claro y detallado, y la integración de información de contacto visible en la página de inicio. El equipo trabajó de manera colaborativa para garantizar que las características implementadas cumplan con los requisitos y contribuyan a una experiencia de usuario positiva.
+
 Capturas de pantalla:
 
 - Sección de Resumen:
@@ -562,8 +563,6 @@ El equipo ha logrado despegar el web service de MoviGestion. Todas las historias
 
 Capturas de pantalla:
 
-CAPTURAS DEL WEB SERVICE DESPLEGADO
-
 ![CAPTURAS DEL WEB SERVICE DESPLEGADO](/assets/chapter05%20-%20spring%203/executionEvidenceSprint3_0.jpg)
 
 ![CAPTURAS DEL WEB SERVICE DESPLEGADO 2](/assets/chapter05%20-%20spring%203/executionEvidenceSprint3_1.jpg)
@@ -590,6 +589,7 @@ Durante el Sprint 3, el equipo ha trabajado intensamente en la documentación de
 |&emsp;&emsp;&emsp;&emsp;/user|&emsp;&emsp;&emsp;&emsp;Obtener todo los perfil|&emsp;&emsp;&emsp;&emsp;GET|&emsp;&emsp;&emsp;&emsp;/api/v1/user|&emsp;&emsp;&emsp;&emsp;none|&emsp;&emsp;&emsp;&emsp;|
 
 CAPTURAS DE INTERACCION CON LA DOCUMENTACION:
+
 A continuación, se incluyen capturas de pantalla que muestran la interacción con la documentación de los web services, utilizando datos de muestra.
 
 1. Endopoint de crear Reporte (/report) - POST
@@ -635,6 +635,205 @@ Durante este segundo Sprint, hemos avanzado el desarrollo del web service y hemo
 ![Team Collaobraiton](/assets/chapter05%20-%20spring%203/TeamCollaborationInsightsDuringSprint%203.png)
 
 ---
+
+### 5.2.4 Sprint 4
+
+En esta sección, comentaremos y explicaremos el progreso tanto en el desarrollo del producto como en la colaboración del equipo durante el Sprint 4. Seguimos un proceso definido que abarca desde la planificación hasta la revisión y documentación del trabajo realizado. A lo largo de las siguientes secciones, detallaremos cómo se llevó a cabo la planificación del sprint, qué tareas se incluyeron en el Sprint Backlog, las pruebas y evidencia de desarrollo para la revisión del sprint, así como la documentación de los servicios y las percepciones clave sobre la colaboración del equipo durante este periodo.
+
+#### 5.2.4.1 Sprint Planning 4
+
+En esta sección, se detallan los aspectos principales del Sprint Planning Meeting para el Sprint 4. Este encuentro es crucial para establecer los objetivos del sprint, determinar las user stories que se abordarán y asignar tareas al equipo. A continuación, se presenta un resumen del Sprint Planning Meeting para este período.
+
+|Sprint #|Sprint 2|
+| :- | :- |
+|Sprint Planning Background||
+|Date|2024-06-15|
+|Time|09:40 PM|
+|Location|Google Meet|
+|Prepared by|Piero Abel Tarazona Medina|
+|Attendees (to planning meeting)|Piero Tarazona, Mauricio Chacon, Elias Torres, Moises Donayre, Miguel Huarcaya|
+|Sprint 4 – 1 Review Summary|Después de realizar todos los procedimientos establecidos para la identificación de objetivos y áreas de retroalimentación, hemos podido concluir la reunión del sprint 4 con éxito en términos de avance en los productos de software y en la colaboración general del equipo. El proceso de mejora con la retroalimentación y la programación de varias secciones en el servicio web y aplicación web significó un gran proceso de mejora para la construcción y realización del sprint, además de reforzar el compromiso de nuestro equipo y la mejora exponencial de las actividades indicadas.|
+|Sprint 4 – 1 Retrospective Summary|Para el proceso de la retrospectiva del Sprint 4, fue necesario que nuestro equipo revisará a detalle toda la retroalimentación recibida ante el primer sprint realizado, para luego generar un análisis a profundidad del desempeño general e individual de todos los miembros del equipo de trabajo. Después de ese proceso, pudimos identificar varias áreas de mejora en las cuales centrarnos para así poder garantizar la entrega de un mejor trabajo y un buen producto para todos nuestros clientes, promoviendo la mejora continua y optimizando los métodos de trabajo en los próximos sprints durante el ciclo de vida del proyecto.|
+|Sprint Goal & User Stories||
+|Sprint 4 Goal|Alcanzar una métrica de cumplimiento del 100%, lo que indicará que se ha logrado los objetivos del sprint 4.|
+|Sprint 1 Velocity|Con el equipo para este sprint 4 decidimos aceptar 4 Story Points|
+|Sum of Story Points|La suma de los Story Points para los User Stories que se están incluyendo en este Sprint 4 es 9|
+
+#### 5.2.4.2 Sprint Backlog 4
+
+El Sprint 4 está centrado en la versión final de nuestro servicio web y aplicación web, priorizando las historias de usuario identificadas. Nuestro objetivo principal es proporcionar a los usuarios una experiencia inicial sólida al presentar una navegación intuitiva y acceso rápido a las funcionalidades relevantes. Al completar las tareas asociadas a las historias de usuario definidas, sentaremos una buena base para el servicio web, asegurando que lo propuesto contribuya al éxito del proyecto.
+
+URL del Board en Trello:
+
+<https://trello.com/b/38iyNoXX/appweb-sprintbacklog-4>
+
+![trello sprint 4](/assets/chapter05%20-%20sprint%204/trello-sprint-4.png)
+
+|&emsp;&emsp;&emsp;&emsp;<a name="_heading=h.kn5t1eh5nzqr"></a>Sprint #|&emsp;&emsp;&emsp;&emsp;Sprint 4|||||||
+| :- | :- | :- | :- | :- | :- | :- | :- |
+|&emsp;&emsp;&emsp;&emsp;User Story|&emsp;&emsp;&emsp;&emsp;Work-Item / Task|||||||
+|&emsp;&emsp;&emsp;&emsp;Id|&emsp;&emsp;&emsp;&emsp;Title|&emsp;&emsp;&emsp;&emsp;Id|&emsp;&emsp;&emsp;&emsp;Title|&emsp;&emsp;&emsp;&emsp;Descripción|&emsp;&emsp;&emsp;&emsp;Estimation (Hours)|&emsp;&emsp;&emsp;&emsp;Assigned to|&emsp;&emsp;&emsp;&emsp;Status (To-do / In / Process / ToReview / Done)|
+|&emsp;&emsp;&emsp;&emsp;US01|&emsp;&emsp;&emsp;&emsp;Visualización de paquetes entregados por un transportista|&emsp;&emsp;&emsp;&emsp;T21|&emsp;&emsp;&emsp;&emsp;Desarrollo de interfaz y lógica para visualización de paquetes entregados|&emsp;&emsp;&emsp;&emsp;Crear una interfaz en la aplicación web que permita al gerente seleccionar un transportista y visualizar el registro de paquetes que ha entregado.|&emsp;&emsp;&emsp;&emsp;4|&emsp;&emsp;&emsp;&emsp;Piero Tarazona|&emsp;&emsp;&emsp;&emsp;Done|
+|&emsp;&emsp;&emsp;&emsp;US04|&emsp;&emsp;&emsp;&emsp;Visualización de envíos asignados|&emsp;&emsp;&emsp;&emsp;T22|&emsp;&emsp;&emsp;&emsp;Implementación de sistema de visualización de envíos asignados|&emsp;&emsp;&emsp;&emsp;Crear una interfaz en la aplicación web donde los transportistas puedan ver los envíos que les han sido asignados, junto con todos los detalles relevantes (destinos, horarios, etc.).|&emsp;&emsp;&emsp;&emsp;5|&emsp;&emsp;&emsp;&emsp;Mauricio Chacon|&emsp;&emsp;&emsp;&emsp;Done|
+|&emsp;&emsp;&emsp;&emsp;US06|&emsp;&emsp;&emsp;&emsp;Visualización de reportes realizados|&emsp;&emsp;&emsp;&emsp;T23|&emsp;&emsp;&emsp;&emsp;Desarrollo de interfaz y lógica para visualización de reportes realizados|&emsp;&emsp;&emsp;&emsp;Crear una sección en la aplicación web donde los transportistas puedan ver un historial de todos los reportes de incidencias que se han realizado.|&emsp;&emsp;&emsp;&emsp;4|&emsp;&emsp;&emsp;&emsp;Miguel Huarcaya|&emsp;&emsp;&emsp;&emsp;Done|
+|&emsp;&emsp;&emsp;&emsp;US07|&emsp;&emsp;&emsp;&emsp;Asignación de envíos|&emsp;&emsp;&emsp;&emsp;T24|&emsp;&emsp;&emsp;&emsp;Desarrollo de interfaz y lógica para asignación de envíos|&emsp;&emsp;&emsp;&emsp;Crear una sección en la aplicación web que permita al gerente seleccionar y asignar envíos a los transportistas.|&emsp;&emsp;&emsp;&emsp;5|&emsp;&emsp;&emsp;&emsp;Elias Torres|&emsp;&emsp;&emsp;&emsp;Done|
+
+#### 5.2.4.3 Development Evidence for Sprint Review
+
+Esta sección documenta y presenta la serie de commits realizados en el repositorio de App Web Bicas Team. Estos commits, que son una parte integral del proceso de desarrollo, se han gestionado utilizando la metodología GitFlow y siguiendo estrictamente las convenciones establecidas para los commits. Esta evidencia sirve como un registro transparente y trazable de nuestro progreso y esfuerzos de desarrollo a lo largo del sprint.
+
+![Development Evidence fpr Spóinrt Review](/assets/chapter05%20-%20sprint%204/DevelopmentEvidenceForSprintReview4.png)
+
+|Repository|Branch|Commit Id|Commit Message|Commit Message Body|Committed on (Date)|
+| :-: | :-: | :-: | :-: | :-: | :-: |
+|upc-AppWeb-BicasTeam-Api|main|cc1ecb8|chore|create default project|18-06|
+|upc-AppWeb-BicasTeam-Api|feature/profile-management|3c630b1|chore|implemented persistence base configuration|18-06|
+|upc-AppWeb-BicasTeam-Api|feature/profile-management|46d523d|feat|added aggregate user|18-06|
+|upc-AppWeb-BicasTeam-Api|feature/profile-management|05ef98f|feat|added user repository|18-06|
+|upc-AppWeb-BicasTeam-Api|feature/profile-management|7b06c81|feat|implemented query service and command for user aggregate|18-06|
+|upc-AppWeb-BicasTeam-Api|feature/profile-management|431353c|feat|added user controller|18-06|
+|upc-AppWeb-BicasTeam-Api|feature/profile-management|554df5b|chore|implemented persistence base configuration|18-06|
+|upc-AppWeb-BicasTeam-Api|feature/profile-management|5475552|fix|base configuration|18-06|
+|upc-AppWeb-BicasTeam-Api|feature/shipments|cb61040|feat|added layers domain, infrastructure and application|19-06|
+|upc-AppWeb-BicasTeam-Api|feature/shipments|b913385|feat|added resources and transform|19-06|
+|upc-AppWeb-BicasTeam-Api|feature/shipments|9ee7c1c|feat|added shipment controller|19-06|
+|upc-AppWeb-BicasTeam-Api|feature/shipments|8cdc129|chore|implemented interface layer base configuration, including configuration statements in main program|19-08|
+|upc-AppWeb-BicasTeam-Api|feature/shipments|132998c|chore|added database context|19-06|
+|upc-AppWeb-BicasTeam-Api|feature/communication-reports|49269c5|feat|added report aggregate|19-06|
+|upc-AppWeb-BicasTeam-Api|feature/communication-reports|7c0c3ef|feat|added repositories and services for the model|19-06|
+|upc-AppWeb-BicasTeam-Api|feature/communication-reports|328d93b|feat|added infrastructure and application for the report|19-06|
+|upc-AppWeb-BicasTeam-Api|feature/communication-reports|77af4a6|feat|added resources and transform|19-06|
+|upc-AppWeb-BicasTeam-Api|feature/communication-reports|a0a9813|chore|implemented interface layer base configuration, including configuration statements in main program|19-06|
+|upc-AppWeb-BicasTeam-Api|feature/vehicles|0977fa1|feat|added aggregate vehicle|20-06|
+|upc-AppWeb-BicasTeam-Api|feature/vehicles|0ce3c84|feat|added command and query services|20-06|
+|upc-AppWeb-BicasTeam-Api|feature/vehicles|a6fac64|feat|added resources and transform|20-06|
+|upc-AppWeb-BicasTeam-Api|feature/vehicles|ee78294|feat|added vehicle controller|20-06|
+|upc-AppWeb-BicasTeam-Api|feature/vehicles|3395c27|chore|implemented interface layer base configuration in main program|20-06|
+
+#### 5.2.4.4. Testing Suite Evidence for Sprint Review
+
+En esta sección, presentamos la evidencia de las pruebas realizadas durante el sprint. Hemos utilizado Gherkin para definir los escenarios de prueba y hemos registrado cada prueba en commits específicos en nuestro repositorio. A continuación, se muestra un registro de estos commits:
+
+|Repository|Branch|Commit Id|Commit Message|Commit Message Body|Commited on (Date)|
+| :- | :- | :- | :- | :- | :- |
+|upc-AppWeb-BicasTeam-Api|feature/profile-management|328d93b|feat|add test for profile management|22-06|
+|upc-AppWeb-BicasTeam-Api|feature/shipments|132998c|feat|add test for shipments|22-06|
+|upc-AppWeb-BicasTeam-Api|feature/communication-reports|7c0c3ef|feat|add test for communication-reports|22-06|
+|upc-AppWeb-BicasTeam-Api|feature/vehicles|e221a5b|feat|add test for vehicles|22-06|
+
+#### 5.2.4.5. Execution Evidence for Sprint Review
+
+El equipo ha logrado desplegar la última versión de la aplicación web y web service de MoviGestion. Todas las historias de usuario asignadas para este sprint fueron completadas exitosamente. En primer lugar, nos enfocamos en el desarrollo y la implementación del web service que es fundamental para la aplicación MoviGestion. Este esfuerzo incluyó la creación de APIs RESTful, la integración segura y eficiente con la base de datos, y la implementación de pruebas exhaustivas para asegurar la fiabilidad y el rendimiento del servicio. 
+
+Capturas de pantalla:
+
+![CAPTURAS DEL WEB SERVICE DESPLEGADO](/assets/chapter05%20-%20sprint%204/executionEvidenceSprint4_0.png)
+
+![CAPTURAS DEL WEB SERVICE DESPLEGADO 2](/assets/chapter05%20-%20sprint%204/executionEvidenceSprint4_1.png)
+
+#### 5.2.4.6. Services Documentation Evidence for Sprint Review
+
+Durante el Sprint 4, el equipo ha trabajado intensamente en la documentación de los Web Services desarrollados. Utilizando OpenAPI, hemos documentado todos los endpoints relevantes, asegurando que cada uno de ellos esté claramente definido y accesible para los desarrolladores. Esta documentación es esencial para garantizar una integración fluida y eficiente del web service con otros componentes de la aplicación y con sistemas externos.
+
+| Endpoint                         | Acción Implementada              | Verbo HTTP | Sintaxis de Llamada              | Parámetros                           | Ejemplo de Response                                                                                       |
+|----------------------------------|----------------------------------|------------|----------------------------------|--------------------------------------|------------------------------------------------------------------------------------------------------------|
+| /report                          | Crear reporte                    | POST       | /api/v1/report                   | type, description, userId            | {"id": 1, "id-user": "2", "type": "infringement", "description": "Speeding violation, I was going 156km/h", "dateTime": "2024-03-10"} |
+| /report/{id}                     | Obtener reporte por Id           | GET        | /api/v1/report/{id}              | id                                   | {"id": 1, "id-user": "2", "type": "infringement", "description": "Speeding violation, I was going 156km/h", "dateTime": "2024-03-10"} |
+| /report/user/{userId}            | Obtener reportes por id de usuario | GET        | /api/v1/report/users/{userId}    | userId                               | [{"id": 1, "id-user": "2", "type": "infringement", "description": "Speeding violation, I was going 156km/h", "dateTime": "2024-03-10"}] |
+| /report                          | Obtener todos los reportes       | GET        | /api/v1/report                   | none                                 | [{"id": 1, "id-user": "2", "type": "infringement", "description": "Speeding violation, I was going 156km/h", "dateTime": "2024-03-10"}] |
+| /vehicle                         | Crear vehículo                   | POST       | /api/v1/vehicle                  | licensePlate, model, serialNumber    | {"id": 1, "licensePlate": "AAA-321", "model": "Chevrolet Corvette", "serialNumber": "IO547SMX"}              |
+| /vehicle/{id}                    | Obtener vehículo por Id          | GET        | /api/v1/vehicle/{id}             | id                                   | {"id": 1, "licensePlate": "AAA-321", "model": "Chevrolet Corvette", "serialNumber": "IO547SMX"}              |
+| /vehicle                         | Obtener todos los vehículos      | GET        | /api/v1/vehicle                  | none                                 | [{"id": 1, "licensePlate": "AAA-321", "model": "Chevrolet Corvette", "serialNumber": "IO547SMX"}]            |
+| /shipment                        | Crear envío                      | POST       | /api/v1/shipment                 | destiny, status, userId, description | {"id": 1, "id-user": "2", "destiny": "Callao, Av Pedro espadaro 2568", "description": "The package to be delivered is a 40-inch smart TV.", "dateTime": "2024-04-25", "status": "Programmed"} |
+| /shipment/{id}                   | Obtener envío por Id             | GET        | /api/v1/shipment/{id}            | id                                   | {"id": 1, "id-user": "2", "destiny": "Callao, Av Pedro espadaro 2568", "description": "The package to be delivered is a 40-inch smart TV.", "dateTime": "2024-04-25", "status": "Programmed"} |
+| /shipment/user/{userId}          | Obtener envíos por id de usuario | GET        | /api/v1/shipment/users/{userId}  | userId                               | [{"id": 1, "id-user": "2", "destiny": "Callao, Av Pedro espadaro 2568", "description": "The package to be delivered is a 40-inch smart TV.", "dateTime": "2024-04-25", "status": "Programmed"}] |
+| /shipment                        | Obtener todos los envíos         | GET        | /api/v1/shipment                 | none                                 | [{"id": 1, "id-user": "2", "destiny": "Callao, Av Pedro espadaro 2568", "description": "The package to be delivered is a 40-inch smart TV.", "dateTime": "2024-04-25", "status": "Programmed"}] |
+| /user                            | Crear perfil                     | POST       | /api/v1/user                     | name, lastName, email, type          | {"id": "1", "name": "Peter", "lastName": "Castle", "email": "admin", "password": "admin", "type": "businessman"} |
+| /user/{id}                       | Obtener perfil por Id            | GET        | /api/v1/user/{id}                | id                                   | {"id": "1", "name": "Peter", "lastName": "Castle", "email": "admin", "password": "admin", "type": "businessman"} |
+| /user                            | Obtener todos los perfiles       | GET        | /api/v1/user                     | none                                 | [{"id": "1", "name": "Peter", "lastName": "Castle", "email": "admin", "password": "admin", "type": "businessman"}] |
+
+Capturas de Interaccion con la Documentacion
+
+A continuación, se incluyen capturas de pantalla que muestran la interacción con la documentación de los web services, utilizando datos de muestra.
+
+1. Endpoint de Crear Reporte (/report) - POST:
+
+![1](/assets/chapter05%20-%20sprint%204/post-rep1.png)
+
+![1](/assets/chapter05%20-%20sprint%204/post-rep2.png)
+
+Descripción: La captura muestra la documentación del endpoint para crear un nuevo reporte, incluyendo los parámetros requeridos y un ejemplo del response.
+
+2. Endpoint de Obtener Reporte por ID (/report/{id}) - GET
+
+![2](/assets/chapter05%20-%20sprint%204/get-rep1.png)
+
+![2](/assets/chapter05%20-%20sprint%204/get-rep2.png)
+
+Descripción: La captura presenta la documentación del endpoint para obtener un reporte por ID, con la sintaxis de llamada y un ejemplo de response.
+
+3. Endpoint de Crear Vehículo (/vehicle) - POST:
+
+![3](/assets/chapter05%20-%20sprint%204/post-ve1.png)
+
+![3](/assets/chapter05%20-%20sprint%204/post-ve2.png)
+
+Descripción: La imagen muestra cómo documentamos la creación de un nuevo vehículo, especificando los parámetros y un ejemplo del response.
+
+4. Endpoint de Obtener Envío por ID (/shipment/{id}) - GET:
+
+![4](/assets/chapter05%20-%20sprint%204/get-ship1.png)
+
+![4](/assets/chapter05%20-%20sprint%204/get-ship2.png)
+
+Descripción: La captura ilustra la documentación del endpoint para obtener un envío por ID, incluyendo un ejemplo del request y response.
+
+#### <a name="_heading=h.ikcf394glpjk"></a>**URL del Repositorio:**
+   El código fuente del Web Services se encuentran en el siguiente repositorio:
+
+- **Repositorio de Web Service:** [upc-AppWeb-BicasTeam/upc-AppWeb-BicasTeam-Api: Bicas Team - Movigestion - API (github.com)](https://github.com/upc-AppWeb-BicasTeam/upc-AppWeb-BicasTeam-Api) 
+
+#### 5.2.4.7. Software Deployment Evidence for Sprint Review
+
+Durante el Sprint 4, llevamos a cabo el despliegue de nuestra web service en SmarterASP.NET. A continuación, detallamos los pasos realizados:
+
+- Ingesamos la cuenta de SmarterASP.NET
+
+![1](/assets/chapter05%20-%20sprint%204/softwareDeployment1.png)
+
+- Creamos nuestra cuenta de hosting con el plan gratuito de 60 dias
+
+![2](/assets/chapter05%20-%20sprint%204/softwareDeployment2.png)
+
+- Entramos al panel de control de nuestro hosting creado
+
+![3](/assets/chapter05%20-%20sprint%204/softwareDeployment3.png)
+
+- En la sección Databases elegimos MySQL
+
+![4](/assets/chapter05%20-%20sprint%204/softwareDeployment4.png)
+
+- Creamos nuestra base de datos para nuestro web service
+
+![5](/assets/chapter05%20-%20sprint%204/softwareDeployment5.png)
+
+- En Files subiremos el publish de nuestro web service
+
+![6](/assets/chapter05%20-%20sprint%204/softwareDeployment6.png)
+
+- Volvemos a WebSite y le damos click en site1
+
+![7](/assets/chapter05%20-%20sprint%204/softwareDeployment7.png)
+
+- Finalmente, comprobamos de que se realizó el deploy correstamente
+
+![8](/assets/chapter05%20-%20sprint%204/softwareDeployment8.png)
+
+#### 5.2.4.8. Team Collaboration Insights during Sprint
+
+Durante este cuarto Sprint, hemos avanzado el desarrollo del web service y hemos colaborado estrechamente en su implementación. La colaboración entre los miembros del equipo se refleja en los diversos commits realizados en el repositorio de GitHub, los cuales han sido debidamente documentados en las capturas de pantalla adjuntas. Para asegurar una colaboración efectiva, hemos implementado GitFlow como nuestra metodología de trabajo colaborativo en Git. Con GitFlow, hemos creado ramas para cada una de las secciones de nuestro web service. Esto nos ha permitido trabajar de manera organizada y centrarnos en completar correctamente las historias de usuario designadas para cada sección. En cuanto a la elaboración del código, hemos asignado a cada miembro del equipo una sección específica del web service. Esta estrategia nos ha permitido avanzar de manera más eficiente y completar el trabajo antes de la fecha de entrega. Además, hemos realizado reuniones adicionales para intercambiar ideas y resolver cualquier duda o problema que pudiera surgir durante el desarrollo del web service. Estas sesiones han contribuido de manera positiva al éxito del proyecto. A continuación, presentamos algunas capturas de pantalla que muestran los commits realizados por los miembros del equipo en GitHub:
+
+![Team Collaboration Insights during Sprint](/assets/chapter05%20-%20sprint%204/teamCollaboration.png)
 
 ## 5.3 Validation Interviews
 Con el fin de obtener y separar correctamente toda la información obtenida durante las entrevistas, se optó por definir un banco de preguntas según nuestro segmento de mercado identificado anteriormente. Este grupo de preguntas está especializado para la obtención de información específica según la persona entrevistada y según la problemática investigada para el proyecto y la posible solución en la forma de nuestro producto. 

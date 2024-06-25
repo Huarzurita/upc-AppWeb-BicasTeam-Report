@@ -480,6 +480,26 @@ Markdown - La guía definitiva en español. (2022, 14 febrero). Markdown. https:
 
 Tune, N. (2018, 1 agosto). Domain-Driven Architecture Diagrams - Strategy, Architecture, Continuous Delivery, and DDD - Medium. Medium. 
 
+admeconomica. (2020, 9 de julio). La congestión vehicular de Lima: Cuando y donde menos esperas - Económica. Económica. Recuperado de https://economica.pe/la-congestion-vehicular-de-lima-cuando-y-donde-menos-lo-esperas/
+
+Universidad de Lima. (s. f.-b). Las reformas que el transporte público necesita | Universidad de Lima. Recuperado de https://www.ulima.edu.pe/entrevista/alexandre-almeida-17-07-2020
+
+Wilson, J. (2016). Gestión y Control de Flotas y Servicios de Transporte por Carretera. ICB Editores. Recuperado de https://books.google.com.pe/books?id=G8Y-DwAAQBAJ&printsec=frontcover&hl=es&source=gbs_ge_summary_r&cad=0#v=onepage&q&f=false
+
+Frock, R. (2006). Changing How the World Does Business: FedEx’s Incredible Journey to Success – The Inside Story. Berrett-Koehler Publishers. Recuperado de https://www.goodreads.com/book/show/648357.Changing_How_the_World_Does_Business
+
+George, R. (2013). Ninety Percent of Everything: Inside Shipping, the Invisible Industry That Puts Clothes on Your Back, Gas in Your Car, and Food on Your Plate. Metropolitan Books. Recuperado de https://archive.org/details/ninetypercentofe0000geor
+
+Mordor Intelligence. (2010). Industria de Transporte de Carga. Recuperado de https://www.odoo.com/es_ES/app/fleet?network=o&utm_source=bing&utm_medium=cpc&utm_campaign=PE-ES-Fleet&utm_term=gesti%C3%B3n%20de%20flotas%20de%20veh%C3%ADculosutm_gclid=&msclkid=2b6d8e20caf617e7aa2fe80f78d7b93a
+
+INEGI y CANACAR. (s. f). Conociendo la Industria del Autotransporte de Carga. Recuperado de https://www.jornada.com.mx/notas/2021/12/22/autos/inegi-y-canacar-publican-estudio-de-la-importancia-del-autotransporte-de-carga-durante-el-2021/
+
+Autor(es). (s.f). "Tecnologías de la Información y Comunicación (TIC) en la Gestión Empresarial." Revista de Tecnología. Recuperado de http://www.scielo.org.pe/scielo.php?script=sci_arttext&pid=S2219-71682023000400388
+
+Autor(es). (s.f). "Revista Logistec." Revista Logistec. Recuperado de https://www.revistalogistec.com/
+
+Autor(es). (s.f). Logística Profesional.Recuperado de https://www.logisticaprofesional.com/revistas.php
+
 
 # Anexos
 Link gitHub Repositorio: https://github.com/upc-AppWeb-BicasTeam/upc-AppWeb-BicasTeam-AppWeb.git

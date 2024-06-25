@@ -571,22 +571,23 @@ Capturas de pantalla:
 #### 5.2.3.6 Services Documentation Evidence for Sprint Review
 Durante el Sprint 3, el equipo ha trabajado intensamente en la documentación de los Web Services desarrollados. Utilizando OpenAPI, hemos documentado todos los endpoints relevantes, asegurando que cada uno de ellos esté claramente definido y accesible para los desarrolladores. Esta documentación es esencial para garantizar una integración fluida y eficiente del web service con otros componentes de la aplicación y con sistemas externos.
 
-|&emsp;&emsp;&emsp;&emsp;Endpoint|&emsp;&emsp;&emsp;&emsp;Acción Implementada|&emsp;&emsp;&emsp;&emsp;Verbo HTTP|&emsp;&emsp;&emsp;&emsp;Sintaxis de Llamada|&emsp;&emsp;&emsp;&emsp;Parámetros|&emsp;&emsp;&emsp;&emsp;Ejemplo de Response|
-| :- | :- | :- | :- | :- | :- |
-|&emsp;&emsp;&emsp;&emsp;/report|&emsp;&emsp;&emsp;&emsp;Crear reporte|&emsp;&emsp;&emsp;&emsp;POST|&emsp;&emsp;&emsp;&emsp;/api/v1/report|&emsp;&emsp;&emsp;&emsp;|&emsp;&emsp;&emsp;&emsp;|
-|&emsp;&emsp;&emsp;&emsp;/report/{id}|&emsp;&emsp;&emsp;&emsp;Obtener reporte por Id|&emsp;&emsp;&emsp;&emsp;GET|&emsp;&emsp;&emsp;&emsp;/api/v1/report/{id}|&emsp;&emsp;&emsp;&emsp;id|&emsp;&emsp;&emsp;&emsp;|
-|&emsp;&emsp;&emsp;&emsp;/report/user/{userId}|&emsp;&emsp;&emsp;&emsp;Obtener reportes por id de usuario|&emsp;&emsp;&emsp;&emsp;GET|&emsp;&emsp;&emsp;&emsp;/api/v1/report/users/{userId}|&emsp;&emsp;&emsp;&emsp;userId|&emsp;&emsp;&emsp;&emsp;|
-|&emsp;&emsp;&emsp;&emsp;/report|&emsp;&emsp;&emsp;&emsp;Obtener todo los reportes|&emsp;&emsp;&emsp;&emsp;GET|&emsp;&emsp;&emsp;&emsp;/api/v1/report|&emsp;&emsp;&emsp;&emsp;none|&emsp;&emsp;&emsp;&emsp;|
-|&emsp;&emsp;&emsp;&emsp;/vehicle|&emsp;&emsp;&emsp;&emsp;Crear vehiculo|&emsp;&emsp;&emsp;&emsp;POST|&emsp;&emsp;&emsp;&emsp;/api/v1/vehicle|&emsp;&emsp;&emsp;&emsp;|&emsp;&emsp;&emsp;&emsp;|
-|&emsp;&emsp;&emsp;&emsp;/vehicle/{id}|&emsp;&emsp;&emsp;&emsp;Obtener vehículo por Id|&emsp;&emsp;&emsp;&emsp;GET|&emsp;&emsp;&emsp;&emsp;/api/v1/vehicle/{id}|&emsp;&emsp;&emsp;&emsp;id|&emsp;&emsp;&emsp;&emsp;|
-|&emsp;&emsp;&emsp;&emsp;/vehicle|&emsp;&emsp;&emsp;&emsp;Obtener todo los vehículos|&emsp;&emsp;&emsp;&emsp;GET|&emsp;&emsp;&emsp;&emsp;/api/v1/vehicle|&emsp;&emsp;&emsp;&emsp;none|&emsp;&emsp;&emsp;&emsp;|
-|&emsp;&emsp;&emsp;&emsp;/shipment|&emsp;&emsp;&emsp;&emsp;Crear envío|&emsp;&emsp;&emsp;&emsp;POST|&emsp;&emsp;&emsp;&emsp;/api/v1/shipment|&emsp;&emsp;&emsp;&emsp;|&emsp;&emsp;&emsp;&emsp;|
-|&emsp;&emsp;&emsp;&emsp;/shipment/{id}|&emsp;&emsp;&emsp;&emsp;Obtener envío por Id|&emsp;&emsp;&emsp;&emsp;GET|&emsp;&emsp;&emsp;&emsp;/api/v1/shipment/{id}|&emsp;&emsp;&emsp;&emsp;id|&emsp;&emsp;&emsp;&emsp;|
-|<p>&emsp;&emsp;&emsp;&emsp;/shipment/user/{userId}</p><p>&emsp;&emsp;&emsp;&emsp;</p>|&emsp;&emsp;&emsp;&emsp;Obtener envíos por id de usuario|&emsp;&emsp;&emsp;&emsp;GET|&emsp;&emsp;&emsp;&emsp;/api/v1/shipment/users/{userId}|&emsp;&emsp;&emsp;&emsp;userId|&emsp;&emsp;&emsp;&emsp;|
-|&emsp;&emsp;&emsp;&emsp;/shipment|&emsp;&emsp;&emsp;&emsp;Obtener todo los envíos|&emsp;&emsp;&emsp;&emsp;GET|&emsp;&emsp;&emsp;&emsp;/api/v1/shipment|&emsp;&emsp;&emsp;&emsp;none|&emsp;&emsp;&emsp;&emsp;|
-|&emsp;&emsp;&emsp;&emsp;/user|&emsp;&emsp;&emsp;&emsp;Crear perfil|&emsp;&emsp;&emsp;&emsp;POST|&emsp;&emsp;&emsp;&emsp;/api/v1/user|&emsp;&emsp;&emsp;&emsp;|&emsp;&emsp;&emsp;&emsp;|
-|&emsp;&emsp;&emsp;&emsp;/user/{id}|&emsp;&emsp;&emsp;&emsp;Obtener perfil por Id|&emsp;&emsp;&emsp;&emsp;GET|&emsp;&emsp;&emsp;&emsp;/api/v1/user/{id}|&emsp;&emsp;&emsp;&emsp;id|&emsp;&emsp;&emsp;&emsp;|
-|&emsp;&emsp;&emsp;&emsp;/user|&emsp;&emsp;&emsp;&emsp;Obtener todo los perfil|&emsp;&emsp;&emsp;&emsp;GET|&emsp;&emsp;&emsp;&emsp;/api/v1/user|&emsp;&emsp;&emsp;&emsp;none|&emsp;&emsp;&emsp;&emsp;|
+| Endpoint                         | Acción Implementada              | Verbo HTTP | Sintaxis de Llamada              | Parámetros                           | Ejemplo de Response                                                                                       |
+|----------------------------------|----------------------------------|------------|----------------------------------|--------------------------------------|------------------------------------------------------------------------------------------------------------|
+| /report                          | Crear reporte                    | POST       | /api/v1/report                   | type, description, userId            | {"id": 1, "id-user": "2", "type": "infringement", "description": "Speeding violation, I was going 156km/h", "dateTime": "2024-03-10"} |
+| /report/{id}                     | Obtener reporte por Id           | GET        | /api/v1/report/{id}              | id                                   | {"id": 1, "id-user": "2", "type": "infringement", "description": "Speeding violation, I was going 156km/h", "dateTime": "2024-03-10"} |
+| /report/user/{userId}            | Obtener reportes por id de usuario | GET        | /api/v1/report/users/{userId}    | userId                               | [{"id": 1, "id-user": "2", "type": "infringement", "description": "Speeding violation, I was going 156km/h", "dateTime": "2024-03-10"}] |
+| /report                          | Obtener todos los reportes       | GET        | /api/v1/report                   | none                                 | [{"id": 1, "id-user": "2", "type": "infringement", "description": "Speeding violation, I was going 156km/h", "dateTime": "2024-03-10"}] |
+| /vehicle                         | Crear vehículo                   | POST       | /api/v1/vehicle                  | licensePlate, model, serialNumber    | {"id": 1, "licensePlate": "AAA-321", "model": "Chevrolet Corvette", "serialNumber": "IO547SMX"}              |
+| /vehicle/{id}                    | Obtener vehículo por Id          | GET        | /api/v1/vehicle/{id}             | id                                   | {"id": 1, "licensePlate": "AAA-321", "model": "Chevrolet Corvette", "serialNumber": "IO547SMX"}              |
+| /vehicle                         | Obtener todos los vehículos      | GET        | /api/v1/vehicle                  | none                                 | [{"id": 1, "licensePlate": "AAA-321", "model": "Chevrolet Corvette", "serialNumber": "IO547SMX"}]            |
+| /shipment                        | Crear envío                      | POST       | /api/v1/shipment                 | destiny, status, userId, description | {"id": 1, "id-user": "2", "destiny": "Callao, Av Pedro espadaro 2568", "description": "The package to be delivered is a 40-inch smart TV.", "dateTime": "2024-04-25", "status": "Programmed"} |
+| /shipment/{id}                   | Obtener envío por Id             | GET        | /api/v1/shipment/{id}            | id                                   | {"id": 1, "id-user": "2", "destiny": "Callao, Av Pedro espadaro 2568", "description": "The package to be delivered is a 40-inch smart TV.", "dateTime": "2024-04-25", "status": "Programmed"} |
+| /shipment/user/{userId}          | Obtener envíos por id de usuario | GET        | /api/v1/shipment/users/{userId}  | userId                               | [{"id": 1, "id-user": "2", "destiny": "Callao, Av Pedro espadaro 2568", "description": "The package to be delivered is a 40-inch smart TV.", "dateTime": "2024-04-25", "status": "Programmed"}] |
+| /shipment                        | Obtener todos los envíos         | GET        | /api/v1/shipment                 | none                                 | [{"id": 1, "id-user": "2", "destiny": "Callao, Av Pedro espadaro 2568", "description": "The package to be delivered is a 40-inch smart TV.", "dateTime": "2024-04-25", "status": "Programmed"}] |
+| /user                            | Crear perfil                     | POST       | /api/v1/user                     | name, lastName, email, type          | {"id": "1", "name": "Peter", "lastName": "Castle", "email": "admin", "password": "admin", "type": "businessman"} |
+| /user/{id}                       | Obtener perfil por Id            | GET        | /api/v1/user/{id}                | id                                   | {"id": "1", "name": "Peter", "lastName": "Castle", "email": "admin", "password": "admin", "type": "businessman"} |
+| /user                            | Obtener todos los perfiles       | GET        | /api/v1/user                     | none                                 | [{"id": "1", "name": "Peter", "lastName": "Castle", "email": "admin", "password": "admin", "type": "businessman"}] |
+
 
 CAPTURAS DE INTERACCION CON LA DOCUMENTACION:
 
@@ -1119,4 +1120,4 @@ En esta sección elaboramos un resumen de los aspectos más relevantes del video
 
 Microsoft Stream URL: <https://upcedupe-my.sharepoint.com/:v:/g/personal/u202116207_upc_edu_pe/EVzNfjl7ZRtAvgrVtGxeeSEB24lFo7SCNzRMpCjNjY7bRg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=sBmRa5>
 
-Youtube URL: https://www.youtube.com/About The Product MoviGestion 
+Youtube URL: https://www.youtube.com/watch?v=KTIzP3XTNLM&t=24s

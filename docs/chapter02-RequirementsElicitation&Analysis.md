@@ -454,20 +454,8 @@ EMPRESARIO
 
 Los segmentos a analizar son empresarios a cargo de un flota de vehiculos y Transportistas encrgados en llevar un paquete de una scursal a un punto B.
 
-| Tarea                                      | Descripción                                                                                         | Frecuencia (1-5) | Importancia (1-5) |
-|--------------------------------------------|-----------------------------------------------------------------------------------------------------|------------------|-------------------|
-| **Empresarios**                            |                                                                                                     |                  |                   |
-| Monitoreo del rendimiento de la flota      | Seguimiento del desempeño de vehículos y conductores para identificar áreas de mejora.              |         5        |          5        |
-| Registro y seguimiento de incidencias      | Documentación y seguimiento de problemas y eventos relacionados con la flota.                       |         5        |          3        |
-| Planificación de rutas                     | Diseño y optimización de rutas para maximizar la eficiencia y minimizar los costos.                 |         1        |          5        |
-| Análisis de costos de operación            | Evaluación y control de los gastos asociados con la operación de la flota.                          |         1        |          4        |
-| Gestión de la seguridad                    | Implementación y seguimiento de medidas para garantizar la seguridad de la flota y los conductores. |         1        |          5        |
-| **Transportistas**                         |                                                                                                     |                  |                   |
-| Seguimiento de envíos                      | Monitoreo en tiempo real de la ubicación y estado de los envíos para garantizar la puntualidad.     |         5        |          5        |
-| Mantenimiento de vehículos                 | Programación y seguimiento de tareas de mantenimiento para garantizar el funcionamiento óptimo.     |         5        |          5        |
-| Comunicación con conductores               | Coordinación y transmisión de información importante a los conductores sobre rutas y entregas.      |         5        |          3        |
-| Registro de horas de trabajo               | Documentación y seguimiento de las horas de trabajo de los conductores para cumplir con regulaciones laborales. |         5        |          3        |
-| Reporte de incidentes y problemas          | Documentación y comunicación de problemas operativos y situaciones inesperadas.                     |         1        |          4        |
+
+![User Task Matrix](/assets/chapter02/taskMatrix.png)
 
 Diferencias:
 

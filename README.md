@@ -535,7 +535,7 @@ Video Expo TP1: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202217633_upc
 
 Video Expo TB2: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202116207_upc_edu_pe/EZoFDuC5TLtFptGOFdWaPL4BNn873oxy4WuFmJbspONVNQ?e=ZYDFL4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
 
-Video Expo TF1: https://upcedupe-my.sharepoint.com/personal/u202217633_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202217633%5Fupc%5Fedu%5Fpe%2FDocuments%2Fupc%2Dpre%2D202401%2Dsi730%2DSV51%2DBicasTeam%2Dexpo%2Dtf1%2Emp4&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E6d5ac496%2Dcf34%2D4be9%2Dba57%2D8bd0578e5fa2
+Video Expo TF1: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202217633_upc_edu_pe/EUr5YUd3-b1Mpre7AzgNPKQBHoHwcUqdcajYMlhyG7oj8Q?e=lseOdc&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
 
 Video About The Team: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202116207_upc_edu_pe/EZdxOBmGsVJOnG-uv_SZaq0BHUBgm6bpuojiXg8PyYQtpw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=8uXdYs
 

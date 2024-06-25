@@ -152,7 +152,7 @@ En esta sección, se detallan los aspectos principales del Sprint Planning Meeti
 
 El Sprint 1 está centrado en la implementación de las funcionalidades clave de la landing page del sitio web, priorizando las historias de usuario identificadas. Nuestro objetivo principal es proporcionar a los visitantes una experiencia inicial sólida al presentar de manera clara y concisa las características y beneficios del sitio, junto con una navegación intuitiva y acceso rápido a la información relevante. Al completar las tareas asociadas a las historias de usuario definidas, sentaremos las bases para futuras iteraciones, asegurando que la página de inicio cumpla con las expectativas de los usuarios y contribuya al éxito del proyecto.
 
-URL del Board en Trello: https://trello.com/invite/b/9fFNzPVl/ATTId6d62a99d06e758b547d220c4b08a09131B77500/appweb
+URL del Board en Trello: https://trello.com/b/9fFNzPVl/appweb
 ![Board Trello](/assets/boardTrello.png)
 <table>
     <tr>
@@ -370,7 +370,7 @@ El Sprint 2 está centrado en el frontend de nuestra aplicación web, priorizand
 
 URL del Board en Trello: 
 
-<https://trello.com/invite/b/5B5dHJXJ/ATTI89c324fa13b11e255137811b14e197e78549A8F8/appweb-sprinbacklog-2> 
+https://trello.com/b/5B5dHJXJ/appweb-sprinbacklog-2 
 
 ![trello sprint 2](/assets/chapter05%20-%20spring%202/trello-print-backlog-2.png)
 
@@ -501,7 +501,7 @@ El Sprint 3 está centrado en el servicio web, priorizando las historias de usua
 
 URL del Board en Trello:
 
-<https://trello.com/invite/b/vTLeIEal/ATTIa1968d7983179167e3fad507a5040fe21920F95D/appweb-sprintbacklog-3> 
+https://trello.com/b/vTLeIEal/appweb-sprintbacklog-3 
 
 ![Trello Sprint 3](/assets/chapter05%20-%20spring%203/trello-sprint-3.png)
 
@@ -644,7 +644,7 @@ En esta sección, comentaremos y explicaremos el progreso tanto en el desarrollo
 
 En esta sección, se detallan los aspectos principales del Sprint Planning Meeting para el Sprint 4. Este encuentro es crucial para establecer los objetivos del sprint, determinar las user stories que se abordarán y asignar tareas al equipo. A continuación, se presenta un resumen del Sprint Planning Meeting para este período.
 
-|Sprint #|Sprint 2|
+|Sprint #|Sprint 4|
 | :- | :- |
 |Sprint Planning Background||
 |Date|2024-06-15|
@@ -665,7 +665,7 @@ El Sprint 4 está centrado en la versión final de nuestro servicio web y aplica
 
 URL del Board en Trello:
 
-<https://trello.com/b/38iyNoXX/appweb-sprintbacklog-4>
+https://trello.com/b/38iyNoXX/appweb-sprintbacklog-4
 
 ![trello sprint 4](/assets/chapter05%20-%20sprint%204/trello-sprint-4.png)
 

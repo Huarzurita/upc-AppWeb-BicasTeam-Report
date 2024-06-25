@@ -502,7 +502,7 @@ Autor(es). (s.f). Logística Profesional.Recuperado de https://www.logisticaprof
 
 
 # Anexos
-Link gitHub Repositorio: https://github.com/upc-AppWeb-BicasTeam/upc-AppWeb-BicasTeam-AppWeb.git
+Link gitHub Repositorio: https://github.com/upc-AppWeb-BicasTeam
 
 Link Github Landing page: https://github.com/upc-AppWeb-BicasTeam/upc-AppWeb-BicasTeam-LandingPage.github.io.git
 

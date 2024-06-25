@@ -13,11 +13,11 @@ Universidad Peruana de Ciencias Aplicadas
 <center>Seccion: WS52</center> 
 <center>Profesor: Angel Augusto Velasquez Nuñez</center> 
 
-### Startup: Bicas team
-### Producto: MoviGestion
+### <center>Startup: Bicas team</center>
+### <center>Producto: MoviGestion</center>
 ### Integrantes:
 
-<table align="center">
+<table >
     <tr>
         <th>Nombre</th>
         <th>Codigo</th>
@@ -41,7 +41,7 @@ Universidad Peruana de Ciencias Aplicadas
 </table>
 
 
-<center> junii, 2024</center>
+<center> junio, 2024</center>
 
 ---
 ---
@@ -125,18 +125,18 @@ TB1: En esta etapa, el equipo se reunió para definir el alcance y los objetivos
 
 ![Capturas-TB1](/assets/chapter01/evidenciaTB1.png)
 
-TP1:Para esta entrega, el equipo se reunió para definir el alcance y los objetivos, asignando tareas específicas a cada miembro. 
-Dividimos el trabajo por ramas utilizando Git Flow, cada uno realizó una rama en relación a las historias de usuario creadas de la aplicación web y se tuvo reuniones periódicas para ver el avance del proyecto. Además corregimos los errores de la anterior entrega, mejorando por completo el proyecto.
-
+TP1: Implementamos todo lo investigado en la anterior entrega en una aplicacion web, mas especificamente la capa de presentación. Utilizamos una "fake api" para emular un "back-end" de donde recoger datos y mostrar una simulacion realista de como se veria nuestra aplicacion.
+Utilizamos GitHub Pages para desplegar el "front-end" de nuestra aplicación y "json placeholder" para la "fake api".
+Po ultimo, corregimos ciertos puntos del figma de la entrega anterior
 
 ![Capturas-TP1](/assets/chapter01/evidenciasTP1.png)
 
-TB2:Para esta entrega, el equipo se reunió para definir el alcance y los objetivos, asignando tareas específicas a cada miembro. 
-Dividimos el trabajo por ramas utilizando Git Flow, cada uno realizó una rama en relación a las historias de usuario creadas de la aplicación web y se tuvo reuniones periódicas para ver el avance del proyecto. Además corregimos los errores de la anterior entrega, mejorando por completo el proyecto.
+TB2: En esta etapa, el equipo implemento un "back-end" para nuestra aplicacion. capaz de gestionar los datos necesarios de nuestra aplicacion, que mas adelante, se integrará con nuestro "front-end". Utilizamos el servicio de "Azure" para desplegar nuestra API.
+Por ultimo, corregimos ciertos puntos del front-end de la entrega anterior
 
 ![Capturas-TB2](/assets/chapter01/evidenciasTB2.png)
 
-TF:En esta última fase del proyecto, el equipo se reunió para establecer los objetivos y definir el alcance, asignando tareas específicas a cada miembro. Organizamos el trabajo en distintas ramas usando Git Flow, con cada persona trabajando en una rama relacionada con las historias de usuario diseñadas para la aplicación web. Mantuvimos reuniones periódicas para evaluar el progreso del proyecto. Además, corregimos los errores de la entrega anterior, mejorando significativamente el proyecto.
+TF: En esta entrega, hemos integrado nuestra aplicacion para que funcione en conjunto con nuestra API. Ademas hemos corregido puntos a corregir del reporte cometidos en anteriores entregas.
 
 ![Capturas-TF](/assets/chapter01/evidenciasTF.png)
 
@@ -338,7 +338,9 @@ del ABET – EAC - Student Outcome 5
         - Implmentacion de login y register en la rama main content flow del app web y organizador 
         <br><strong>TB2:</strong><br>
         -Implementacion de IAM y perfil del backend <br>
-        <br>
+        <strong>TF:</strong><br>
+        -Integracion de login y register en el front-end para conectarse con nuestra API.
+        <br><br>
         <strong>Piero Tarazona
         <br>
         TB1:</strong><br>
@@ -352,7 +354,8 @@ del ABET – EAC - Student Outcome 5
         <br><strong>
         TP1:</strong><br>
         -Elaboracion de reportes de la aplicacion<br><strong>TB2:</strong><br>
-        -Implementacion del endpoint "vehicles" en el backend<br><br>
+        -Implementacion del endpoint "vehicles" en el backend<br><strong>TF:</strong>
+        <br>-Integracion de secccion de "reportes" con nuestra api<br><br>
         <strong>Elias Torres
         <br>
         TB1:</strong> <br>
@@ -367,7 +370,8 @@ del ABET – EAC - Student Outcome 5
         -Implementación del landing page
         <br><strong>TP1:</strong><br>
         -Implementacion de home y estilos generales<br><strong>TB2:</strong><br>
-        -Implementacion de reportes y IAM<br><br>
+        -Implementacion de reportes y IAM<br><strong>TF:</strong><br>
+        -Integracion de seccion "home" con el api desplegada<br><br>
         <strong>Moises Donayre
         <br>
         TB1:</strong> <br>
@@ -382,7 +386,8 @@ del ABET – EAC - Student Outcome 5
         -Contribución con el landing page
         <br><strong>TP1:</strong><br>
         -Implementaicon de shipmetns de la aplicacion frontend<br><strong>TB2:</strong><br>
-        -Implementacion del endpoint de reportes del backend<br><br>
+        -Implementacion del endpoint de reportes del backend<br><strong>TF:</strong><br>
+        -Integraciond e seccion "shipments" con nuestra api<br><br>
         <strong>Maurcio Chacon
         <br>
         TB1:</strong> <br>
@@ -397,7 +402,8 @@ del ABET – EAC - Student Outcome 5
         -Aportación en los puntos del Product Implementation, Validation & Deployment
         <strong>TP1:</strong><br>
         -Implementacion de profile management de la aplicacion y estilos generales<br><strong>TB2:</strong><br>
-        -Implementacion del endpoint shipments del backend
+        -Implementacion del endpoint shipments del backend<br><strong>TF:</strong><br>
+        -Integracion de seccion "vehicles" con la api.
         </td>
         <td>-La planificación del proyecto aseguró una buena distribución de tareas. Además, la colaboración activa de los miembros del equipo permitió la revision y corrección múltiple de tareas que se consideraban completadas.
         <br>
@@ -414,7 +420,8 @@ del ABET – EAC - Student Outcome 5
         <br><strong>TP1:</strong><br>
         -En esta entrega aprendi que debido a que el dispositivo mas usado por los transportistas es el celular, la resposividad de la aplicacion es crucial.<br><strong>TB2:</strong><br>
         -En esta entrega aprendi que los datos manejados por la aplicacion deben de ser manejados respetando las reglas de negocio<br>
-        <br>
+        <strong>TF:</strong><br>
+        -En esta entrega comprendi que los transportistas deben estar relacionados con algun empresario, envios, reportes, y vehiculos.<br><br>
         <strong>Piero Tarazona
         <br>
         TB1:</strong> <br>
@@ -422,7 +429,8 @@ del ABET – EAC - Student Outcome 5
         <br><strong>TP1:</strong><br>
         -Durante esta entrega aprendi el uso correcto de los conventional commits y lo imporatnte de una correcta organizacvion <br><strong>TB2:</strong><br>
         -En esta entrega aprendi que el manejo de datos de los reportes debe respetar las reglas de negocio de la aplicacion
-        <br><br>
+        <br><strong>TF:</strong><br>
+        -Aprendi que es importante que todos los transportistas tengan acceso al total de reportes hechos por todos para facilitar la comunicacion grupal<br><br>
         <strong>Elias Torres
         <br>
         TB1:</strong> <br>
@@ -430,7 +438,8 @@ del ABET – EAC - Student Outcome 5
         <br><strong>TP1:</strong><br>
         -En esta entrega realizamos avances sobre una capa de nuestra solucion, la capa de presentacion<br><strong>TB2:</strong><br>
         -En esta entrega aprendi que los datos manejados de envios deben de estar correctamente aislados pues contienen datos sensibles<br>
-        <br>
+        <strong>TF:</strong><br>
+        -En esta entrega aprendi que los datos de home debe tener un resumen de todos los datos relacionados al mismo<br><br>
         <strong>Moises Donayre
         <br>
         TB1:</strong> <br>
@@ -438,12 +447,14 @@ del ABET – EAC - Student Outcome 5
         <br><strong>TP1:</strong><br>
         -Durante esta entrega aprendi a utilizar correctamente los convetional commits y una correcta organizaion grupal para el desarrollo de softawre de una solucion<br><strong>TB2:</strong><br>
         -Para esta entrega note la importancia de que los datos de los vehiculos esten aislados pues manejan datos sensibles<br>
-        <br>
+        <strong>TF:</strong><br>
+        -Para esta entrega comprendi que todos los envios deben poder ser vistos por el administrador para ser mas eficiente<br><br>
         <strong>Maurcio Chacon
         <br>
         TB1:</strong> <br>
         En esta entrega se escogió la problemática a resolver teniendo en cuenta su relevancia en la sociedad actual.<br><strong>TP1:</strong><br>-En esta entrega aprendi lo necesario que es manejar un entorno responsivo de la aplicacion pues un segmento objetivo utiliza unicamente un tipo de dispositivo mientras que el otro uno completamente diferente<br><strong>TB2:</strong><br>
-        Para esta entrega entendi que el manejo de datos en general de una aplicacion que interactua con datos sensibles debe tener en cuenta la proteccion de las mismas.
+        Para esta entrega entendi que el manejo de datos en general de una aplicacion que interactua con datos sensibles debe tener en cuenta la proteccion de las mismas.<br><strong>TF:</strong><br>
+        -En esta entrega aprendi que los vehiculos deben estar asociados a cada transportista.
         </td>
         <td>-Es esencial que el equipo se coordine para adaptarse a los cambios de planes en respuesta a los desafíos emergentes. Esta adaptabilidad no solo permite una resolución eficaz de los problemas, sino que también fomenta la resiliencia del equipo, permitiendo una mayor capacidad para manejar futuros obstáculos.<br><br>- En este proyecto, he mejorado mi habilidad para desarrollar el frontend de manera efectiva. Ha sido una oportunidad para adquirir conocimientos prácticos y habilidades específicas en el desarrollo web..<br><br>- He adquirido habilidades para desarrollar el backend de manera efectiva. Esta oportunidad me brindó conocimientos prácticos en el servicio web.</td>
     </tr>

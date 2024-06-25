@@ -490,7 +490,7 @@ LandingPage Desplegado:  https://upc-appweb-bicasteam.github.io/upc-AppWeb-Bicas
 
 App Web Desplegado: https://upc-appweb-bicasteam.github.io/upc-AppWeb-BicasTeam-AppWeb.github.io/
 
-Web Service Desplegado: http://pierotarazona-001-site1.jtempurl.com/
+Web Service Desplegado: https://webapp-240624021848.azurewebsites.net/index.html
 
 Figma Landing Page: https://www.figma.com/file/oSwWYfZnNSnswDhg3Hj8Hi/BicasTeam-AppWeb?type=design&node-id=10%3A2&mode=design&t=swT32jkAXP4WhU5w-1
 
